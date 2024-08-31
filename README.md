@@ -48,10 +48,10 @@ El curso contribuye al cumplimiento del Student Outcome ABET: **ABET – EAC - S
 
 En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
 
-| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Alessandro Ramiro Condori Lozano** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br> | El Lean UX Process es una herramienta valiosa para desarrollar software basado en las necesidades del usuario. Al centrarse en usuarios y realizar iteraciones frecuentes, podremos desarrollar productos de software más útiles, atractivos y eficientes. <br> Gracias a experiencias previas de redacción de historias de usuario, algunas, referentes a funcionalidades básicas, han sido rescatadas y adaptadas de proyectos anteriores, lo que nos permitió seguir puliendo trabajos anteriores. <br> Debido a estas evaluaciones en las entrevistas se logró determinar las necesidades importantes de los usuarios desde una perspectiva ética y profesional. |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Alessandro Ramiro Condori Lozano** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Ivan Jeanpierre La Madrid Lozano** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Jimena Alessandra Cossio Jimenez** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jose Manuel Pariona Lucas** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br> | Las entrevistas son una herramienta esencial para el needfinding en el desarrollo de software. Al hablar con los usuarios, hemos aprendido sobre dos nuevos segmentos objetivos definidos y pudimos identificar las necesidades en base a sus experiencias y opiniones. <br> Asimismo, conocer los competidores permiten la evaluación de un panorama más amplio en el desarrollo de la aplicación.                                                                                                                                                                                                                                                                  |
+| Criterio específico                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.    | **Diego Jesus Alonso Garay** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Favio Sebastian Landeo Simeón** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Gabriel Alejandro Rivera Ayala** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Farid Sebastian Briceño De La Cruz** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br> **Jeremy Alion Paucar Meneses** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br> | El Lean UX Process es una herramienta valiosa para desarrollar software basado en las necesidades del usuario. Al centrarse en usuarios y realizar iteraciones frecuentes, podremos desarrollar productos de software más útiles, atractivos y eficientes. <br> Gracias a experiencias previas de redacción de historias de usuario, algunas, referentes a funcionalidades básicas, han sido rescatadas y adaptadas de proyectos anteriores, lo que nos permitió seguir puliendo trabajos anteriores. <br> Debido a estas evaluaciones en las entrevistas se logró determinar las necesidades importantes de los usuarios desde una perspectiva ética y profesional. |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Diego Jesus Alonso Garay** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo I del trabajo final. <br><br> **Favio Sebastian Landeo Simeón** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo III del trabajo final. <br><br> **Jeremy Paucar Meneses** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo II del trabajo final. <br><br> **Gabriel Alejandro Rivera Ayala** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo IV del trabajo final. <br><br> **Farid Sebastian Briceño De La Cruz** <br> **_TB1:_** Mi principal avance fue realizar todo el capitulo V del trabajo final. <br><br>       | Las entrevistas son una herramienta esencial para el needfinding en el desarrollo de software. Al hablar con los usuarios, hemos aprendido sobre dos nuevos segmentos objetivos definidos y pudimos identificar las necesidades en base a sus experiencias y opiniones. <br> Asimismo, conocer los competidores permiten la evaluación de un panorama más amplio en el desarrollo de la aplicación.                                                                                                                                                                                                                                                                  |
 
 ---
 
@@ -249,31 +249,499 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 2.1 Competidores
 
+Dentro del mercado al que planeamos brindar una solución, pudimos identificar varios competidores que ofrecen una solución con un enfoque similar para la gestión agrícola. A continuación, resumiremos su solución de Software:
+
+**Agrobit:** Agrobit es una herramienta de gestión de gestión agrícola y ganadera que busca nuevas formas de producir alimentos de manera sustentable y rentable. Esta solución tiene como enfoque las grandes empresas. Su plataforma cuenta con funciones como, control de actividades, evolución de cultivos y monitoreo predictivo y trazabilidad y huella de carbono. <br>
+**Efemis:** Efemis es una plataforma digital para la gestión agricola, utiliza imagenes satelitales, predicciones del clima y sensores para controlar los costes y optimizar los costes de operaciones agricolas. Es una iniciativa creada por hispatec que cuenta con soluciones diferentes para el sector agrícola para tareas más especificas, sin embargo, Efemis es la principal.<br>
+**Agri:** Agri es un software especializado en el sector agrícola que permite gestionar órdenes de aplicación, control de faenas, cosecha y riego, entre otras funciones. Para acceder a sus servicios, el territorio agrícola debe ser revisado y categorizado por el tamaño del mismo, posteriormente se hace un cobro mensual que va desde 320 dólares para las pequeñas empresas agrícolas hasta 715 dólares para las empresas agrícolas grandes.<br>
+
 ### 2.1.1 Análisis competitivo
+
+¿Por que llevar a cabo este análisis?
+Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo
+
+| Nombre                   | [Agroges]                                                                                                                                                                                                                    | [Agrobit]                                                                                                                                                                                                                                                                                                                          | [Efemis]                                                                                                                                                  | [Agri]                                                                                                                      |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| Overview                 | Software de gestión agricola centrado en la capacitación del usuario que puede adaptarse a sus necesidades                                                                                                                   | Software enfocado en la gestión de procesos agrícolas y ganaderos con ayuda de herramientas de alta gama                                                                                                                                                                                                                           | Software de hispatec que gestiona procesos agrícolas utilizando herramientas de alta gama                                                                 | Agri es una solución de software latina que permite gestionar campos de cultivo de forma centralizada                       |
+| Ventaja Competitiva      | Esta aplicación está entrada en el usuario y su adaptabilidad, brindandole a este una opción cómoda al alcane de sus manos                                                                                                   | Uso de herramientas de alta gama como imagenes satelitales que son una alternativa que brinda una seguridad total                                                                                                                                                                                                                  | Este software modular, está diseñado para que el usuario quiera añadir más funcionalidades que se acoplen a sus necesidades                               | Empresa latinoamericana con la que los usuarios se sienten más cómodos                                                      |
+| Mercado Objetivo         | Nos enfocaremos en los pequeños y grandes agricultores que no hayan implementado tecnología para aligerar su carga laboral                                                                                                   | Se centra en el sector ganadero y agrícola que buscan implementar una solucion tecnológica con herramientas de gama alta, como imagenes satelitales                                                                                                                                                                                | Sector agrícola grande que busca una solución de software para agilizar procesos                                                                          | Está centrado en pequeñas, medianas y grandes empresas agrícolas                                                            |
+| Estrategias de marketing | Nos acercaremos a los empresarios agrícolas que no confían en la tecnología para que podamos demostrar la eficacia de esta                                                                                                   | Se promociona mediante publicidad como google ads, correos,etc.                                                                                                                                                                                                                                                                    | Utiliza publicidad y estrategias de marketing                                                                                                             | Agri usa sus redes sociales como Instagram y Linkedin para poder difundir sus propuestas de valor                           |
+| Productos y Servicios    | Ofrecemos una amplia variedad de recursos para el usuario como, control de inventario, predicciones del clima, sensores de humedad y temperatura, monitoreo de ventas, predicciones para las cosechas y un control de ventas | Cuenta con dos versiones, la ECO, una versión dedicada para una producción netamente sostenible, y la Enterprise, dedicada a conseguir el mayor beneficio económico para la empresa. Ambas opciones cuentan con planes de pago diferentes que varían, dandole a las grandes empresas agricolas más ventajas que a las más pequeñas | Efemis cuenta con un control de costos de operaciones, monitoreos de cumplimiento de normativas,gestion de actividades, tratamientos y riegos,entre otras | Agri cuenta con controles de faenas, compras y bodegaje, control de riego, entre otros.                                     |
+| Precios y Costos         | Planeamos cobrar una comisión por venta de productos, los usuarios podrán acceder a nuestros servicios sin mayor problema                                                                                                    | Agrobit cuenta con planes mensuales que rondan los 250 hasta los 1100 dólares                                                                                                                                                                                                                                                      | Cuenta con planes principalmente desde los 300 hasta los 900 euros mensuales                                                                              | Cuenta con 3 planes para los pequeños, medianos y grandes agricultores cuyos costos van desde los 320 hasta los 750 dólares |
+| Fortalezas               | Contamos con un software ágil, que se verá sujetos a cambios rápidos para acomodarnos a las necesidades del usuario                                                                                                          | Cuenta con una reputación y una clientela fiel                                                                                                                                                                                                                                                                                     | Es parte de una corporación grande que facilita acceso a herramientas de gama alta                                                                        | Cuenta con clientes en todo latinoamerica sobre todo Chile y Perú                                                           |
+| Debilidades              | Sujeta a pruebas                                                                                                                                                                                                             | Está cerrada a sus clientes habituales y los clientes nuevos no parecen interesados en su producto                                                                                                                                                                                                                                 | No cuenta con una gran cantidad de clientes, las reseñas no son buenas y está siendo dejada de lado                                                       | No parece querer modernizarse más allá de su estado actual                                                                  |
+| Oportunidades            | Muchas de las gestiones agrícolas en nuestro país son deficientes y gran parte de las cosechas son desperdiciadas, por ello el Perú es un país ideal para implementar agroges                                                | Dadas sus herramientas presenta una estabilidad que les permitiría desarrollarse más                                                                                                                                                                                                                                               | Cuenta con acceso a herramientas de gama alta que permiten el recopilado de información detallada para beneficio del usuario                              | Cuenta con el apoyo de clientes de más de un país por ello pueden expandirse por todo latinoamerica                         |
+| Amenazas                 | La implementación de herramientas costosas por parte de la competencia                                                                                                                                                       | Dado que el proceso de cotización es lento, muchos clientes prefieren buscar otras opciones                                                                                                                                                                                                                                        | Sus ventas se han visto reducidas                                                                                                                         | La creciente tecnología y el uso de la inteligencia artificial puede desplazar a muchas soluciones de software              |
 
 ### 2.1.2 Estrategias y tácticas frente a competidores
 
-## 2.2. Entrevistas
+Nos enfocaremos en el sector que no cuenta con tecnología, brindando una solución accesible e intuitiva para que personas que no están familiarizadas con el apartado tecnológico puedan dominar para el uso eficiente de sus recursos.
+<br><br>
+**Estrategia general**: Diferenciacición <br>
+**Objetivo principal:** Destacar ante la competencia enfocandonos en hacer un producto que pueda satisfacer necesidades específicas de nuestros segmentos objetivos.
+<br> <br>
+**Estrategias Clave:**<br>
 
-### 2.2.1. Diseño de entrevistas
+<ul>
+    <li>Enfoque al usuario: Concentrarse en hacer mejoras basadas en lo que nuestros clientes soliciten </li>
+    <li>Control de usuarios: Nuestra aplicación contará con una red interconectada de 
+        usuarios en las que se puede llevar un control de los trabajadores bajo el mando del usuario administrador</li>
+</ul>
 
-### 2.2.2. Registro de entrevistas
+## 2.2 Entrevistas
 
-### 2.2.3. Análisis de entrevistas
+### 2.2.1 Diseño de entrevistas
 
-## 2.3. Needfinding
+**Segmento 1: Agricultores**<br>
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarollaste en tu trabajo?<br/>
+¿Que navegador web usa más?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Podría brindarnos una frase que describa su situación?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
-### 2.3.1. User Personas
+**Segmento 2: Consultores**<br>
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
-### 2.3.2. User Task Matrix
+### 2.2.2 Registro de entrevistas
 
-### 2.3.3. User Journey Mapping
+Segmento 1: Pymes Agrícolas <br/>
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/Edx3xkDKW8FLkz7rlFUToxsB3CrkBqPzBfs67F99S_8i8w?e=j6bgfj<br/>
 
-### 2.3.4. Empathy Mapping
+**Entrevistado 1:** Roberto Hoyos Gutierrez <br/>
 
-### 2.3.5. As-is Scenario Mapping
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/52e7323b-cf1d-4dfd-8cba-07e29adff6dd)
 
-## 2.4. Ubiquitous Language
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Roberto hoyo Gutiérrez, 60 años y exporto manzana golden
+
+<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy introvertido no suelo abrirme mucho con las personas ya que soy reservado
+
+<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?
+
+5 años cultivando fruta
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+
+No, para mí es un poco como que distraída
+
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+La distraccion y quiero seguir con la tradicion familiar.
+
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo?
+
+Tengo habilidades en el campo y en cuidado de cultivos
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+word
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+Cultivar sirve para relajarnos
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Tener mas cosechas en el año
+
+<br/>
+
+Roberto Hoyo Gutiérrez, de 60 años, es un agricultor introvertido que se dedica a la exportación de manzanas Golden desde hace 5 años. A pesar de su reserva, encuentra en la agricultura una distracción y desea continuar con la tradición familiar. Ha desarrollado habilidades en el cuidado de cultivos y en el trabajo de campo. Utiliza principalmente Google como navegador web y prefiere Word para sus necesidades de software. Su motivación radica en mantener la tradición familiar y aumentar la cantidad de cosechas en el año. No encuentra frustraciones significativas en su labor, considerándola más bien como una distracción.
+
+</br>
+
+**Entrevistado 2:** Hernan Delgado <br/>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b991f330-0226-4307-a1a0-f9cebacefb10)
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Hernán Delgado, 30 y generalmente estamos en el tema de cultivo de maíz.
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Extrovertido ,soy abierto a las personas.
+
+<br/>
+¿Cuanto tiempo llevas trabajando como agricultor?
+
+Tenemos como 10 años trabajando en ese sector
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+
+Digamos que es una tarea de que tienes que tener bastante cuidado en el tema del cuidado de la planta, y en los tiempos y en el proceso que lo hace, después digamos es un trabajo que lo puedes sobrellevar
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+La ganancia y ademas me relaja cuando salgo a cosechar ya que el trabajo suele ser estresante
+
+<br/>
+¿Que habilidades desarollaste en tu trabajo?
+
+Puedo ver el clima que se aproxima segun el cambio de las nubes y tambien identifico tipos de plagas
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+World, porque es mas practico
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+Cultivar es un trabajo duro pero tiene grandes recompensas
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Expandir mi pequeña empresa agraria en una grande.
+<br/>
+
+Hernán Delgado, de 30 años, es un agricultor dedicado al cultivo de maíz desde hace 10 años. Se describe como extrovertido y abierto a las personas. Aunque disfruta de su trabajo, encuentra desafíos en el cuidado de las plantas y la gestión del tiempo. Sin embargo, encuentra motivación en las ganancias y el aspecto relajante de la cosecha. Ha desarrollado habilidades para prever el clima y controlar plagas. Prefiere el navegador Google y utiliza Word por su practicidad. Su frase característica es "Cultivar es un trabajo duro pero tiene grandes recompensas". Su meta es expandir su pequeña empresa agraria hacia una más grande.
+
+</br>
+
+**Entrevistado 3:** Tony Pariona Quispe <br/>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/6601b9d0-fba4-4dc4-aaa4-53ef2b68fc88)
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Tony Pariona, 30 años, se dedicaba a la exportacion
+
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy una extrovertido y una persona abierta al cambio y estoy abierta a la nueva tecnologia.
+
+<br/>
+
+¿Cuanto tiempo llevas trabajando como agricultor?
+
+5 años
+
+<br/>
+¿Existe algo que te frustre de la agricultura,algo que se te dificulte?
+
+Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera y prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
+
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+Por ahora no estoy trabajanndo ya que encontre otras actividades que me gustan
+
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo?
+
+Descubri el clima del dia segun como se vea por la mañana ademas puedo identificar que terrenos estan buenos para cultivo.
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+Excel
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+no, tengo una actualmente
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Poder tener mas terrenos de cultivos para expandirme
+
+<br/>
+
+Tony Pariona, de 30 años, se dedicaba a la exportación agrícola antes de explorar otras actividades. Se describe como una persona abierta al cambio y a la tecnología. Con 5 años de experiencia en la agricultura, busca implementar programas para gestionar y prevenir situaciones en el campo de manera más eficiente. Su motivación actual no está en la agricultura. Ha desarrollado habilidades para interpretar el clima y identificar terrenos adecuados para el cultivo. Utiliza principalmente Google como navegador y prefiere Excel para el software. Su meta es expandirse y adquirir más terrenos de cultivo. No tiene una frase que describa su situación actualmente.
+
+<br/>
+
+Segmento 2: Consultores Agricolas
+**Link:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211212_upc_edu_pe/EWEWBLqpVrVItszq7FBwqSoB8N2oC5DFOArBkD63N4UpAA?e=4NWY4X&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D <br/>
+
+**Entrevistado 1:** Luis Carlos Cruz <br/>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/b6e732d7-9d2e-4c40-91b0-204a4b68715c)
+
+<br/>
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Luis Carlos Cruz , 30 años , me dedico al cultivo de maiz
+
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy extrovertido
+
+<br/>
+
+¿Cuanto tiempo llevas trabajando en la consultoria?
+
+Llevo trabajando 22 años
+<br/>
+¿Existe algo que te frustre de la consultaria ,algo que se te dificulte?
+
+No disfruto hacieno el trabajo
+
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+Mi negocio con el terreno de mi cultivo
+
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo de consultor?
+
+Controlar o prevenir los peligros ambientales o ciertos problemas que pueda haber al momento de cultivar
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+word
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+El trabajo en la cosecha es divertido
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Hacer crecer mi negocio y adaptarme a la nueva tecnologia
+
+<br/>
+
+<br/>
+
+Luis Carlos Cruz, de 30 años, se dedica al cultivo de maíz y lleva 22 años trabajando en consultoría, aunque no disfruta particularmente ese trabajo. Su motivación principal proviene de su negocio en el terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir problemas ambientales en la agricultura. Utiliza principalmente Google como navegador web y prefiere Word para el software. Describe el trabajo en la cosecha como divertido y tiene como meta hacer crecer su negocio y adaptarse a la nueva tecnología.
+
+**Entrevistado 3:** Miguel Angel de la Cruz <br/>
+
+Transcripcion:<br>
+
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?<br/>
+Me llamo Miguel Angel de la Cruz, tengo 49 años y me dedioo a la consultoría agricola
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+Soy extrovertido, me gusta mucho rodearme de gente y convivir con ellos
+
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+Este año cumplo 8 años ya trabajando
+
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+Los clientes imprudentes, siempre que recomiendo usar por ejemplo un pesticida en particular, terminan usando uno más barato para ahorrar costos y terminan peor
+
+¿Que te motiva a seguir trabajando?<br/>
+Los clientes fieles que tengo, son parte de mi familia practicamente
+
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+Las habilidades sociales y mi conocimiento fueron las que más fortalecí, es importante poder identificar y comunicar problemas desde el momento que aparecen para evitar problemas a futuro
+
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+Solo uso google chrome
+
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+Todos los informes los hago en documentos de google, drive me ayudó mucho a mi resolución de problemas
+
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
+Me gustaría llegar a más clientes para poder ayudar con sus cultivos
+
+**Resumen**:<br>
+Luego de la entrevista con Miguel podemos darnos cuenta que el es una persona muy dedicada a su trabajo, quien quiere conectarse más con sus clientes para así brindarles más información, por lo que podemos enfocarnos en satisfacer necesidades como las suyas, de modo que podemos brindar apoyo a sus
+
+**Entrevistado 2:** Jesus Alvarado <br/>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/31d85574-3d67-4879-8572-2889e14862c5)
+
+¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?
+
+Jesús Alvarado, tengo 28 años y bueno, estudié la carrera de ingeniería ambiental
+<br/>
+
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?
+
+Soy reservado
+
+<br/>
+
+¿Cuanto tiempo llevas trabajando en la consultoria?
+
+Hace 2 años me estaba encargando como soy ingeniero ambiental
+
+<br/>
+¿Existe algo que te frustre de la consultaria ,algo que se te dificulte?
+
+Sí me gustaría implementar que se llama ese tipo de programa para poder llevar un manejo de la mejor manera Y prevenirme de algunas otros tipos de de situaciones que pueda pasar en el campo, yo creo que debería ser un poco más fácil de manejo.
+
+<br/>
+
+¿Que te motiva a seguir trabajando?
+
+Mi familia que tiene un un terreno de cultivo
+
+<br/>
+
+¿Que habilidades desarollaste en tu trabajo de consultor?
+
+Controlar o prevenir los peligros ambientales o ciertos problemas que pueda haber al momento de cultivar
+
+<br/>
+¿Que navegador web usa más?
+
+Google
+
+<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?
+
+Excel
+
+<br/>
+¿Podría brindarnos una frase que describa su situación?
+
+no, tengo una actualmente
+
+<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?
+
+Mejorar y que siga creciendo el el negocio familiar
+
+<br/>
+
+Esta persona es un consultor que antes trabajaba como ingeniero ambiental, lleva 2 años en la agricultura. Está interesado en implementar programas para mejorar la gestión y prevenir problemas en el campo. Su principal motivación es su familia, que tiene un terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir peligros ambientales en la agricultura. Utiliza Google como navegador web y prefiere Excel para el software. Su meta es mejorar y hacer crecer el negocio familiar en la agricultura.
+<br/>
+
+### 2.2.3 Análisis de entrevistas
+
+De las entrevistas sacamos esta conclusion final:
+
+Los entrevistados esperarían de una app de agricultores una herramienta integral que les permita gestionar eficientemente sus cultivos, anticipar y prevenir problemas, y optimizar sus procesos agrícolas. Buscarían funcionalidades que les ayuden a monitorear el clima, controlar plagas y enfermedades, gestionar el tiempo y los recursos de manera efectiva, así como acceder a información actualizada sobre técnicas de cultivo y mejores prácticas. Además, esperarían una plataforma que fomente la colaboración y el intercambio de conocimientos entre agricultores, así como la posibilidad de realizar seguimiento de sus cosechas y ventas. En resumen, anhelarían una aplicación que les brinde las herramientas necesarias para mejorar la productividad, reducir riesgos y aumentar sus beneficios en el campo.
+
+Estadisiticas:
+De los agricultores tenemos estos datos:
+
+![Segmento 1](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/9fff30e7-33e3-4ff4-9432-d19f827ca2bb)
+
+De los consultores obtuvimos la siguiente data:
+
+![Segmento 2](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d6013c0a-1855-41aa-8f7f-41da875b9b85)
+
+## 2.3 Needfinding
+
+### 2.3.1 User Personas
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/d1b9c7b7-5560-45b4-bdbc-9480febfa54e)
+![Aldo Gomez (1)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/34c610b6-7f97-4219-b674-bb88e6f17a8d)
+
+### 2.3.2 User Task Matrix
+
+<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Aldo Gomez</i></b></th><th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th></tr>
+<tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
+<tr><td>planificar el cultivo de la temporada</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>comunicarse contrabajadores</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>Revision de pronostico del clima</td><td><b><i>alta</i></b></td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>riego de plantas </td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>Identificación de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
+<tr><td>peaje de cosechas</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td></tr>
+</table>
+
+### 2.3.3 User Journey Mapping
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/157068395/5afafc77-48b5-4ca8-944e-c2f3da2b3cff)
+
+![o](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/129196278/d25505f2-cb75-47a3-bb2b-6bf61fb8c562)
+
+### 2.3.4 Empathy Mapping
+
+![Empathy map](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/f9463189-1469-4d0d-9264-d7a4fabf67b8)
+
+![Empathy map (1)](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/2c24b05a-63b3-4296-a82f-e83f6fe5f855)
+
+### 2.3.5 As-is Scenario Mapping
+
+User persona 1: <br>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/92994521-e4c2-4e51-b19f-a1b4cc74b82d)
+
+User persona 2: <br>
+
+![image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/102195498/748315a2-86a9-408a-b8c2-f3b2d8b18fb9)
+
+## 2.4 Ubiquitous Language
+
+Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser entendido en cualquier parte, esta sección tiene como intención permitirle a personas sin vocabulario de un Ingeniero de software puedan entender. A continuación, mostraremos un glosario con contenido de este proyecto:
+
+<ul>
+  <li> Crop: El significado literal es cultivo y usaremos el término como entidad, servicio y componente durante el desarrollo del código. </li>
+  <li> Employee: Significa empleado y lo estaremos usando para realizar entidades, servicios y componentes. </li>
+  <li> Humidity: Traducido al español significa humedad y se utilizará para saber la humedad del cultivo.  </li>
+  <li> Soil: Se refiere a la parte superior del suelo donde se plantan cultivos. Es un elemento sustancial para la agricultura. </li>
+  <li> Harvest: El proceso de recoger cultivos madurados de los campos de cultivo. </li>
+  <li> Irrigation: La aplicación artificial de agua a la tierra para ayudar en la producción de cultivos. </li>
+  <li> Fertilizer: Sustancias que se aplican al suelo del cultivo para incrementar su fertilidad y rendimiento. </li>
+  <li> Pesticide: Son químicos utilizados para controlar, repeler y/o eliminar pestes del cultivo. </li>
+  <li> Crop rotation: Es la práctica de cultivar diferentes tipos de plantas al mismo tiempo en el mismo área en estaciones secuenciales. </li>
+  <li> Fumigation: Es un método de control de pestes o de eliminar microorganismos dañinos en un área específico mediante gases pesticidas. </li>
+  <li> Germination: Significa el comienzo del crecimiento, ya sea de una semilla, espora o brote, en respuesta a la temperatura correcta y agua. </li>
+  <li> Crop rotation: Es la práctica de cultivar diferentes tipos de plantas al mismo tiempo en el mismo área en estaciones secuenciales. </li>
+
+</ul>
+
+---
 
 # Capítulo III: Requirements Specification
 
@@ -386,14 +854,4 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 # Bibliografía
 
-- App recomendada: Abogado Ágil | Microjuris Argentina al Día. (2018, August 30). AL DÍA | ARGENTINA. https://aldiaargentina.microjuris.com/2018/08/30/app-recomendada-abogado-agil/
-- Home - LegalHelp. (2023, November 30). LegalHelp. https://legalhelp.pe/
-  Soporte Xubium. (2021, December 9). Abogado: Haga crecer su negocio | Linkea tu Abogado. Linkea Tu Abogado. https://linkeatuabogado.com/marketing-para-abogados/
-- Vallecilla, C. (21 de marzo del 2024). El desempleo en Perú dic. 2023 - feb. 2024 no varió, pero se recuperaron casi 640 mil empleos. tyba- ¡La app de las inversiones en el Perú! https://tyba.pe/blog/tasa-de-desempleo-en-peru-dic-2023-feb-2024/
-
----
-
 # Anexos
-
-- Link a los esquemas en Figma - Landing Page: https://www.figma.com/design/khfydyhKAfHsBwvOYVAqXY/WEB---OPEN---TRABAJO-FINAL?node-id=48-106&t=ZNma6PcQiAmJraK7-1
-- Link a los esquemas en Figma - Web Application: https://www.figma.com/design/q0YtVInNQKAmcOW8yNS6Co/Web-Application---Open-y-Web---TF?node-id=1-34&t=ZNma6PcQiAmJraK7-1
