@@ -371,82 +371,144 @@ Hipótesis 3:
 **Creemos que** * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola * **Sabremos que** * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
 
 #### 1.2.2.4. Lean UX Canvas
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
 
-<table border="1">
-  <tr>
-    <td rowspan="2"><strong>Lean UX Canvas</strong></td>
-    <td rowspan="2"></td>
-    <td><strong>Fecha:</strong> 16/04/2024</td>
-  </tr>
-  <tr>
-    <td><strong>Iteración 1</strong></td>
-  </tr>
-  <tr>
-    <td rowspan="2"><strong>1. Problema de negocios:</strong><br><br> Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climáticos y plagas, lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.</td>
-    <td rowspan="2"><strong>5. Ideas de solución:</strong><br><br>Desarrollar una aplicación que integre seguimiento en tiempo real, monitorización del clima, y aviso de plagas.</td>
-    <td rowspan="2"><strong>2. Resultados comerciales:</strong><ul><li>Mejora en la calidad del producto</li><li>Reducción de pérdidas y desperdicios</li><li>Aumento de la satisfacción del cliente</li></ul></td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td><strong>3. Usuarios y Clientes:</strong><br><br>Pequeñas empresas y grandes empresas agrícolas.</td>
-  </tr>
-  <tr>
-    <td rowspan="2"><strong>6. Hipótesis</strong><br><br><strong>Hipótesis 1:</strong><br><em>Creemos que</em> al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola <br><em>Sabremos que</em> los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados.<br><br><strong>Hipótesis 2:</strong><br><em>Creemos</em> que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real <br><em>Sabremos que</em> los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha.<br><br><strong>Hipótesis 3:</strong><br><em>Creemos que</em> al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola <br><em>Sabremos que</em> los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas.</td>
-    <td rowspan="2"><strong>7. ¿Qué es lo más importante que debemos aprender primero?</strong><br><br>Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.</td>
-    <td><strong>4. Beneficios del usuario:</strong><ul><li>Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.</li><li>Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.</li></ul></td>
-  </tr>
-  <tr>
-    <td><strong>8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?</strong><br><br>La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.<br><br>Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio.</td>
-  </tr>
-</table>
+**Lean UX Canvas**
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha:** 16/04/2024
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**Iteración 1**
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**
+        
+Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climaticos y plagas , lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**
+Desarrollar una aplicacion que integre seguimiento en tiempo real , monitorización del clima, y aviso de plagas.
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**
+- Mejora en la calidad del producto
+- educción de pérdidas y desperdicios
+- Aumento de la satisfacción del cliente
+
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Usuarios y Clientes:**
+pequeñas empresas y grandes empresas agrícolas.
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+
+
+Hipótesis 1:
+***Creemos que** *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola *
+**Sabremos que** *los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados *
+
+Hipótesis 2:
+***Creemos*** * que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real *
+**Sabremos que** *los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha *
+
+Hipótesis 3:
+***Creemos que** * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola *
+**Sabremos que** * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
+</TD>
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**
+
+Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.
+</TD> 
+
+<TD>
+
+**4. Beneficios del usuario:**
+
+- Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.
+- Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+        
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+
+Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
+
+</TD> 
+	</TR>
+</TABLE>
+
 
 ---
 
 ## 1.3 Segmentos objetivo
+<TABLE BORDER>
+	<TR>
+		<TD>
 
-<table border="1">
-  <tr>
-    <td><strong>Tipo de usuario</strong></td>
-    <td><strong>Geográfico</strong></td>
-    <td><strong>Psicográfico</strong></td>
-    <td><strong>Demográfico</strong></td>
-  </tr>
-  <tr>
-    <td>Pequeños y Grandes Agricultores</td>
-    <td>Puede estar ubicado en cualquier campo o zona de cultivo.</td>
-    <td>
-      <ul>
-        <li>Busca mejorar la eficiencia y calidad de su producción.</li>
-        <li>Creativo y curioso.</li>
-        <li>Desea apoyo en su cultivo.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Edad: desde adultos jóvenes hasta adultos mayores.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>Consultores</td>
-    <td>Especializados en el rubro agrícola.</td>
-    <td>
-      <ul>
-        <li>Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.</li>
-        <li>Desea estar atento a las peticiones de contrato y ayuda de los clientes.</li>
-        <li>Le gusta ver que sus clientes salgan satisfechos con sus consejos.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Edad: Desde adultos jóvenes hasta adultos mayores.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+**Tipo de usuario**</TD> <TD>
 
-![AgroGes Image](https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a)
+**Geográfico** </TD> <TD>
 
+**Psicográfico**</TD> <TD>
+
+**Demográfico**</TD>
+</TR>
+	<TR>
+		<TD> Pequeños y Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+        <TD>
+
+- Busca mejorar la eficiencia y calidad de su producción.
+- Creativo y curioso. 
+- Desea apoyo en su cultivo
+</TD> 
+<TD>
+
+- Edad: desde adultos jovenes hasta adultos mayores.
+
+</TD>
+	</TR>
+    <TR>
+		<TD> Consultores </TD> <TD> Especializados en el rubro agrícola.</TD> 
+        <TD>
+
+- Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
+- Desea estar atento a las peticiones de contrato y ayuda de los clientes.
+- Le gusta ver que sus clientes salgan satisfechos con sus consejos.
+</TD> <TD>
+
+- Edad: Desde adultos jóvenes hasta adultos mayores.
+</TD>
+	</TR>
+  
+</TABLE>
+
+
+<img src="https://github.com/upc-pre-SI729-2401-SW51-Lux/AgroGes/assets/130100844/5ba1adc0-97a6-4fb3-9bb3-0f1a1e1f163a" width="500"/>
 
 
 
