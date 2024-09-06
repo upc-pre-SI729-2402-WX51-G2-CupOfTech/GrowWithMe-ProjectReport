@@ -227,11 +227,24 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de concl
 
 ## 1.1. Startup Profile
 
+Nuestro proyecto se centra en proporcionar una solución que optimice la gestión de productos agrícolas, mejore la calidad de la producción y facilite las operaciones para los productores en la industria agrícola.
+
 ### 1.1.1 Descripción de la Startup
+
+Nuestro proyecto agrícola surge de la identificación de una necesidad insatisfecha en la gestión de productos agrícolas ya que los agrícolas enfrentan desafíos en la gestión de sus productos y operaciones, por lo que hemos visto una oportunidad para aplicar este software y así mejorar la eficiencia y la calidad en las operaciones para los productores agrícolas.
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
+- Diego Jesus Alonso Garay
+- 
+
 ## 1.2 Solution Profile
+
+Se encuentra compuesta por 2 secciones:
+
+- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
+
+- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio.
 
 ### 1.2.1 Antecedentes y problemática
 
