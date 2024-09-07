@@ -301,74 +301,9 @@ El impacto económico puede variar según el alcance y la implementación de las
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-El desafío de los agricultores esta en la monitorización del crecimiento de cultivos, ya que la falta de herramientas efectivas para monitorear el crecimiento de los cultivos dificulta la identificación temprana de problemas, como condiciones climáticas adversas, lo que resulta en pérdidas de cosechas y disminución de la calidad de los productos, por otro lado Los productores agrícolas luchan por optimizar sus operaciones debido a la falta de herramientas, desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para aumentar la eficiencia y la productividad
-
 #### 1.2.2.2. Lean UX Assumptions
 
-Features
-- Herramientas de monitorización del crecimiento de cultivos: Sensores agrícolas para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
-
-- Plataforma integrada de gestión agrícola: Suite de herramientas que abarca la planificación de cultivos, gestión de la mano de obra, monitoreo de inventario, programación de riego, y seguimiento de costos y funcionalidades de análisis de datos para identificar áreas de mejora y optimizar la eficiencia operativa en todas las etapas de la producción agrícola.
-
-Business Outcomes
-- Mejora de la eficiencia operativa: Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos agrícolas mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
-
-- Aumento de la rentabilidad: Reducción de las pérdidas debido a errores en la gestión de inventario, enfermedades de cultivos no detectadas y problemas logísticos y mejora de la productividad y la calidad de los productos agrícolas, lo que puede traducirse en mayores márgenes de beneficio para los productores.
-
-- Reducción de riesgos y cumplimiento normativo: Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
-
-Users
-Los usuarios son productores agrícolas, empresas agroindustriales grandes y pequeñas y expertos en agricultura.
-
-User Outcomes & Benefits
--Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
-
--Empresas agroindustriales grandes y pequeñas: Empresas dedicadas al procesamiento, envasado y distribución de productos agrícolas, incluyendo cooperativas y asociaciones de productores.
-
--Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
-
-User assumptions
-¿Quién es el usuario?
-El usuario es típicamente un productor agrícola o un gerente de una empresa agroindustrial que busca mejorar la eficiencia y calidad de la producción agrícola.
-
-¿Dónde encaja nuestro producto en sus trabajos o vidas?
-Nuestro producto encaja en su día a día al facilitar la gestión de productos agrícolas, desde el cultivo hasta la distribución, optimizando operaciones y mejorando la calidad del producto final.
-
-¿Qué problema resuelve nuestro producto?
-Nuestro producto resuelve problemas como la ineficiencia en la gestión de inventario, y la dificultad para monitorear el crecimiento de cultivos, mejorando la eficiencia operativa y la calidad de la producción agrícola.
-
-¿Cuándo y cómo es usado nuestro producto?
-Nuestro producto es utilizado a lo largo de todo el ciclo de producción agrícola, desde la planificación de cultivos hasta la distribución, a través de una plataforma digital accesible desde dispositivos móviles o computadoras.
-
-¿Qué características son importantes?
-Las caracteristicas de seguimiento de la cadena de suministro en tiempo real, gestión automatizada de inventario, herramientas de monitorización de cultivos, trazabilidad de productos, y análisis de datos para la toma de decisiones informadas.
-
-¿Cómo debería verse y comportarse nuestro producto?
-Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y herramientas de análisis poderosas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
-
-Business Assumptions
-1. Creemos que nuestros clientes necesitan una solución que les permita gestionar eficientemente sus operaciones agrícolas, desde el cultivo hasta la distribución, mejorando la eficiencia y la calidad de la producción.
-2. Estas necesidades se pueden resolver con una plataforma digital que integre funciones de seguimiento del clima, gestión de inventario, monitorización de cultivos y análisis de datos, proporcionando herramientas poderosas para la toma de decisiones informadas.
-3. El valor #1 que mi cliente quiere de mi servicio es la mejora en la eficiencia operativa y la calidad de la producción agrícola, lo que les permite maximizar los rendimientos y la rentabilidad.
-4. El cliente también puede obtener beneficios adicionales como un mejor manejo de sus cultivos ya que estaran atentos del clima y plagas y sabran como tratarlas.
-5. Voy a adquirir la mayoría de mis clientes a través de campañas de marketing dirigidas a productores agrícolas y redes sociales.
-6. Haré dinero a través de modelos de suscripción mensual o anual por el uso de nuestra plataforma.
-7. Mi competencia principal en el mercado son otras soluciones de gestión agrícola existentes, tanto tradicionales como digitales.
-8. Los venceremos debido a la simplicidad .y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente
-9. El mayor riesgo es que los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnollogico.
-10. Resolveremos esto a través de demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
-
 #### 1.2.2.3. Lean UX Hypothesis Statements
-
-*Creemos que *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola * Sabremos que *los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados *
-
-### Hipótesis 2:
-Creemos * que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real * Sabremos que *los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha *
-
-### Hipótesis 3:
-
-Hipótesis 3:
-*Creemos que * al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola * Sabremos que * los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas *
 
 #### 1.2.2.4. Lean UX Canvas
 
