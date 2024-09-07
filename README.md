@@ -372,11 +372,6 @@ Hipótesis 3:
 
 #### 1.2.2.4. Lean UX Canvas
 
-
-## 1.3 Segmentos objetivo
-
-
-
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
@@ -388,6 +383,16 @@ Dentro del mercado al que planeamos brindar una solución, pudimos identificar v
 **Agri:** Agri es un software especializado en el sector agrícola que permite gestionar órdenes de aplicación, control de faenas, cosecha y riego, entre otras funciones. Para acceder a sus servicios, el territorio agrícola debe ser revisado y categorizado por el tamaño del mismo, posteriormente se hace un cobro mensual que va desde 320 dólares para las pequeñas empresas agrícolas hasta 715 dólares para las empresas agrícolas grandes.<br>
 
 ### 2.1.1 Análisis competitivo
+
+| **Lienzo de experiencia de usuario optimizada** | **Fecha:** 16/04/2024 | **Iteración:** 1 |
+|-------------------------------------------------|-----------------------|------------------|
+| **1. Problema de negocios:**                    | **2. Resultados comerciales:** | **3. Usuarios y Clientes:** |
+| Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climáticos y plagas, lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas. | - Mejora en la calidad del producto. <br> - Reducción de pérdidas y desperdicios. <br> - Aumento de la satisfacción del cliente. | Pequeñas empresas y grandes empresas agrícolas. |
+| **4. Beneficios del usuario:**                  | **5. Ideas de solución:** | **6. Hipótesis:** |
+| - Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas. <br> - Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro. | Desarrollar una aplicación que integre seguimiento en tiempo real, monitorización del clima y aviso de plagas. | **Hipótesis 1:** Creemos que *al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola*, los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados. <br> **Hipótesis 2:** Creemos que *al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real*, los productores podrán identificar y abordar de manera proactiva los problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha. <br> **Hipótesis 3:** Creemos que *al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola*, los productores podrán tomar decisiones más informadas y estratégicas, mejorando la eficiencia y la rentabilidad de sus operaciones agrícolas. |
+| **7. ¿Qué es lo más importante que debemos aprender primero?** | **8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?** | |
+| Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas. | La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, deseos y expectativas. Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente los desafíos y problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio. | |
+
 
 ¿Por que llevar a cabo este análisis?
 Debemos llevar a cabo este análisis para poder saber en que se especializan nuestros competidores directos y poder encontrar algún aspecto en el que podamos destacar y llamar la atención del mercado objetivo
