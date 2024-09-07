@@ -248,55 +248,6 @@ Se encuentra compuesta por 2 secciones:
 
 ### 1.2.1 Antecedentes y problemática
 
-### Antecedentes:
--Creciente demanda de alimentos debido al aumento de la población mundial.
-
--Necesidad de aumentar la productividad agrícola para satisfacer esta demanda.
-
--Desafíos asociados con el cambio climático y la sostenibilidad.
-
--Dificultad para monitorear y optimizar el crecimiento de los cultivos.
-
--Preocupaciones sobre la calidad y seguridad de los productos.
-
-### Problemática (5Ws y 2Hs)
-### What/Qué
-¿Cuál es el problema?
-La gestión de productos agrícolas y la optimización de operaciones para productores en la industria agrícola.
-
-### Where / Dónde
-¿Dónde está el usuario cuando usa el producto?
-En áreas rurales y regiones agrícolas, campos de cultivos o huertas.
-
-¿Dónde surge el problema?
-En las grandes y pequeñas empreas agricolas , asi como agricolas independientes.
-
-### Why / Por Qué
-¿Cuál es la causa del problema?
-Debido a la creciente demanda de alimentos, la necesidad de aumentar la productividad agrícola y los desafíos asociados con el cambio climático y la sostenibilidad.
-
-### When / Cuándo
-¿Cuándo sucede el problema?
-Cuando la población mundial está en constante crecimiento y la presión sobre la producción agrícola es cada vez mayor debido a factores como el cambio climático
-
-### Who / Quién
-¿Quiénes están involucrados?
-Productores agrícolas, empresas grandes y pequeñas del sector agroindustrial.
-
-### How / Cómo
-¿En qué condiciones los usuarios usan nuestro producto?
-Utilizando celulares, tablets, donde tienen colaboraciones con expertos en agricultura y desarrollo de soluciones personalizadas.
-
-¿Cómo nos conoceran los usuarios?
-Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
-
-- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
-- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
-- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
-  
-### How much / Cuánto
-El impacto económico puede variar según el alcance y la implementación de las soluciones propuestas, pero el potencial de mejora en eficiencia y calidad es significativo.
-
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
