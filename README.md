@@ -144,12 +144,14 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
             - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
     - [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografia)
+- [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
          
 ---
 
 # Student Outcome
+**ABET – EAC - Student Outcome 3**
+Capacidad de comunicarse efectivamente con un rango de audiencias. <br>
 <table>
     <tr>
         <th style="text-align:center;">Criterio específico</th>
