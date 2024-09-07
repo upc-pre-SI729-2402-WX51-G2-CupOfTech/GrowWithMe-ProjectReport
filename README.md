@@ -281,11 +281,14 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 **Segmento 2: Consultores agrícolas** <br>
 
+
 ### 2.2.3 Análisis de entrevistas
 De las entrevistas sacamos esta conclusion final:
 
 ## 2.3 Needfinding
 ### 2.3.1 User Personas
+![UserPersonFarmer](assets/UserPersonaFarmer.png)
+![UserPersonaConsultant](assets/UserPersonaConsultant.png)
 
 ### 2.3.2 User Task Matrix
 <table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Aldo Gomez</i></b></th><th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th></tr>
@@ -300,10 +303,22 @@ De las entrevistas sacamos esta conclusion final:
 </table>
 
 ### 2.3.3 User Journey Mapping
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![UserJourneyFarmer](assets/UserJourneyFarmer.png) <br>
+**Segmento 2: Consultores agrícolas** <br>
+![UserJourneyConsultant](assets/UserJourneyConsultant.png)
 
 ### 2.3.4 Empathy Mapping
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![EmpathyMapFarmer](assets/EmpathyMapFarmer.png) <br>
+**Segmento 2: Consultores agrícolas** <br>
+![EmpathyMapConsultant](assets/EmpathyMapConsultant.png)
 
 ### 2.3.5 As-is Scenario Mapping
+**Segmento 1: Agricultores y pymes agrícolas** <br>
+![AsIsMapFarmer](assets/AsIsMapFarmer.png)
+**Segmento 2: Consultores agrícolas** <br>
+![AsIsMapConsultant](assets/AsIsMapConsultant.png)
 
 ## 2.4 Ubiquitous Language
 Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser entendido en cualquier parte, esta sección tiene como intención permitirle a personas sin vocabulario de un Ingeniero de software puedan entender. A continuación, mostraremos un glosario con contenido de este proyecto:
@@ -324,9 +339,9 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 # Capítulo III: Requirements Specification
 ## 3.1 To-Be Scenario Mapping
 **Segmento 1: Agricultores y pymes agrícolas** <br>
-
+![ToBeMapFarmer](assets/ToBeMapFarmer.jpg)
 **Segmento 2: Consultores agrícolas** <br>
-
+![ToBeMapConsultant](assets/ToBeMapConsultant.jpg)
 
 ## 3.2 User Stories
 | **ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
@@ -355,7 +370,9 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 | US015    | Explorar Testimonios o Casos de Éxito | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio. | - Dado que soy un visitante, cuando busco testimonios o casos de éxito, entonces debo encontrar testimonios reales o estudios de caso. - Dado que soy un visitante, cuando leo un testimonio o caso de éxito, entonces debo encontrar información relevante y convincente. - Dado que soy un visitante, cuando leo los testimonios o casos de éxito, entonces debo sentir confianza en el sitio y sus productos/servicios. | EPIC006 |
 
 ## 3.3 Impact Mapping
-
+![ImpactMap1](assets/ImpactMap1.png) <br>
+![ImpactMap2](assets/ImpactMap2.png) <br>
+![ImpactMap3](assets/ImpactMap3.png) <br>
 
 ## 3.4 Product Backlog
 
