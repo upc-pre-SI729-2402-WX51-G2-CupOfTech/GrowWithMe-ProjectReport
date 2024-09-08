@@ -444,17 +444,17 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 
 ### Hipótesis 1
 
-**\*Creemos que** al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola
+**Creemos que** al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola
 **Sabremos que** los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados
 
-### Hipótesis 2:
+### Hipótesis 2
 
-**_Creemos_** que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real
+**Creemos** que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real
 **Sabremos que** los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha
 
-### Hipótesis 3:
+### Hipótesis 3
 
-**\*Creemos que** al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola
+**Creemos que** al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola
 **Sabremos que** los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas
 
 #### 1.2.2.4 Lean UX Canvas
@@ -462,97 +462,65 @@ Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualiza
 <TABLE BORDER>
 	<TR>
 		<TD ROWSPAN=2>
-
-**Lean UX Canvas**
-
-</TD>
-	    	<TD ROWSPAN=2></TD> <TD>
-
-**Fecha:** 7/09/2024
-
-</TD> 
+    Lean UX Canvas
+    </TD>
+	  <TD ROWSPAN=2></TD>
+    <TD>Fecha: 7/09/2024</TD>
 	</TR>
 	<TR>
-		<TD>
-
-**Iteración 1**
+		<TD>Iteración 1
 
 </TD> 
 	</TR>
-    <TR>
+  <TR>
 		<TD ROWSPAN>
-        
-**1. Problema de negocios:**
-        
-Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climaticos y plagas , lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.
-</TD>
-	    	<TD ROWSPAN=2>
-
-**5. Ideas de solución:**
-Desarrollar una aplicacion que integre seguimiento en tiempo real , monitorización del clima, y aviso de plagas.
-
-</TD> <TD ROWSPAN=2>
-
-**2. Resultados comerciales:**
-
-- Mejora en la calidad del producto
-- educción de pérdidas y desperdicios
-- Aumento de la satisfacción del cliente
-
-</TD> 
+      1. Problema de negocios: Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climaticos y plagas , lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.
+    </TD>
+	  <TD ROWSPAN=2>
+      5. Ideas de solución: Desarrollar una aplicacion que integre seguimiento en tiempo real , monitorización del clima, y aviso de plagas.
+    </TD> 
+    <TD ROWSPAN=2>
+      2. Resultados comerciales:
+      <p> Mejora en la calidad del producto
+      <p Reducción de pérdidas y desperdicios
+      <p> Aumento de la satisfacción del cliente
+    </TD>
 	</TR>
 	<TR>
-		<TD >
-        
-**3. Usuarios y Clientes:**
-pequeñas empresas y grandes empresas agrícolas.
-</TD> 
+		<TD>     
+      3. Usuarios y Clientes: Pequeñas empresas y grandes empresas agrícolas.
+    </TD> 
 	</TR>
-    <TR>
+  <TR>
 		<TD ROWSPAN=2>
-
-**6. Hipótesis**
-
-Hipótesis 1:
-**\*Creemos que** _al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola _
-**Sabremos que** _los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados _
-
-Hipótesis 2:
-**_Creemos_** _ que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real _
-**Sabremos que** _los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha _
-
-Hipótesis 3:
-**\*Creemos que** _ al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola _
-**Sabremos que** _ los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas _
-
-</TD>
-
-<TD ROWSPAN=2>
-
-**7. ¿Qué es lo más importante que debemos aprender primero?**
-
-Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.
-
-</TD>
-
-<TD>
-
-**4. Beneficios del usuario:**
-
-- Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.
-- Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.
-</TD> 
+      6. Hipótesis
+      <p> Hipótesis 1:
+      Creemos que al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola.
+      Sabremos que los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados.
+      <p> Hipótesis 2:
+      Creemos que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real.
+      Sabremos que los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha.
+      <p> Hipótesis 3:
+      Creemos que al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola.
+      Sabremos que los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas.
+    </TD>
+    <TD ROWSPAN=2>
+      7. ¿Qué es lo más importante que debemos aprender primero?
+      <p> Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.
+    </TD>
+    <TD>
+      4. Beneficios del usuario:
+      <p> - Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.
+      <p> - Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.
+    </TD>
 	</TR>
 	<TR>
 		<TD>
-
-**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
-La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
-
-Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
-
-</TD> 
-	</TR>
+      8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?
+      <p> La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+      <p> Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
+    </TD>
+  </TR>
 </TABLE>
 
 ---
@@ -561,42 +529,34 @@ Una vez que tengamos una comprensión sólida de las necesidades de los usuarios
 
 <TABLE BORDER>
 	<TR>
-		<TD>
-
-**Tipo de usuario**</TD> <TD>
-
-**Geográfico** </TD> <TD>
-
-**Psicográfico**</TD> <TD>
-
-**Demográfico**</TD>
-
-</TR>
+		<TD>**Tipo de usuario**</TD>
+    <TD>**Geográfico** </TD>
+    <TD>**Psicográfico**</TD> 
+    <TD>**Demográfico**</TD>
+  </TR>
 	<TR>
-		<TD> Pequeños y Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
-        <TD>
-
-- Busca mejorar la eficiencia y calidad de su producción.
-- Creativo y curioso.
-- Desea apoyo en su cultivo
-</TD> 
-<TD>
-
-- Edad: desde adultos jovenes hasta adultos mayores.
-
-</TD>
+		<TD> Pequeños y Grandes Agricultores </TD> 
+    <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+    <TD>
+    - Busca mejorar la eficiencia y calidad de su producción.
+    - Creativo y curioso.
+    - Desea apoyo en su cultivo
+    </TD> 
+    <TD>
+    - Edad: desde adultos jovenes hasta adultos mayores.
+    </TD>
 	</TR>
-    <TR>
-		<TD> Consultores </TD> <TD> Especializados en el rubro agrícola.</TD> 
-        <TD>
-
-- Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
-- Desea estar atento a las peticiones de contrato y ayuda de los clientes.
-- Le gusta ver que sus clientes salgan satisfechos con sus consejos.
-</TD> <TD>
-
-- Edad: Desde adultos jóvenes hasta adultos mayores.
-</TD>
+  <TR>
+		<TD> Consultores </TD> 
+    <TD> Especializados en el rubro agrícola.</TD> 
+    <TD>
+    - Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
+    - Desea estar atento a las peticiones de contrato y ayuda de los clientes.
+    - Le gusta ver que sus clientes salgan satisfechos con sus consejos.
+    </TD> 
+    <TD>
+      - Edad: Desde adultos jóvenes hasta adultos mayores.
+    </TD>
 	</TR>
 
 </TABLE>
@@ -714,15 +674,67 @@ Los entrevistados esperarían de una app de agricultores una herramienta integra
 
 ### 2.3.2 User Task Matrix
 
-<table><tr><th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th><th colspan="2" valign="top"><b><i>Aldo Gomez</i></b></th><th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th></tr>
-<tr><td valign="top"><b><i>Frecuencia</i></b></td><td valign="top"><b><i>Importancia</i></b></td><td valign="top"><b><i>Frecuencia</i></b> </td><td valign="top"><b><i>Importancia</i></b></td></tr>
-<tr><td>planificar el cultivo de la temporada</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>comunicarse contrabajadores</td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>seguimiento de cultivos</td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>Revision de pronostico del clima</td><td><b><i>alta</i></b></td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>riego de plantas </td><td><b><i>media</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>Identificación de pestes</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td><td><b><i>alta</i></b></td></tr>
-<tr><td>peaje de cosechas</td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td><td><b><i>baja</i></b></td><td><b><i>alta</i></b></td></tr>
+<table>
+  <tr>
+    <th rowspan="2" valign="top"><b><i>User task Matrix</i></b></th>
+    <th colspan="2" valign="top"><b><i>Aldo Gómez</i></b></th>
+    <th colspan="2" valign="top"><b><i>Antonio Herrera</i></b></th>
+  </tr>
+  <tr>
+    <td valign="top"><b><i>Frecuencia</i></b></td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+    <td valign="top"><b><i>Frecuencia</i></b> </td>
+    <td valign="top"><b><i>Importancia</i></b></td>
+  </tr>
+  <tr>
+    <td>Planificar el cultivo de la temporada</td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Comunicarse con trabajadores</td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Seguimiento de cultivos</td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Revisión de pronóstico del clima</td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Riego de plantas </td>
+    <td><b><i>Media</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Identificación de pestes</td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
+  <tr>
+    <td>Peaje de cosechas</td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Alta</i></b></td>
+    <td><b><i>Baja</i></b></td>
+    <td><b><i>Alta</i></b></td>
+  </tr>
 </table>
 
 ### 2.3.3 User Journey Mapping
@@ -793,8 +805,8 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 | US014  | Contactar al Equipo de Ventas             | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas.                                                                                      | <p> 1. Dado que soy un visitante interesado, cuando busco información de contacto, entonces debo encontrar un formulario de contacto o información clara de contacto. <p> 2. Dado que soy un visitante interesado, cuando lleno el formulario de contacto, entonces debo recibir una confirmación de que mi mensaje fue enviado correctamente. <p> 3. Dado que soy un visitante interesado, cuando envío un mensaje al equipo de ventas, entonces debo recibir una respuesta dentro de las 24 horas.                                                                                                                                             | EPIC006                       |
 | US015  | Explorar Testimonios o Casos de Éxito     | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio.                                                                            | <p> 1. Dado que soy un visitante, cuando busco testimonios o casos de éxito, entonces debo encontrar testimonios reales o estudios de caso. <p> 2. Dado que soy un visitante, cuando leo un testimonio o caso de éxito, entonces debo encontrar información relevante y convincente. <p> 3. Dado que soy un visitante, cuando leo los testimonios o casos de éxito, entonces debo sentir confianza en el sitio y sus productos/servicios.                                                                                                                                                                                                        | EPIC006                       |
 
-| **ID**  | **Descripción**                                              |
-| ------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **ID**  | **Título**                                              |**Descripción**|
+| ------- | ------------------------------------------------------------ |-|
 | EPIC001 | Mejora de la Productividad                                   | Como agricultor, deseo mejorar la productividad de mis cultivos.                                                                                          |
 | EPIC002 | Control de Calidad                                           | Como agricultor, deseo asegurar la calidad de mis productos.                                                                                              |
 | EPIC003 | Prevención de Amenazas                                       | Como agricultor, deseo prevenir amenazas a mis cultivos.                                                                                                  |
@@ -1069,91 +1081,91 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 
 ### 4.7.2 Class Dictionary
 
-_company_: Empresas a las que se les brinda el servicio.
--ruc: Código de la empresa
--password: Contraseña con la que se accede a la cuenta
--companyName: El nombre de una compañía
--phone: Teléfono de la empresa
--mail: Correo de la empresa
--createCompany(): Es el método por el cual se crea las nuevas empresas
--updateData(): El método por el cual se actualizan los datos de una empresa
+- _company_: Empresas a las que se les brinda el servicio.
+- ruc: Código de la empresa
+- password: Contraseña con la que se accede a la cuenta
+- companyName: El nombre de una compañía
+- phone: Teléfono de la empresa
+- mail: Correo de la empresa
+- createCompany(): Es el método por el cual se crea las nuevas empresas
+- updateData(): El método por el cual se actualizan los datos de una empresa
 
-_crop_: Es el cultivo al cual se le monitorea y administra.
--cropCode: Código del cultivo
--area: Área del terreno
--product: Alimento que produce el cultivo
--state: El estado en que se encuentra el alimento
--cost: Costo de producir ese cultivo
--location: El lugar geográfico donde se encuentra el producto
--return: El costo aproximado que se espera ganar por el cultivo
--updateStatus(): Actualización del estado
--addExpense(): Registra un nuevo gasto para el cultivo
--decreaseExpenditure(): Elimina un gasto
+- _crop_: Es el cultivo al cual se le monitorea y administra.
+- cropCode: Código del cultivo
+- area: Área del terreno
+- product: Alimento que produce el cultivo
+- state: El estado en que se encuentra el alimento
+- cost: Costo de producir ese cultivo
+- location: El lugar geográfico donde se encuentra el producto
+- return: El costo aproximado que se espera ganar por el cultivo
+- updateStatus(): Actualización del estado
+- addExpense(): Registra un nuevo gasto para el cultivo
+- decreaseExpenditure(): Elimina un gasto
 
-_worker_: Personas que trabajan en las diferentes compañías agrícolas.
--dni: Documento de identificación de los trabajadores
--name: Nombre del trabajador
--lastName: Apellido
--post: Cargo dentro de la empresa
--salary: Dinero que gana el trabajador
--phone: Teléfono de la empresa
--age: Edad
--estado: Dentro de la empresa
--hireEmployee(): Contrata a los empleados
--vacations(): Para cuando un empleado salga de vacaciones
--updateData(): Permite actualizar los datos de los trabajadores
+- _worker_: Personas que trabajan en las diferentes compañías agrícolas.
+- dni: Documento de identificación de los trabajadores
+- name: Nombre del trabajador
+- lastName: Apellido
+- post: Cargo dentro de la empresa
+- salary: Dinero que gana el trabajador
+- phone: Teléfono de la empresa
+- age: Edad
+- estado: Dentro de la empresa
+- hireEmployee(): Contrata a los empleados
+- vacations(): Para cuando un empleado salga de vacaciones
+- updateData(): Permite actualizar los datos de los trabajadores
 
-_equipment_: Conjunto de Workers encargados de un Crop
--equipmentCode: Código del equipo
--numberMembers: Dice la cantidad de integrantes de un equipo
--canagerCode: Indica quién es el líder del equipo
--cropCode: El código del cultivo en que trabaja el equipo
--createTeam(): Crea un nuevo equipo
--addMember(): Agrega a un nuevo miembro
--removeMember(): Quitar a un miembro del equipo
+- _equipment_: Conjunto de Workers encargados de un Crop
+- equipmentCode: Código del equipo
+- numberMembers: Dice la cantidad de integrantes de un equipo
+- canagerCode: Indica quién es el líder del equipo
+- cropCode: El código del cultivo en que trabaja el equipo
+- createTeam(): Crea un nuevo equipo
+- addMember(): Agrega a un nuevo miembro
+- removeMember(): Quitar a un miembro del equipo
 
-_collectionPending_: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
--collectionId: Código de la deuda a cobrar
--ruc: Código de la empresa que es la deuda a cobrar
--type: Qué tipo de cobranza es
--amount: Monto a cobrar
--description: Explica el origen de la deuda
--state: Indica si pagó o no
--createPendingCollection(): Crea una nueva deuda a cobrar
--updateStatus(): Actualiza si ya se pagó la deuda
+- _collectionPending_: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
+- collectionId: Código de la deuda a cobrar
+- ruc: Código de la empresa que es la deuda a cobrar
+- type: Qué tipo de cobranza es
+- amount: Monto a cobrar
+- description: Explica el origen de la deuda
+- state: Indica si pagó o no
+- createPendingCollection(): Crea una nueva deuda a cobrar
+- updateStatus(): Actualiza si ya se pagó la deuda
 
-_pendingPayment_: Son las deudas pendientes de una Company.
--collectionId: Código de la deuda a pagar
--ruc: Código de la empresa que es la deuda a pagar
--type: Qué tipo de cobranza es
--amount: Monto a pagar
--description: Explica el origen de la deuda
--state: Indica si pagó o no
--createPendingCollection(): Crea una nueva deuda a pagar
--updateStatus(): Actualiza si ya se pagó la deuda
+- _pendingPayment_: Son las deudas pendientes de una Company.
+- collectionId: Código de la deuda a pagar
+- ruc: Código de la empresa que es la deuda a pagar
+- type: Qué tipo de cobranza es
+- amount: Monto a pagar
+- description: Explica el origen de la deuda
+- state: Indica si pagó o no
+- createPendingCollection(): Crea una nueva deuda a pagar
+- updateStatus(): Actualiza si ya se pagó la deuda
 
-_balance_: Esta clase se crea mensualmente y determina las ganancias de la Company.
--month: El mes del que se calcula el balance
--spent: Gastos generados por la empresa
--ingreso: Lo que generó la empresa
--revenue: Ganancia de la empresa
--rucCompany: El código de la empresa que se está sacando el balance
--createBalance: Calcula las ganancias de la empresa
+- _balance_: Esta clase se crea mensualmente y determina las ganancias de la Company.
+- month: El mes del que se calcula el balance
+- spent: Gastos generados por la empresa
+- ingreso: Lo que generó la empresa
+- revenue: Ganancia de la empresa
+- rucCompany: El código de la empresa que se está sacando el balance
+- createBalance: Calcula las ganancias de la empresa
 
-_contract_: Esta clase se crea una clase se crea cada ves que se desa contratar a un nuevo consultant
--companyRuc: Con este atributo se podrá reconocer a la empresa a quien se está contratando
--consultanId: Con este atributo identificamos al consultor que se desea contratar
--timeInApplication: Con esto se determina cuanto tiempo tiene la empresa en la aplicación
--salary:El salario que ofrece la empresa por el puesto
--descriptionNeeds: la empresa comenta la necesidad que tienen y desempeñarán en ese trabajo.
--date: la fecha en la que se realiza el contrato
+- _contract_: Esta clase se crea una clase se crea cada ves que se desa contratar a un nuevo consultant
+- companyRuc: Con este atributo se podrá reconocer a la empresa a quien se está contratando
+- consultanId: Con este atributo identificamos al consultor que se desea contratar
+- timeInApplication: Con esto se determina cuanto tiempo tiene la empresa en la aplicación
+- salary:El salario que ofrece la empresa por el puesto
+- descriptionNeeds: la empresa comenta la necesidad que tienen y desempeñarán en ese trabajo.
+- date: la fecha en la que se realiza el contrato
 
-_notification_
--transmitter: Es el que redacta la notificación.
--receiver: Es el que recibe la notificación.
--message: Es lo que se intenta comunicar en la notificación
--hour: Es la hora en que se envía la notificación.
--date: es la fecha del envío.
+- _notification_
+- transmitter: Es el que redacta la notificación.
+- receiver: Es el que recibe la notificación.
+- message: Es lo que se intenta comunicar en la notificación
+- hour: Es la hora en que se envía la notificación.
+- date: es la fecha del envío.
 
 ## 4.8 Database Design
 
@@ -1173,7 +1185,7 @@ _notification_
 
 **Figma :** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
 
-**Structurizi :**ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
+**Structurizer :** Ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
 
 **IntelliJ IDEA :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
 
