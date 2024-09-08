@@ -249,7 +249,7 @@ Mi nombre es Jeremy, Tengo 22 años. En la actualidad estoy estudiando la carrer
 
 Mi nombre es Diego Jesus Alonso Garay y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) y actualmente estoy en el quinto ciclo. Me considero una persona intuitiva y busco siempre ver el lado positivo de las cosas, pero siempre con los pies sobre la tierra. Tengo conocimiento en el uso de programas de edición como Photoshop y también sobre el uso básico de lenguajes de programación. Por lo general siempre busco dar lo necesario para realizar un buen trabajo, y en este curso estaré al pendiente de cualquier responsabilidad para realizar correctamente el presente proyecto.
 
-
+<img src="./assets/Diego.jpg" width="300"/>
 
 ### - Briceño De La Cruz, Farid Sebastian
 
