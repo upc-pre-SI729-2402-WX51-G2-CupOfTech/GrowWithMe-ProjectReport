@@ -173,7 +173,7 @@ Capacidad de comunicarse efectivamente con un rango de audiencias. <br>
         <td align="center">Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
         <td>
 <strong> Alonso Garay, Diego Jesus </strong> <br>
-TB1 <br>
+TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo mediante reuniones para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
 <br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
@@ -197,7 +197,7 @@ TB1 <br>
         <td align="center">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
         <td>
 <strong> Alonso Garay, Diego Jesus </strong> <br>
-TB1 <br>
+TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
 <br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
