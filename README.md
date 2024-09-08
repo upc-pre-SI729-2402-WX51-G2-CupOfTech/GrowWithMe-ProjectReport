@@ -649,12 +649,12 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 **Segmento 2: Consultores agrícolas** <br>
 
 **Entrevistada 1**: Abigail Mendoza<br>
-**link :** <br/>
+**link :** [https://youtu.be/FIYAQVbkGrU](https://youtu.be/FIYAQVbkGrU) <br/>
 ![Entrevis1](assets/Consultant_entrevista1.png) <br>
 **Resumen de la entrevista:** Abigail lleva 1 años trabajando en consultoría, disfruta particularmente ese trabajo. Su motivación principal proviene de su negocio en el terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir problemas ambientales en la agricultura. Utiliza principalmente Google como navegador web y prefiere Word para el software. Describe el trabajo en la cosecha como divertido y tiene como meta hacer crecer su negocio y adaptarse a la nueva tecnología.
 
 **Entrevistado 2**: Jesús Alvarado<br>
-**link :** <br/>
+**link :** [https://youtu.be/il-VjQQ9lb0](https://youtu.be/il-VjQQ9lb0) <br/>
 ![Entrevis2](assets/Consultant_entrevista2.png) <br>
 **Resumen de la entrevista:** Esta persona es un consultor que antes trabajaba como ingeniero ambiental, lleva 2 años en la agricultura. Está interesado en implementar programas para mejorar la gestión y prevenir problemas en el campo. Su principal motivación es su familia, que tiene un terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir peligros ambientales en la agricultura. Utiliza Google como navegador web y prefiere Excel para el software. Su meta es mejorar y hacer crecer el negocio familiar en la agricultura.
 
