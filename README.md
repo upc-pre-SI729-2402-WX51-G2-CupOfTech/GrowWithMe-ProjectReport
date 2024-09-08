@@ -60,6 +60,8 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 - Se escribieron y diagramaron los contenidos asignados a cada miembro en formato Markdown, seguido de commits para asegurar el progreso en el repositorio.
 - Se organizaron reuniones para coordinar el progreso de los elementos del informe y para comunicar los avances del Sprint 1.
 
+![InsightTB1](assets/ReportProjectInsightsTB1.png)
+
 ---
 
 # Tabla de contenidos
