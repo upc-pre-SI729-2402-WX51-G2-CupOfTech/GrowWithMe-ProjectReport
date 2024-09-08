@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td align="center">TB1</td>
-    <td>11/04/2024</td>
+    <td>07/09/2024</td>
     <td> Todos </td>
     <td> Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
@@ -184,7 +184,7 @@ TB1 <br>
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br>
-<br>
+<br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br>
@@ -208,7 +208,7 @@ TB1 <br>
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br>
-<br>
+<br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br>
@@ -752,7 +752,7 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 | US015  | Explorar Testimonios o Casos de Éxito     | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio.                                                                            | - Dado que soy un visitante, cuando busco testimonios o casos de éxito, entonces debo encontrar testimonios reales o estudios de caso. - Dado que soy un visitante, cuando leo un testimonio o caso de éxito, entonces debo encontrar información relevante y convincente. - Dado que soy un visitante, cuando leo los testimonios o casos de éxito, entonces debo sentir confianza en el sitio y sus productos/servicios.                                                                                                                                                                                                        | EPIC006                       |
 
 | **ID**  | **Descripción**                                              |
-| ------- | ------------------------------------------------------------ |
+| ------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EPIC001 | Mejora de la Productividad                                   | Como agricultor, deseo mejorar la productividad de mis cultivos.                                                                                          |
 | EPIC002 | Control de Calidad                                           | Como agricultor, deseo asegurar la calidad de mis productos.                                                                                              |
 | EPIC003 | Prevención de Amenazas                                       | Como agricultor, deseo prevenir amenazas a mis cultivos.                                                                                                  |
@@ -1248,7 +1248,7 @@ Durante el sprint, se desarrollaron los siguientes elementos:
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
 | ---------- | ------ | --------- | ------------------- | ------------------ |
-| Landing    | main   | *        |                     | 07/09/2024         |
+| Landing    | main   | \*        |                     | 07/09/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
