@@ -180,7 +180,7 @@ TB1 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
 TB1 <br>
-<br>
+<br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br>
@@ -204,7 +204,7 @@ TB1 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
 TB1 <br>
-<br>
+<br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br>
