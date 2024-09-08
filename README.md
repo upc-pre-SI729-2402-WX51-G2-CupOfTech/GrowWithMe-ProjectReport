@@ -46,7 +46,7 @@
   <tr>
     <td align="center">TB1</td>
     <td>07/09/2024</td>
-    <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion </td>
+    <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion <br> Rivera Ayala, Gabriel Alejandro </td>
     <td> Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
 </table>
@@ -66,24 +66,62 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 # Tabla de contenidos
 
-- [Carátula](#caratula)
+- [ Universidad Peruana de Ciencias Aplicadas ](#-universidad-peruana-de-ciencias-aplicadas-)
+    - [ Informe de Trabajo Final ](#-informe-de-trabajo-final-)
 - [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 - [Project Report Collaboration Insights](#project-report-collaboration-insights)
+- [Tabla de contenidos](#tabla-de-contenidos)
 - [Student Outcome](#student-outcome)
 - [Capítulo I: Introducción](#capítulo-i-introducción)
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
-  - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+      - [- Favio Sebastián Landeo Simeón](#--favio-sebastián-landeo-simeón)
+      - [- Jeremy Alión Paucar Meneses](#--jeremy-alión-paucar-meneses)
+      - [- Alonso Garay, Diego Jesus](#--alonso-garay-diego-jesus)
+    - [- Briceño De La Cruz, Farid Sebastian](#--briceño-de-la-cruz-farid-sebastian)
+    - [- Rivera Ayala, Gabriel Alejandro](#--rivera-ayala-gabriel-alejandro)
   - [1.2 Solution Profile](#12-solution-profile)
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+    - [Antecedentes:](#antecedentes)
+    - [Problemática (5Ws y 2Hs)](#problemática-5ws-y-2hs)
+    - [What/Qué](#whatqué)
+      - [¿Cuál es el problema?](#cuál-es-el-problema)
+    - [Where / Dónde](#where--dónde)
+      - [¿Dónde está el usuario cuando usa el producto?](#dónde-está-el-usuario-cuando-usa-el-producto)
+      - [¿Dónde surge el problema?](#dónde-surge-el-problema)
+    - [Why / Por Qué](#why--por-qué)
+      - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
+    - [When / Cuándo](#when--cuándo)
+      - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
+    - [Who / Quién](#who--quién)
+      - [¿Quiénes están involucrados?](#quiénes-están-involucrados)
+    - [How / Cómo](#how--cómo)
+      - [¿En qué condiciones los usuarios usan nuestro producto?](#en-qué-condiciones-los-usuarios-usan-nuestro-producto)
+      - [¿Cómo nos conoceran los usuarios?](#cómo-nos-conoceran-los-usuarios)
+    - [How much / Cuánto](#how-much--cuánto)
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hyphotesis-statements)
+      - [Features](#features)
+      - [Business Outcomes](#business-outcomes)
+      - [Users](#users)
+      - [User Outcomes \& Benefits](#user-outcomes--benefits)
+      - [User assumptions](#user-assumptions)
+      - [¿Quién es el usuario?](#quién-es-el-usuario)
+      - [¿Dónde encaja nuestro producto en sus trabajos o vidas?](#dónde-encaja-nuestro-producto-en-sus-trabajos-o-vidas)
+      - [¿Qué problema resuelve nuestro producto?](#qué-problema-resuelve-nuestro-producto)
+      - [¿Cuándo y cómo es usado nuestro producto?](#cuándo-y-cómo-es-usado-nuestro-producto)
+      - [¿Qué características son importantes?](#qué-características-son-importantes)
+      - [¿Cómo debería verse y comportarse nuestro producto?](#cómo-debería-verse-y-comportarse-nuestro-producto)
+      - [Business Assumptions](#business-assumptions)
+      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [Hipótesis 1:](#hipótesis-1)
+    - [Hipótesis 2:](#hipótesis-2)
+    - [Hipótesis 3:](#hipótesis-3)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
-    - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
-
+  - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
+- [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
   - [2.1 Competidores](#21-competidores)
     - [2.1.1 Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2 Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -98,16 +136,12 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [2.3.4 Empathy Mapping](#234-empathy-mapping)
     - [2.3.5 As-is Scenario Mapping](#235-as-is-scenario-mapping)
   - [2.4 Ubiquitous Language](#24-ubiquitous-language)
-
 - [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
-
   - [3.1 To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2 User Stories](#32-user-stories)
   - [3.3 Impact Mapping](#33-impact-mapping)
   - [3.4 Product Backlog](#34-product-backlog)
-
 - [Capítulo IV: Product Design](#capítulo-iv-product-design)
-
   - [4.1 Style Guidelines](#41-style-guidelines)
     - [4.1.1 General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2 Web Style Guidelines](#412-web-style-guidelines)
@@ -135,22 +169,22 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [4.7.2 Class Dictionary](#472-class-dictionary)
   - [4.8 Database Design](#48-database-design)
     - [4.8.1 Database Diagram](#481-database-diagram)
-
-- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
+- [Capítulo V: Product Implementation, Validation \& Deployment](#capítulo-v-product-implementation-validation--deployment)
   - [5.1 Software Configuration Management](#51-software-configuration-management)
     - [5.1.1 Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2 Source Code Management](#512-source-code-management)
-    - [5.1.3 Software Development Environment Configuration](#513-source-code-style-guide--conventions)
+    - [5.1.3 Source Code Style Guide \& Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4 Software Deployment Configuration](#514-software-deployment-configuration)
-  - [5.2 Landing Page, Services & Applications Implementation](#52-landing-page-services-applications-implementation)
+  - [5.2 Landing Page, Services \& Applications Implementation](#52-landing-page-services--applications-implementation)
     - [5.2.1 Sprint 1](#521-sprint-1)
-      - [5.2.1.1 Sprint Planning 1](#5211-sprint-planning-1)
-      - [5.2.1.2 Sprint Backlog 1](#5212-sprint-backlog-1)
-      - [5.2.1.3 Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
-      - [5.2.1.4 Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
-      - [5.2.1.5 Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review) - [5.2.1.6 Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
-      - [5.2.1.7 Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
-      - [5.2.1.8 Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+      - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+      - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+      - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+      - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+      - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+      - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 - [Conclusiones](#conclusiones)
   - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
@@ -189,31 +223,31 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo pa
 <br> 
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
-TB1 <br>
+TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coordinar la elaboración de los contenidos asignados.
         </td>
         <td>Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. </td>
     </tr>
     <tr>
         <td align="center">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
         <td>
-<strong> Alonso Garay, Diego Jesus </strong> <br>
-TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
-<br>
-<br>
-<strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
-TB1 <br>
-<br>
-<br>
-<strong> Landeo Simeón, Favio Sebastián </strong> <br>
-TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
-<br> 
-<br>
-<strong> Paucar Meneses, Jeremy Alion </strong> <br>
-TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
-<br>
-<br>
-<strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
-TB1 <br>
+          <strong> Alonso Garay, Diego Jesus </strong> <br>
+          TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
+          <br>
+          <br>
+          <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
+          TB1 <br>
+          <br>
+          <br>
+          <strong> Landeo Simeón, Favio Sebastián </strong> <br>
+          TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
+          <br> 
+          <br>
+          <strong> Paucar Meneses, Jeremy Alion </strong> <br>
+          TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
+          <br>
+          <br>
+          <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
+          TB1 <br> En esta entrega, pude comunicar sobre mis avances en el proyecto a mis compañeros de forma clara y efectiva, facilitando el desarrollo.
         </td>
         <td>Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito. </td>
     </tr>
@@ -254,6 +288,10 @@ Mi nombre es Diego Jesus Alonso Garay y tengo 21 años. Soy estudiante de la car
 ### - Briceño De La Cruz, Farid Sebastian
 
 ### - Rivera Ayala, Gabriel Alejandro
+
+Soy estudiante de Ingeniería de Software. Me interesa el aprendizaje continuo en todo lo relacionado al desarrollo de aplicaciones interactivas. He desarrollado proyectos en C++, Python, HTML y CSS. Actualmente estoy aprendiendo a realizar aplicaciones web usando el framework Angular y Vue. Me considero una persona trabajadora y apoyaré a mis compañeros a realizar un buen trabajo.
+
+<img src="./assets/Gabriel.png" width="300"/>
 
 ## 1.2 Solution Profile
 
