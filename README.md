@@ -269,18 +269,6 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ### 2.2.1 Diseño de entrevistas
 
 **Segmento 1: Agricultores y pymes agrícolas**<br>
-¿Cuál es tu nombre, cuántos años tienes y a qué te dedicas?<br/>
-¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
-¿Cuanto tiempo llevas trabajando como agricultor?<br/>
-¿Existe algo que te frustre de la agricultura, algo que se te dificulte?<br/>
-¿Que te motiva a seguir trabajando?<br/>
-¿Que habilidades desarollaste en tu trabajo?<br/>
-¿Que navegador web usa más?<br/>
-¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
-¿Podría brindarnos una frase que describa su situación?<br/>
-¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
-
-**Segmento 2: Consultores agrícolas**<br>
 ¿Cuáles son los principales cultivos que cultivas y por qué los elegiste?<br/>
 ¿Cuáles son los mayores desafíos a los que te enfrentas como agricultor en tu región?<br/>
 ¿Qué prácticas agrícolas sostenibles implementas en tu finca y cómo impactan en la productividad y el medio ambiente?<br/>
@@ -290,28 +278,39 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 ¿Qué medidas tomas para garantizar la seguridad alimentaria y la calidad de tus productos agrícolas?<br/>
 ¿Si tuvieras que elegir una dificultad al momento de sembrar algún producto, cuál sería?<br/>
 ¿Crees que te serviría una aplicación que gestione una gran cantidad de información sobre el cultivo de diversos productos agrícolas?<br/>
-1¿Cuánto tiempo llevas trabajando en el sector agrícola y qué te motivó a dedicarte a esta profesión?<br/>
+¿Cuánto tiempo llevas trabajando en el sector agrícola y qué te motivó a dedicarte a esta profesión?<br/>
+
+**Segmento 2: Consultores agrícolas**<br>
+¿Cuál es tu nombre, cuantos años tienes y a que te dedicas?<br/>
+¿Cómo consideras que es tu personalidad (extrovertido, introvertido, Racional, Idealista,etc.)?<br/>
+¿Cuanto tiempo llevas trabajando en el rubro de la consultoría?<br/>
+¿Existe algo que te frustre de tu trabajo como consultor?<br/>
+¿Que te motiva a seguir trabajando?<br/>
+¿Que habilidades desarrollaste a lo largo de tu labor como consultor?<br/>
+¿Que navegadores usa frecuentemente, hay uno que uses más que los demás?<br/>
+¿Cuentas con alguna marca preferida para los productos de software que utilizas (Excel, word,etc.)?<br/>
+¿Tienes alguna meta que te gustaría cumplir en tu rubro?<br/>
 
 ### 2.2.2 Registro de entrevistas
 
 **Segmento 1: Agricultores y pymes agrícolas** <br>
 
-**Segmento 2: Consultores agrícolas** <br>
-
 **Entrevistada 1:** Catalina Villavicencio Guerra <br/>
-**link :** [entrevista_1](https://www.youtube.com/watch?v=QuwqhZjVn_U) <br/>
+**link :** [https://www.youtube.com/watch?v=QuwqhZjVn_U](https://www.youtube.com/watch?v=QuwqhZjVn_U) <br/>
 ![Entrevis1](assets/Farmer_entrevista1.png) <br>
 **Resumen de la entrevista:** Ella nos comenta un poco acerca del trabajo realizado y porque se dedica al tema agrícola, enfatiza que el trabajo agrícola le genera mayores ingresos económicos que sus trabajos pasados, que ella es actualmente principiante en estos temas, así mismo que en su terreno produce arándanos, por otro lado, también no comenta de como los cambios climatológicos puede malograr la producción de sus productos, en este contexto, también nos comenta de como ella cuida sus cultivos con ciertos fertilizantes que le proporciona su hermano, también nos comenta sobre como la municipalidad de su región les da cierta capacitación para los sistemas de riego que ellos emplean, por último, nos indica que la idea de una aplicación que pueda proveer información sobre diferentes tipos de sembrío le parece excelente, además agrega que también le ayudaría a poder gestionar de mejor manera su producción por temporadas.
 
 **Entrevistada 2:** Vilma Huaman Puma<br/>
-**link :** [entrevista_2](https://youtu.be/e1QjCwM3zvs) <br/>
+**link :** [https://youtu.be/e1QjCwM3zvs](https://youtu.be/e1QjCwM3zvs) <br/>
 ![Entrevis1](assets/Farmer_entrevista2.png) <br>
 **Resumen de la entrevista:** Vilma nos habla sobre su experiencia en el área agrícola, como los desafíos, dificultades y ventajas que ocurren en su región. Nos explica los alimentos que cultiva como la papa, las habas, el trigo entre otras y también porque las cultiva. También nos habla mucho sobre el cambio climático de su zona y el cómo afecta a sus cultivos, y también nos comenta cómo los pobladores de su zona intentan compensar o prepararse a estos desafíos climáticos, como lo que sería la sequía, las heladas, la falta de agua, etc. Además, nos cuenta que a veces para compensar la falta de algunos productos que no siembra en su chacra entre los pobladores de su región hacen trueques de alimentos o animales.
 
 **Entrevistada 3:** Betsa Torres <br/>
-**link :** [entrevista_3](https://youtu.be/IGSQZhsC7FY) <br/>
+**link :** [https://youtu.be/IGSQZhsC7FY](https://youtu.be/IGSQZhsC7FY) <br/>
 ![Entrevis1](assets/Farmer_entrevista3.png) <br>
 **Resumen de la entrevista:** Betsa nos habló acerca de su trabajo como agricultora, factores como varios desafíos y dificultades que suceden en la chacra donde ella trabaja. Nos explica que el maíz es el cultivo principal que actualmente maneja, debido a la facilidad de observación de crecimiento y cosecha. También nos explica que ciertos factores como las plagas y el cambio climático son muy comunes en su región, lo que afecta a sus cosechas, y nos comenta que se utiliza la ayuda de ingenieros agrónomos para el control de las plagas, como fumigación para los insectos, y varios recursos para las aves.
+
+**Segmento 2: Consultores agrícolas** <br>
 
 ### 2.2.3 Análisis de entrevistas
 
