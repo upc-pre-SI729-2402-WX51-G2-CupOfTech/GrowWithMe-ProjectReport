@@ -46,7 +46,7 @@
   <tr>
     <td align="center">TB1</td>
     <td>07/09/2024</td>
-    <td> Todos </td>
+    <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion </td>
     <td> Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
 </table>
