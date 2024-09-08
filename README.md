@@ -179,17 +179,17 @@ TB1 <br>
 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
-TB1 <br>
-<br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
+TB1 <br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
+<br> 
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
-TB1 <br>
-<br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
+TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
+<br> 
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br>
         </td>
-        <td>(text)</td>
+        <td>Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. </td>
     </tr>
     <tr>
         <td align="center">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -203,17 +203,17 @@ TB1 <br>
 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
-TB1 <br>
-<br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
+TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
+<br> 
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
-TB1 <br>
-<br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo
+TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
+<br>
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br>
         </td>
-        <td>(text)</td>
+        <td>Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito. </td>
     </tr>
 </table>
 
