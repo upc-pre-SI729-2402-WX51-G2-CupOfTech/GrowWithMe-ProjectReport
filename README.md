@@ -221,7 +221,343 @@ TB1 <br>
 
 # Capítulo I: Introducción
 
+## 1.1 Startup Profile
+
+Nuestro proyecto se centra en proporcionar una solución que optimice la gestión de productos agrícolas, mejore la calidad de la producción y facilite las operaciones para los productores en la industria agrícola.
+
+### 1.1.1 Descripción de la Startup
+
+Nuestro proyecto agrícola surge de la identificación de una necesidad insatisfecha en la gestión de productos agrícolas ya que los agrícolas enfrentan desafíos en la gestión de sus productos y operaciones, por lo que hemos visto una oportunidad para aplicar este software y así mejorar la eficiencia y la calidad en las operaciones para los productores agrícolas.
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+#### - Favio Sebastián Landeo Simeón
+
+Mi nombre es Favio, tengo 20 años y actualmente estoy cursando el séptimo ciclo de la carrera de Ingeniería de Software. Estoy disponible para ayudar siempre a mis compañeros y además tiendo a generar buenas relaciones sociales con diferentes tipos de personas gracias a mi tolerancia y capacidad de trabajo en equipo. Tengo experiencia en los lenguajes de programación C++ y Python. En mis tiempos libres me gusta escuchar música, jugar videojuegos y editar videos.
+
+<img src="./assets/Favio.jpg" width="300"/>
+
+#### - Jeremy Alión Paucar Meneses
+
+Mi nombre es Jeremy, Tengo 22 años. En la actualidad estoy estudiando la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Albergo conocimientos intermedios en algunos lenguajes de programación, tales como C++, JavaScript y Python. Me considero una persona responsable con disposición de apoyar al grupo, también me gustan mucho los retos y así mismo poder cumplirlos.
+
+<img src="./assets/jeremy.png" width="300"/>
+
+#### - Alonso Garay, Diego Jesus
+
+### - Briceño De La Cruz, Farid Sebastian
+
+### - Rivera Ayala, Gabriel Alejandro
+
+## 1.2 Solution Profile
+
+Se encuentra compuesta por 2 secciones:
+
+- Antecedentes y Problemática: Esta sección describe el problema que el proyecto tiene como objetivo resolver. En este se incluyen el enunciado del problema, una descripción de los puntos más importantes que debe resolver la solución, los objetivos y restricciones del proyecto.
+
+- Lean UX Process: Esta sección aplica el Lean UX Process y describe de manera detallada cómo se resolverá el problema mediante el modelo de negocio.
+
+### 1.2.1 Antecedentes y problemática
+
+### Antecedentes:
+
+-Creciente demanda de alimentos debido al aumento de la población mundial.
+
+-Necesidad de aumentar la productividad agrícola para satisfacer esta demanda.
+
+-Desafíos asociados con el cambio climático y la sostenibilidad.
+
+-Dificultad para monitorear y optimizar el crecimiento de los cultivos.
+
+-Preocupaciones sobre la calidad y seguridad de los productos.
+
+### Problemática (5Ws y 2Hs)
+
+### What/Qué
+
+#### ¿Cuál es el problema?
+
+La gestión de productos agrícolas y la optimización de operaciones para productores en la industria agrícola.
+
+### Where / Dónde
+
+#### ¿Dónde está el usuario cuando usa el producto?
+
+En áreas rurales y regiones agrícolas, campos de cultivos o huertas.
+
+#### ¿Dónde surge el problema?
+
+En las grandes y pequeñas empreas agricolas , asi como agricolas independientes.
+
+### Why / Por Qué
+
+#### ¿Cuál es la causa del problema?
+
+Debido a la creciente demanda de alimentos, la necesidad de aumentar la productividad agrícola y los desafíos asociados con el cambio climático y la sostenibilidad.
+
+### When / Cuándo
+
+#### ¿Cuándo sucede el problema?
+
+Cuando la población mundial está en constante crecimiento y la presión sobre la producción agrícola es cada vez mayor debido a factores como el cambio climático
+
+### Who / Quién
+
+#### ¿Quiénes están involucrados?
+
+Productores agrícolas, empresas grandes y pequeñas del sector agroindustrial.
+
+### How / Cómo
+
+#### ¿En qué condiciones los usuarios usan nuestro producto?
+
+Utilizando celulares, tablets, donde tienen colaboraciones con expertos en agricultura y desarrollo de soluciones personalizadas.
+
+#### ¿Cómo nos conoceran los usuarios?
+
+Los usuarios pueden conocer nuestra plataforma a través de diversas vías. Algunas de las más comunes incluyen:
+
+- Boca a boca: La recomendación de amigos, familiares o colegas que ya han utilizado la plataforma y han tenido experiencias positivas.
+- Redes sociales: Publicaciones, anuncios o menciones en plataformas como Facebook, Twitter, Instagram, entre otras.
+- Colaboraciones con influencers: Asociaciones con figuras prominentes en el mundo de la literatura y el arte que promueven la plataforma a sus seguidores.
+
+### How much / Cuánto
+
+El impacto económico puede variar según el alcance y la implementación de las soluciones propuestas, pero el potencial de mejora en eficiencia y calidad es significativo.
+
+### 1.2.2 Lean UX Process
+
+#### 1.2.2.1 Lean UX Problem Statements
+
+El desafío de los agricultores esta en la monitorización del crecimiento de cultivos, ya que la falta de herramientas efectivas para monitorear el crecimiento de los cultivos dificulta la identificación temprana de problemas, como condiciones climáticas adversas, lo que resulta en pérdidas de cosechas y disminución de la calidad de los productos, por otro lado Los productores agrícolas luchan por optimizar sus operaciones debido a la falta de herramientas, desde la planificación de cultivos hasta la gestión de la mano de obra y la logística, lo que limita su capacidad para aumentar la eficiencia y la productividad
+
+#### 1.2.2.2 Lean UX Assumptions
+
+#### Features
+
+- Herramientas de monitorización del crecimiento de cultivos: Sensores agrícolas para recopilar datos sobre condiciones ambientales, humedad del suelo, y salud de los cultivos.
+- Plataforma integrada de gestión agrícola: Suite de herramientas que abarca la planificación de cultivos, gestión de la mano de obra, monitoreo de inventario, programación de riego, y seguimiento de costos y funcionalidades de análisis de datos para identificar áreas de mejora y optimizar la eficiencia operativa en todas las etapas de la producción agrícola.
+
+  #### Business Outcomes
+
+- Mejora de la eficiencia operativa: Reducción de los tiempos de inactividad y los costos asociados con la gestión manual de inventario y la resolución de problemas en la cadena de suministro y optimización de los procesos agrícolas mediante la automatización y la aplicación de datos en tiempo real para la toma de decisiones.
+-
+- Aumento de la rentabilidad: Reducción de las pérdidas debido a errores en la gestión de inventario, enfermedades de cultivos no detectadas y problemas logísticos y mejora de la productividad y la calidad de los productos agrícolas, lo que puede traducirse en mayores márgenes de beneficio para los productores.
+- Reducción de riesgos y cumplimiento normativo: Mayor capacidad para responder rápidamente a problemas emergentes, como brotes de enfermedades o eventos climáticos extremos, minimizando el impacto en la producción y la distribución.
+
+#### Users
+
+Los usuarios son productores agrícolas, empresas agroindustriales grandes y pequeñas y expertos en agricultura.
+
+#### User Outcomes & Benefits
+
+-Productores agrícolas: Granjas y agrícolas que cultivan una variedad de productos, desde cultivos básicos hasta productos de especialidad
+
+-Empresas agroindustriales grandes y pequeñas: Empresas dedicadas al procesamiento, envasado y distribución de productos agrícolas, incluyendo cooperativas y asociaciones de productores.
+
+-Expertos en agricultura: Agrónomos, investigadores y consultores que proporcionan asesoramiento técnico y estratégico a los productores agrícolas para mejorar sus prácticas y rendimiento.
+
+#### User assumptions
+
+#### ¿Quién es el usuario?
+
+El usuario es típicamente un productor agrícola o un gerente de una empresa agroindustrial que busca mejorar la eficiencia y calidad de la producción agrícola.
+
+#### ¿Dónde encaja nuestro producto en sus trabajos o vidas?
+
+Nuestro producto encaja en su día a día al facilitar la gestión de productos agrícolas, desde el cultivo hasta la distribución, optimizando operaciones y mejorando la calidad del producto final.
+
+#### ¿Qué problema resuelve nuestro producto?
+
+Nuestro producto resuelve problemas como la ineficiencia en la gestión de inventario, y la dificultad para monitorear el crecimiento de cultivos, mejorando la eficiencia operativa y la calidad de la producción agrícola.
+
+#### ¿Cuándo y cómo es usado nuestro producto?
+
+Nuestro producto es utilizado a lo largo de todo el ciclo de producción agrícola, desde la planificación de cultivos hasta la distribución, a través de una plataforma digital accesible desde dispositivos móviles o computadoras.
+
+#### ¿Qué características son importantes?
+
+Las caracteristicas de seguimiento de la cadena de suministro en tiempo real, gestión automatizada de inventario, herramientas de monitorización de cultivos, trazabilidad de productos, y análisis de datos para la toma de decisiones informadas.
+
+#### ¿Cómo debería verse y comportarse nuestro producto?
+
+Nuestro producto debe ser una interfaz intuitiva y fácil de usar, con visualizaciones claras de datos y herramientas de análisis poderosas. Debería ser confiable, escalable y adaptable a las necesidades específicas de cada usuario.
+
+#### Business Assumptions
+
+1. **Creemos que nuestros clientes necesitan** una solución que les permita gestionar eficientemente sus operaciones agrícolas, desde el cultivo hasta la distribución, mejorando la eficiencia y la calidad de la producción.
+2. **Estas necesidades se pueden resolver con una** plataforma digital que integre funciones de seguimiento del clima, gestión de inventario, monitorización de cultivos y análisis de datos, proporcionando herramientas poderosas para la toma de decisiones informadas.
+3. **El valor #1 que mi cliente quiere de mi servicio** es la mejora en la eficiencia operativa y la calidad de la producción agrícola, lo que les permite maximizar los rendimientos y la rentabilidad.
+4. **El cliente también puede obtener beneficios adicionales como** un mejor manejo de sus cultivos ya que estaran atentos del clima y plagas y sabran como tratarlas.
+5. **Voy a adquirir la mayoría de mis clientes** a través de campañas de marketing dirigidas a productores agrícolas y redes sociales.
+6. **Haré dinero a través de** modelos de suscripción mensual o anual por el uso de nuestra plataforma.
+7. **Mi competencia principal en el mercado** son otras soluciones de gestión agrícola existentes, tanto tradicionales como digitales.
+8. **Los venceremos debido a la simplicidad** .y facilidad de uso de nuestra plataforma, así como a su capacidad para ofrecer una solución integral y altamente personalizable que se adapte a las necesidades específicas de cada cliente
+9. **El mayor riesgo es que** los clientes no adopten nuestra solución debido a la resistencia al cambio o a la falta de conocimiento tecnollogico.
+10. **Resolveremos esto a través de** demostraciones y pruebas gratuitas de nuestra plataforma, y proporcionando un sólido soporte al cliente para garantizar una implementación exitosa y una experiencia positiva del usuario.
+
+#### 1.2.2.3 Lean UX Hypothesis Statements
+
+### Hipótesis 1:
+
+**\*Creemos que** _al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola _
+**Sabremos que** _los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados _
+
+### Hipótesis 2:
+
+**_Creemos_** _ que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real _
+**Sabremos que** _los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha _
+
+Hipótesis 3:
+
+### Hipótesis 3:
+
+**\*Creemos que** _ al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola _
+**Sabremos que** _ los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas _
+
+#### 1.2.2.4 Lean UX Canvas
+
+<TABLE BORDER>
+	<TR>
+		<TD ROWSPAN=2>
+
+**Lean UX Canvas**
+
+</TD>
+	    	<TD ROWSPAN=2></TD> <TD>
+
+**Fecha:** 16/04/2024
+
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**Iteración 1**
+
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN>
+        
+**1. Problema de negocios:**
+        
+Los productores agrícolas enfrentan dificultades para gestionar eficientemente sus operaciones debido a los cambios climaticos y plagas , lo que resulta en ineficiencias en la cadena de suministro, pérdidas de cultivos y productos, y una falta de transparencia en la trazabilidad de los productos agrícolas.
+</TD>
+	    	<TD ROWSPAN=2>
+
+**5. Ideas de solución:**
+Desarrollar una aplicacion que integre seguimiento en tiempo real , monitorización del clima, y aviso de plagas.
+
+</TD> <TD ROWSPAN=2>
+
+**2. Resultados comerciales:**
+
+- Mejora en la calidad del producto
+- educción de pérdidas y desperdicios
+- Aumento de la satisfacción del cliente
+
+</TD> 
+	</TR>
+	<TR>
+		<TD >
+        
+**3. Usuarios y Clientes:**
+pequeñas empresas y grandes empresas agrícolas.
+</TD> 
+	</TR>
+    <TR>
+		<TD ROWSPAN=2>
+
+**6. Hipótesis**
+
+Hipótesis 1:
+**\*Creemos que** _al implementar un sistema de seguimiento en tiempo real de la cadena de suministro agrícola _
+**Sabremos que** _los productores podrán mejorar la visibilidad y la eficiencia de sus operaciones, reduciendo los tiempos de inactividad y los costos asociados _
+
+Hipótesis 2:
+**_Creemos_** _ que al proporcionar herramientas de monitorización de cultivos basadas en datos en tiempo real _
+**Sabremos que** _los productores podrán identificar y abordar de manera proactiva problemas de salud de los cultivos, mejorando así el rendimiento y la calidad de la cosecha _
+
+Hipótesis 3:
+**\*Creemos que** _ al proporcionar análisis de datos avanzados y recomendaciones personalizadas para la gestión agrícola _
+**Sabremos que** _ los productores podrán tomar decisiones más informadas y estratégicas, mejorando la productividad y la rentabilidad de sus operaciones agrícolas _
+
+</TD>
+
+<TD ROWSPAN=2>
+
+**7. ¿Qué es lo más importante que debemos aprender primero?**
+
+Lo más importante que debemos aprender primero es comprender a fondo las necesidades y desafíos específicos de nuestros usuarios y clientes en la industria agrícola. Esto incluye entender sus procesos operativos, identificar los problemas más urgentes que enfrentan en la gestión de cultivos y conocer sus expectativas y prioridades en cuanto a soluciones tecnológicas.
+
+</TD>
+
+<TD>
+
+**4. Beneficios del usuario:**
+
+- Mejora de la eficiencia operativa y la rentabilidad para los productores agrícolas.
+- Reducción de pérdidas de cultivos y productos debido a una gestión más eficiente de la cadena de suministro.
+</TD> 
+	</TR>
+	<TR>
+		<TD>
+
+**8. ¿Cuál es la menor cantidad de trabajo que necesitamos para resolver las dudas y para hacer lo siguiente más importante?**
+La menor cantidad de trabajo que necesitamos para resolver las dudas y avanzar en lo siguiente más importante es realizar una investigación inicial centrada en los usuarios y clientes potenciales. Esto puede incluir entrevistas, encuestas u otros métodos de investigación para comprender mejor sus necesidades, desafíos y expectativas.
+
+Una vez que tengamos una comprensión sólida de las necesidades de los usuarios, podemos priorizar el desarrollo de características y funcionalidades de nuestra solución que aborden directamente esos problemas identificados. Esto nos permitirá enfocarnos en lo más importante para nuestros usuarios y garantizar que nuestra solución sea relevante y útil desde el principio
+
+</TD> 
+	</TR>
+</TABLE>
+
 ---
+
+## 1.3 Segmentos objetivo
+
+<TABLE BORDER>
+	<TR>
+		<TD>
+
+**Tipo de usuario**</TD> <TD>
+
+**Geográfico** </TD> <TD>
+
+**Psicográfico**</TD> <TD>
+
+**Demográfico**</TD>
+
+</TR>
+	<TR>
+		<TD> Pequeños y Grandes Agricultores </TD> <TD>Puede estar ubicado en cualquier campo o zona de cultivo.</TD> 
+        <TD>
+
+- Busca mejorar la eficiencia y calidad de su producción.
+- Creativo y curioso.
+- Desea apoyo en su cultivo
+</TD> 
+<TD>
+
+- Edad: desde adultos jovenes hasta adultos mayores.
+
+</TD>
+	</TR>
+    <TR>
+		<TD> Consultores </TD> <TD> Especializados en el rubro agrícola.</TD> 
+        <TD>
+
+- Quiere ayudar a las empresas pequeñas y grandes a tener un mejor cuidado con sus plantas.
+- Desea estar atento a las peticiones de contrato y ayuda de los clientes.
+- Le gusta ver que sus clientes salgan satisfechos con sus consejos.
+</TD> <TD>
+
+- Edad: Desde adultos jóvenes hasta adultos mayores.
+</TD>
+	</TR>
+
+</TABLE>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
