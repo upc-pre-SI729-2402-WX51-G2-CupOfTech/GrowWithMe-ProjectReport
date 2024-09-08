@@ -77,7 +77,7 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [1.2.2.3 Lean UX Hypothesis Statements](#1211-lean-ux-hyphotesis-statements)
+      - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hyphotesis-statements)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
     - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
@@ -1197,7 +1197,7 @@ Istalar SQL server
 Crear la base de datos de GrowWithMe
 Crear las tablas de las entidades mensionadas
 
-## 5.2 Landing Page, Services & Applications Implementation.
+## 5.2 Landing Page, Services & Applications Implementation
 
 ### 5.2.1 Sprint 1
 
