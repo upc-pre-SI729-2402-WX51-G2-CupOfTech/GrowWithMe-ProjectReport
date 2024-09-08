@@ -426,7 +426,7 @@ Hipótesis 3:
 </TD>
 	    	<TD ROWSPAN=2></TD> <TD>
 
-**Fecha:** 16/04/2024
+**Fecha:** 7/09/2024
 
 </TD> 
 	</TR>
@@ -796,7 +796,7 @@ En esta sección, diseñaremos las guías de estilo que son los patrones a segui
 
 ### 4.1.1 General Style Guidelines
 
-A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo 
+A continuación, se mostrará la paleta general de colores para la aplicación, iconos, logo
 y tipografía que hemos escogido para nuestra aplicación web.
 
 ![GeneralStyleGuidelines](assets/GeneralStyleGuidelines.png)
@@ -805,9 +805,10 @@ Decidimos que para nuestra aplicación apliquemos una interfaz simple y fácil d
 atención del usuario. También esta característica ayuda en el rendimiento de la aplicación, por lo que el tiempo de espera del usuario será el mínimo.
 
 ### 4.1.2 Web Style Guidelines
-Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples 
-para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación. 
-Además, nosotros hemos decidido desarrollar una landing page y una aplicación web con interacción responsiva para 
+
+Hemos escogido optar por un tono de comunicación y un lenguaje serio y casual con palabras simples
+para que cualquier usuario puedan entender fácilmente las funcionalidades de nuestra aplicación.
+Además, nosotros hemos decidido desarrollar una landing page y una aplicación web con interacción responsiva para
 adaptarse a diferentes dispositivos facilitando la comprensión y adaptabilidad del contenido.
 
 ![WebStyleGuidelines](assets/WebStyleGuidelines.png)
@@ -815,6 +816,7 @@ adaptarse a diferentes dispositivos facilitando la comprensión y adaptabilidad 
 ## 4.2 Information Architecture
 
 ### 4.2.1 Organization Systems
+
 En esta parte sintetizamos la estructura del sistema en dos partes: la landing page y la aplicación web.
 La primera está destinada a contener la información sobre el proyecto y nuestro equipo; mientras que la segunda tratará
 las funcionalidades y la lógica de negocio.
@@ -822,37 +824,43 @@ las funcionalidades y la lógica de negocio.
 ![OrganizationSystems](assets/OrganizationSystems.png)
 
 ### 4.2.2 Labeling Systems
-Como anteriormente hemos explicado, se presenta el contenido con un lenguaje serio y casual para garantizar una mayor comprensión. 
+
+Como anteriormente hemos explicado, se presenta el contenido con un lenguaje serio y casual para garantizar una mayor comprensión.
 A continuación explicaremos los conjuntos de información dentro de nuestra landing page.
 
-| **Título** | **Descripción** |
-|------------|-----------------|
-| Inicio     | Aquí se expone un vistazo general de lo que ofrece nuestro proyecto |
-| Servicios  | Se presentan algunas de las funcionalidades y características que ofrece nuestra aplicación web |
+| **Título** | **Descripción**                                                                                     |
+| ---------- | --------------------------------------------------------------------------------------------------- |
+| Inicio     | Aquí se expone un vistazo general de lo que ofrece nuestro proyecto                                 |
+| Servicios  | Se presentan algunas de las funcionalidades y características que ofrece nuestra aplicación web     |
 | Equipo     | En esta sección los visitantes pueden conocer a los miembros del equipo de desarrollo de GrowWithMe |
-| Tarifas    | Se exponen los planes de suscripción que ofrecemos |
-| Contacto   | En esta parte se encuentran las redes sociales de nuestro proyecto |
+| Tarifas    | Se exponen los planes de suscripción que ofrecemos                                                  |
+| Contacto   | En esta parte se encuentran las redes sociales de nuestro proyecto                                  |
 
 ### 4.2.3 SEO Tags and Meta Tags
+
 Para ayudar a destacar y diferenciar a nuestro sitio web se tienen que tener ciertas etiquetas específicas para ayudarnos a tener mejor exposición en diferentes
 motores de búsqueda.
-  - Título de Landing Page y Web Application: GrowWithMe.
-  - Descripción: GrowWithMe servicio de consultoría y planeamiento agrícola.
-  - Palabras clave: agricultura, planeación, cultivo, plantas.
-  - Autores: Cup Of Tea.
+
+- Título de Landing Page y Web Application: GrowWithMe.
+- Descripción: GrowWithMe servicio de consultoría y planeamiento agrícola.
+- Palabras clave: agricultura, planeación, cultivo, plantas.
+- Autores: Cup Of Tea.
 
 ### 4.2.4 Searching Systems
-Dentro de nuestra landing page el usuario tiene la libertad de observar y conocer las características del proyecto y el equipo de desarrollo. 
+
+Dentro de nuestra landing page el usuario tiene la libertad de observar y conocer las características del proyecto y el equipo de desarrollo.
 También se podra acceder a la aplicación web donde ofrecemos las funcionalidades que nuestro segmento objetivo necesita. Algunas de las funcionalidades que
 nuestro usuario puede encontrar luego de realizar la búsqueda dentro de nuestra aplicación web son:
- - Registrar tipo de cultivo
- - Listado de cultivos
- - Ajustes de notificaciones
- - Seguimiento de cultivo
- - Visualización de perfil
- - Visualizar consejos
+
+- Registrar tipo de cultivo
+- Listado de cultivos
+- Ajustes de notificaciones
+- Seguimiento de cultivo
+- Visualización de perfil
+- Visualizar consejos
 
 ### 4.2.5 Navigation Systems
+
 El visitante o usuario dentro de nuestra landing page podrán explorar el contenido mediante la barra de desplazamiento ubicada en la parte derecha. Además,
 los encabezados funcionan como botones que ayudan a explorar la página de manera más precisa. Esto ayuda a que nuestro sitio web tenga una interacción intuitiva y simple.
 
@@ -867,8 +875,6 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 ![LandingPageWireframe5](assets/LPWireframe5.png)
 
 ### 4.3.2 Landing Page Mock-up
-
-
 
 ## 4.4 Web Applications UX/UI Design
 
@@ -887,42 +893,42 @@ Para la realización de los Wireflow Diagrams hemos separado cada diagrama por U
 **Segmento 1: Agricultores y pymes agrícolas** <br>
 
 - User Goal: Ingresar a la página principal de la Aplicación Web como usuario agricultor.
-	Para este objetivo el usuario agricultor ingresa a la página de iniciar sesión o registro, si el usuario está registrado ingresará sus datos y entrará a la página principal de nuestra aplicación; sin embargo, si no está registrado se le redigirá a la página de registro de usuario agricultor. Una vez registrado podrá ingresar como en la primera ruta como se muestra en el gráfico.
-![WFFarmer1](assets/WFFarmer1.png)
+  Para este objetivo el usuario agricultor ingresa a la página de iniciar sesión o registro, si el usuario está registrado ingresará sus datos y entrará a la página principal de nuestra aplicación; sin embargo, si no está registrado se le redigirá a la página de registro de usuario agricultor. Una vez registrado podrá ingresar como en la primera ruta como se muestra en el gráfico.
+  ![WFFarmer1](assets/WFFarmer1.png)
 
 - User Goal: Agregar un cultivo a la planificación del agricultor.
-	El objetivo es agregar el cultivo en la aplicación del agricultor, previamente registrado, ingresando desde la página principal mediante el botón "Crops". Luego se cliquea el botón "Add crop" para ingresar la información del cultivo junto con la ayuda opcional de un consultor.
-![WFFarmer2](assets/WFFarmer2.png)
+  El objetivo es agregar el cultivo en la aplicación del agricultor, previamente registrado, ingresando desde la página principal mediante el botón "Crops". Luego se cliquea el botón "Add crop" para ingresar la información del cultivo junto con la ayuda opcional de un consultor.
+  ![WFFarmer2](assets/WFFarmer2.png)
 
 - User Goal: Visualizar el calendario de la planificación del agricultor.
-	Para alcanzar el user goal, primero, el usuario agricultor registrado debe ingresar desde la página principal a través del botón "Crops". Después se dirige a la parte inferior y al pulsar el botón "Calendar" el usuario ingresará al calendario respectivo de su planificación.
-![WFFarmer3](assets/WFFarmer3.png)
+  Para alcanzar el user goal, primero, el usuario agricultor registrado debe ingresar desde la página principal a través del botón "Crops". Después se dirige a la parte inferior y al pulsar el botón "Calendar" el usuario ingresará al calendario respectivo de su planificación.
+  ![WFFarmer3](assets/WFFarmer3.png)
 
 - User Goal: Visualizar la información de los equipos y empleados de la empresa agricultora.
-	Para alcanzar el objetivo en este user goal el usuario agricultor deberá dirigirse al botón "Employees" desde la página principal de la aplicación. Luego para ver la información de los equipos de un empleado se pulsará el botón "View teams" del empleado que el usuario desee. Por otro lado si se quiere ver la información personal del empleado se dirigirá al botón "Information" desde la página "Employees".
-![WFFarmer4](assets/WFFarmer4.png)
+  Para alcanzar el objetivo en este user goal el usuario agricultor deberá dirigirse al botón "Employees" desde la página principal de la aplicación. Luego para ver la información de los equipos de un empleado se pulsará el botón "View teams" del empleado que el usuario desee. Por otro lado si se quiere ver la información personal del empleado se dirigirá al botón "Information" desde la página "Employees".
+  ![WFFarmer4](assets/WFFarmer4.png)
 
 - User Goal: Registrar un empleado dentro de la empresa agricultora.
-	Para este objetivo el usuario agricultor debe pulsar el botón "Employees" desde la página principal para luego pulsar el botón "Add employee" en la parte superior izquierda. Finalmente se le aparecerá la página donde podrá ingresar los datos correspondientes al nuevo empleado.
-![WFFarmer5](assets/WFFarmer5.png)
+  Para este objetivo el usuario agricultor debe pulsar el botón "Employees" desde la página principal para luego pulsar el botón "Add employee" en la parte superior izquierda. Finalmente se le aparecerá la página donde podrá ingresar los datos correspondientes al nuevo empleado.
+  ![WFFarmer5](assets/WFFarmer5.png)
 
 - User Goal: Visualizar las finanzas y el balance mensual de la empresa agricultora.
-	Para el cumplimiento de este user goal el usuario agricultor deberá ingresar desde la pagina principal de la aplicación web AgroGes pulsando el botón "Finance" ubicado en la parte izquierda de la pantalla. Luego se ubicará en la parte superior derecha para clicar el botón "Monthly balance" para ver el balance mensual de su respectiva empresa.
-![WFFarmer6](assets/WFFarmer6.png)
+  Para el cumplimiento de este user goal el usuario agricultor deberá ingresar desde la pagina principal de la aplicación web AgroGes pulsando el botón "Finance" ubicado en la parte izquierda de la pantalla. Luego se ubicará en la parte superior derecha para clicar el botón "Monthly balance" para ver el balance mensual de su respectiva empresa.
+  ![WFFarmer6](assets/WFFarmer6.png)
 
 **Segmento 2: Consultores agrícolas** <br>
 
 - User Goal: Ingresar a la página principal de la Aplicación Web como usuario consultor.
- 	Para este user goal el usuario consultor deberá haberse creado una cuenta de consultor previamente, de otra forma tendrá que registrarse para ingresar. Una vez creada la cuenta podrá ingresar a la página principal de la aplicación web de AgroGes.
-![WFConsultant1](assets/WFConsultant1.png)
+  Para este user goal el usuario consultor deberá haberse creado una cuenta de consultor previamente, de otra forma tendrá que registrarse para ingresar. Una vez creada la cuenta podrá ingresar a la página principal de la aplicación web de AgroGes.
+  ![WFConsultant1](assets/WFConsultant1.png)
 
 - User Goal: Visualizar la información de las empresas que el usuario consultor tiene a su cargo.
-	Para el cumplimiento de este user goal el usuario, previamente registrado, ingresa a la página principal de la aplicación web para luego clicar el botón "Monitoring". Después se mostrará la lista de empresas que tiene a su cargo. Finalmente si pulsa en el botón "Monitoring" en la card de la empresa que desee se mostrará la información pertinente a tal empresa.
-![WFConsultant2](assets/WFConsultant2.png)
+  Para el cumplimiento de este user goal el usuario, previamente registrado, ingresa a la página principal de la aplicación web para luego clicar el botón "Monitoring". Después se mostrará la lista de empresas que tiene a su cargo. Finalmente si pulsa en el botón "Monitoring" en la card de la empresa que desee se mostrará la información pertinente a tal empresa.
+  ![WFConsultant2](assets/WFConsultant2.png)
 
 - User Goal: Visualizar la información de las peticiones de contrato de las empresas que tiene el usuario consultor.
-	Para este user goal la ruta que usaremos es la siguiente: Primero nos ubicamos en la página principal de la aplicación web para dirigirnos al botón "Contracts". Finalmente la información del contrato propuesto por la empresa se mostrará y el usuario consultor es quien elige si aceptar o rechazar la propuesta.
-![WFConsultant3](assets/WFConsultant3.png)
+  Para este user goal la ruta que usaremos es la siguiente: Primero nos ubicamos en la página principal de la aplicación web para dirigirnos al botón "Contracts". Finalmente la información del contrato propuesto por la empresa se mostrará y el usuario consultor es quien elige si aceptar o rechazar la propuesta.
+  ![WFConsultant3](assets/WFConsultant3.png)
 
 ### 4.4.3 Web Applications Mock-ups
 
@@ -949,42 +955,42 @@ Al igual que los Wireflow Diagram, nuestros User Flow Diagrams también se divid
 **Segmento 1: Agricultores y pymes agrícolas** <br>
 
 - User Goal: Ingresar a la página principal de la Aplicación Web AgroGes como usuario agricultor.
-	El usuario para lograr ingreasr como agricultor a la aplicación web AgroGes primero deberá crearse una cuenta. Luego, la misma aplicación validará el RUC y la contraseña proporcionada, si falla uno de los campos se redirigirá a la misma página para que vuelva a intentar. Si el RUC y la contraseña son las correctas el usuario agricultor logrará ingresar a la página principal.
-![UFFarmer1](assets/UFFarmer1.png)
+  El usuario para lograr ingreasr como agricultor a la aplicación web AgroGes primero deberá crearse una cuenta. Luego, la misma aplicación validará el RUC y la contraseña proporcionada, si falla uno de los campos se redirigirá a la misma página para que vuelva a intentar. Si el RUC y la contraseña son las correctas el usuario agricultor logrará ingresar a la página principal.
+  ![UFFarmer1](assets/UFFarmer1.png)
 
 - User Goal: Agregar un cultivo a la planificación del agricultor.
-	La ruta del usuario agricultor para agregar un cultivo será primero posicionarse en la página principal para luego ingresar a la página "Crops" donde se visualiza la información de los cultivos. Finalmente, mediante el botón "Add crop" se redirigirá a la página "Add crop" donde se validará la información y se determinará si se agrega o no se agrega.
-![UFFarmer2](assets/UFFarmer2.png)
+  La ruta del usuario agricultor para agregar un cultivo será primero posicionarse en la página principal para luego ingresar a la página "Crops" donde se visualiza la información de los cultivos. Finalmente, mediante el botón "Add crop" se redirigirá a la página "Add crop" donde se validará la información y se determinará si se agrega o no se agrega.
+  ![UFFarmer2](assets/UFFarmer2.png)
 
 - User Goal: Visualizar el calendario de la planificación del agricultor.
-	Para lograr visualizar el calendario donde el agricultor ha planificado sus cultivos deberá primero dirigirse a la página "Crops" para luego clicar sobre el botón "Calendar" para ver las fechas correspondientes a la planificación.
-![UFFarmer3](assets/UFFarmer3.png)
+  Para lograr visualizar el calendario donde el agricultor ha planificado sus cultivos deberá primero dirigirse a la página "Crops" para luego clicar sobre el botón "Calendar" para ver las fechas correspondientes a la planificación.
+  ![UFFarmer3](assets/UFFarmer3.png)
 
 - User Goal: Visualizar la información de los equipos y empleados de la empresa agricultora.
-	Para que el usuario agricultor visualice la información de los equipos y empleados de su empresa deberá redirigirse desde la página principal de la aplicación web hacia la página de "Employees", donde desde ahí podrá seleccionar los botones "View teams" e "Information". El primer botón redirige a la página "Employees and Teams" donde se ven los equipos del usuario seleccionado. Por otro lado, el segundo botón redirige al usuario hacia la página "Employees" donde se visualiza la información del usuario seleccionado.
-![UFFarmer4](assets/UFFarmer4.png)
+  Para que el usuario agricultor visualice la información de los equipos y empleados de su empresa deberá redirigirse desde la página principal de la aplicación web hacia la página de "Employees", donde desde ahí podrá seleccionar los botones "View teams" e "Information". El primer botón redirige a la página "Employees and Teams" donde se ven los equipos del usuario seleccionado. Por otro lado, el segundo botón redirige al usuario hacia la página "Employees" donde se visualiza la información del usuario seleccionado.
+  ![UFFarmer4](assets/UFFarmer4.png)
 
 - User Goal: Registrar un empleado dentro de la empresa agricultora.
-	Para registrar un empleado dentro de la empresa siendo el usuario agricultor, primero se ubicará en la página principal para luego clicar sobre el botón "Employees". En esa página se encuentra el botón "Add employee" que, al pulsarlo, lo llevará a la página "Add Employee" donde tendrá que llenar el formulario del nuevo empleado. La aplicación validará los datos ingresados para redirigir al usuario si son incorrectos.
-![UFFarmer5](assets/UFFarmer5.png)
+  Para registrar un empleado dentro de la empresa siendo el usuario agricultor, primero se ubicará en la página principal para luego clicar sobre el botón "Employees". En esa página se encuentra el botón "Add employee" que, al pulsarlo, lo llevará a la página "Add Employee" donde tendrá que llenar el formulario del nuevo empleado. La aplicación validará los datos ingresados para redirigir al usuario si son incorrectos.
+  ![UFFarmer5](assets/UFFarmer5.png)
 
 - User Goal: Visualizar las finanzas y el balance mensual de la empresa agricultora.
-	Si el usuario agricultor desea visualizar las finanzas de su empresa deberá dirigirse pulsando el botón "Finance" desde la página principal. En esta página se mostrarán los cobros y pagos pendientes; además del botón "Monthly balance" que, al clicarlo, redirigirá al usuario al balance mensual de su empresa.
-![UFFarmer6](assets/UFFarmer6.png)
+  Si el usuario agricultor desea visualizar las finanzas de su empresa deberá dirigirse pulsando el botón "Finance" desde la página principal. En esta página se mostrarán los cobros y pagos pendientes; además del botón "Monthly balance" que, al clicarlo, redirigirá al usuario al balance mensual de su empresa.
+  ![UFFarmer6](assets/UFFarmer6.png)
 
 **Segmento 2: Consultores agrícolas** <br>
 
 - User Goal: Ingresar a la página principal de la Aplicación Web como usuario consultor.
- 	Si el usuario consultor desea ingresar a la página principal de AgroGes primero deberá haberse creado una cuenta de consultor, de lo contrario se dirigirá a la página "Create an account". Luego de haberse registrado la misma aplicación validará el DNI y la contraseña brindada por el usuario, si son incorrectas o correctas. Si las credenciales son correctas redirigirá al usuario a la página principal.
-![UFConsultant1](assets/UFConsultant1.png)
+  Si el usuario consultor desea ingresar a la página principal de AgroGes primero deberá haberse creado una cuenta de consultor, de lo contrario se dirigirá a la página "Create an account". Luego de haberse registrado la misma aplicación validará el DNI y la contraseña brindada por el usuario, si son incorrectas o correctas. Si las credenciales son correctas redirigirá al usuario a la página principal.
+  ![UFConsultant1](assets/UFConsultant1.png)
 
 - User Goal: Visualizar la información de las empresas que el usuario consultor tiene a su cargo.
-	El usuario consultor, para visualizar la información de las empresas que tiene a su cargo, deberá dirigirse desde la página principal a la página "Monitoring" mediante el botón con el mismo nombre. Luego se mostrará la lista de empresas que tiene a su cargo. Si presiona "Monitoring" en la empresa elegida se mostrará su respectiva información.
-![UFConsultant2](assets/UFConsultant2.png)
+  El usuario consultor, para visualizar la información de las empresas que tiene a su cargo, deberá dirigirse desde la página principal a la página "Monitoring" mediante el botón con el mismo nombre. Luego se mostrará la lista de empresas que tiene a su cargo. Si presiona "Monitoring" en la empresa elegida se mostrará su respectiva información.
+  ![UFConsultant2](assets/UFConsultant2.png)
 
 - User Goal: Visualizar la información de las peticiones de contrato de las empresas que tiene el usuario consultor.
-	Para visualizar la información de las peticiones de contrato, el usuario consultor deberá dirigirse al botón "Contracts". Una vez en la página "Contracts" se mostrarán las empresas que le ofrecieron un contrato. El usuario elegirá si aceptar o rechazar la petición.
-![UFConsultant3](assets/UFConsultant3.png)
+  Para visualizar la información de las peticiones de contrato, el usuario consultor deberá dirigirse al botón "Contracts". Una vez en la página "Contracts" se mostrarán las empresas que le ofrecieron un contrato. El usuario elegirá si aceptar o rechazar la petición.
+  ![UFConsultant3](assets/UFConsultant3.png)
 
 ## 4.5 Web Applications Prototyping
 
@@ -998,22 +1004,26 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Software Architecture Context Diagram
+
 ![ContextDiagram](assets/ContextDiagram.png)
 
 ### 4.6.2 Software Architecture Container Diagrams
+
 ![ContainerDiagram](assets/ContainerDiagram.png)
 
 ### 4.6.3 Software Architecture Components Diagrams
+
 ![ComponentsDiagram](assets/ComponentsDiagram.png)
 
 ## 4.7 Software Object-Oriented Design
 
 ### 4.7.1 Class Diagrams
+
 ![ClassDiagram](assets/ClassDiagram.png)
 
 ### 4.7.2 Class Dictionary
 
-*company*: Empresas a las que se les brinda el servicio.
+_company_: Empresas a las que se les brinda el servicio.
 -ruc: Código de la empresa
 -password: Contraseña con la que se accede a la cuenta
 -companyName: El nombre de una compañía
@@ -1022,7 +1032,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -createCompany(): Es el método por el cual se crea las nuevas empresas
 -updateData(): El método por el cual se actualizan los datos de una empresa
 
-*crop*: Es el cultivo al cual se le monitorea y administra.
+_crop_: Es el cultivo al cual se le monitorea y administra.
 -cropCode: Código del cultivo
 -area: Área del terreno
 -product: Alimento que produce el cultivo
@@ -1034,7 +1044,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -addExpense(): Registra un nuevo gasto para el cultivo
 -decreaseExpenditure(): Elimina un gasto
 
-*worker*: Personas que trabajan en las diferentes compañías agrícolas.
+_worker_: Personas que trabajan en las diferentes compañías agrícolas.
 -dni: Documento de identificación de los trabajadores
 -name: Nombre del trabajador
 -lastName: Apellido
@@ -1047,7 +1057,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -vacations(): Para cuando un empleado salga de vacaciones
 -updateData(): Permite actualizar los datos de los trabajadores
 
-*equipment*: Conjunto de Workers encargados de un Crop
+_equipment_: Conjunto de Workers encargados de un Crop
 -equipmentCode: Código del equipo
 -numberMembers: Dice la cantidad de integrantes de un equipo
 -canagerCode: Indica quién es el líder del equipo
@@ -1056,7 +1066,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -addMember(): Agrega a un nuevo miembro
 -removeMember(): Quitar a un miembro del equipo
 
-*collectionPending*: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
+_collectionPending_: Son las cobranzas pendientes de una empresa por los productos o servicios que ofrece.
 -collectionId: Código de la deuda a cobrar
 -ruc: Código de la empresa que es la deuda a cobrar
 -type: Qué tipo de cobranza es
@@ -1066,7 +1076,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -createPendingCollection(): Crea una nueva deuda a cobrar
 -updateStatus(): Actualiza si ya se pagó la deuda
 
-*pendingPayment*: Son las deudas pendientes de una Company.
+_pendingPayment_: Son las deudas pendientes de una Company.
 -collectionId: Código de la deuda a pagar
 -ruc: Código de la empresa que es la deuda a pagar
 -type: Qué tipo de cobranza es
@@ -1076,7 +1086,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -createPendingCollection(): Crea una nueva deuda a pagar
 -updateStatus(): Actualiza si ya se pagó la deuda
 
-*balance*: Esta clase se crea mensualmente y determina las ganancias de la Company.
+_balance_: Esta clase se crea mensualmente y determina las ganancias de la Company.
 -month: El mes del que se calcula el balance
 -spent: Gastos generados por la empresa
 -ingreso: Lo que generó la empresa
@@ -1084,24 +1094,25 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 -rucCompany: El código de la empresa que se está sacando el balance
 -createBalance: Calcula las ganancias de la empresa
 
-*contract*: Esta clase se crea una clase se crea cada ves que se desa contratar a un nuevo consultant
--companyRuc: Con este atributo se podrá reconocer a la empresa a quien se está contratando 
--consultanId: Con este atributo identificamos al consultor que se desea contratar 
--timeInApplication: Con esto se determina cuanto tiempo tiene la empresa en la aplicación 
--salary:El salario que ofrece la empresa por el puesto 
--descriptionNeeds: la empresa comenta la necesidad que tienen y desempeñarán en ese trabajo. 
--date: la fecha en la que se realiza el contrato 
+_contract_: Esta clase se crea una clase se crea cada ves que se desa contratar a un nuevo consultant
+-companyRuc: Con este atributo se podrá reconocer a la empresa a quien se está contratando
+-consultanId: Con este atributo identificamos al consultor que se desea contratar
+-timeInApplication: Con esto se determina cuanto tiempo tiene la empresa en la aplicación
+-salary:El salario que ofrece la empresa por el puesto
+-descriptionNeeds: la empresa comenta la necesidad que tienen y desempeñarán en ese trabajo.
+-date: la fecha en la que se realiza el contrato
 
-*notification*
+_notification_
 -transmitter: Es el que redacta la notificación.
 -receiver: Es el que recibe la notificación.
 -message: Es lo que se intenta comunicar en la notificación
 -hour: Es la hora en que se envía la notificación.
--date: es la fecha del envío. 
+-date: es la fecha del envío.
 
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagram
+
 ![DatabaseDiagram](assets/DatabaseDiagram.png)
 
 ---
@@ -1111,35 +1122,36 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 ## 5.1 Software Configuration Management
 
 ### 5.1.1 Software Development Environment Configuration
+
 **Miro :** Es una plataforma en línea que permite la colaboración en tiempo real y la creación de tableros virtuales, diagramar procesos, crear mapas mentales, hacer lluvias de ideas, diseñar wireframes y mucho más. Utilizamos esta herramienta para poder realizar mapas de escenarios As-Is y To-Be.
- 
- **Figma :** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
- 
- **Structurizi :**ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
 
- **IntelliJ IDEA :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
- 
- **Java :** Para el desarrollo del backend de la aplicación.
+**Figma :** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
 
- **Uxspresia : Para el desarrollo de los impact, empathy mappings y los user persona https://uxpressia.com**
- 
- **MySQL** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
- 
- **WebStorm :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
- 
- **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
- 
- **Angular** Un framework de desarrollo web para facilitar el front end
+**Structurizi :**ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
 
- **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
- 
- **CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
- 
- **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+**IntelliJ IDEA :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
+
+**Java :** Para el desarrollo del backend de la aplicación.
+
+**Uxspresia : Para el desarrollo de los impact, empathy mappings y los user persona https://uxpressia.com**
+
+**MySQL** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+
+**WebStorm :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
+
+**Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+
+**Angular** Un framework de desarrollo web para facilitar el front end
+
+**HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
+
+**CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
+
+**JavaScript:** Para agregar interactividad y funcionalidad a la página web.
 
 ### 5.1.2 Source Code Management
 
- Repositorio del Landing Page: 
+Repositorio del Landing Page:
 
 En el marco de este proyecto, se implementarán tres ramas principales: "master", "develop" y "feature branches".
 
@@ -1159,27 +1171,27 @@ Además, hemos establecido el uso de terminología en inglés para las diferente
 
 ### 5.1.4 Software Deployment Configuration
 
-Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto 
-  Hardward:
-  Procesador	Intel Xeon E-2324G 
-  Disco duro	10TB
-  Memoria	64GB DDR4
-  
-  Sistema Operativo: 
-  Windows server 
+Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto
+Hardward:
+Procesador Intel Xeon E-2324G
+Disco duro 10TB
+Memoria 64GB DDR4
 
-  Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web 
-  Microsoft Azure 
+Sistema Operativo:
+Windows server
+
+Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web
+Microsoft Azure
 
 Configuración del servidor: Configuración del servidor necesario para alojar el sistema
-  Node.js
-  Angular
-  SQL server 
+Node.js
+Angular
+SQL server
 
 Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos
-  Istalar SQL server 
-  Crear la base de datos de AgroGes
-  Crear las tablas de las entidades mensionadas 
+Istalar SQL server
+Crear la base de datos de AgroGes
+Crear las tablas de las entidades mensionadas
 
 ## 5.2 Landing Page, Services & Applications Implementation.
 
@@ -1193,19 +1205,19 @@ En este sprint nos enfocaremos en establecer los cimientos para la creación de 
 - Seleccionar una paleta de colores y definir estilos visuales.
 - Configurar el repositorio en GitHub para el proyecto.
 
-| Sprint # | Sprint 1 |
-|----------|----------|
-| | Sprint Planning Background |
-| Date | 2024-09-07 |
-| Location | Reunión virtual a través de google meet |
-| Prepared By | Landeo Simeón, Favio Sebastián |
-| Attendees | Landeo Simeón, Favio Sebastián; Paucar Meneses, Jeremy Alion |
-| Sprint n - 1 Review Summary | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio |
-| Sprint n - 1 Retrospective Summary| Opinamos que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
-| | Sprint Goal & User Stories |
-| Sprint 1 Goal | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con  |
-| Sprint 1 Velocity | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro |
-| Sum of Story Points | 9 Story points serán los que incluimos en este sprint | 
+| Sprint #                           | Sprint 1                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                                                    |
+| Date                               | 2024-09-07                                                                                                                                                                                                                                                                                                                                    |
+| Location                           | Reunión virtual a través de google meet                                                                                                                                                                                                                                                                                                       |
+| Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
+| Attendees                          | Landeo Simeón, Favio Sebastián; Paucar Meneses, Jeremy Alion                                                                                                                                                                                                                                                                                  |
+| Sprint n - 1 Review Summary        | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio                                              |
+| Sprint n - 1 Retrospective Summary | Opinamos que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
+|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
+| Sprint 1 Goal                      | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con                                                                                                                                                                                                                            |
+| Sprint 1 Velocity                  | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro                                                                                                                                                                                                                   |
+| Sum of Story Points                | 9 Story points serán los que incluimos en este sprint                                                                                                                                                                                                                                                                                         |
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -1216,11 +1228,11 @@ El backlog del sprint incluye las siguientes tareas:
 3. Configurar la estructura básica de la landing page utilizando HTML.
 4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
 
-| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
-|----|-------|----|-------|-------------|-------------------|-------------|--------|
-| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | Done |
-| T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas, Daniel del Castillo |  Done |
-| T03 | Contactar al equipo de ventas | W03 | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información |1| Gustavo Poma, Sergio Pecan  | Done |
+| User Story Id | Title                                  | Work-Item/Task Id | Title                                                        | Description                                                                                                                       | Estimation(Hours) | Assigned To                            | Status |
+| ------------- | -------------------------------------- | ----------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------- | ------ |
+| T01           | Explorar la página de Inicio           | W01               | Estilos adecuados de la landing                              | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto             | 1                 | Gustavo Poma, Favio Landeo             | Done   |
+| T02           | Ver Información de Productos/Servicios | W02               | Añadir información de nuestro producto                       | Añadir más información sobre nuestro producto y los beneficios que este traerá                                                    | 1                 | Andrea Cabanillas, Daniel del Castillo | Done   |
+| T03           | Contactar al equipo de ventas          | W03               | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información | 1                 | Gustavo Poma, Sergio Pecan             | Done   |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -1231,8 +1243,8 @@ Durante el sprint, se desarrollaron los siguientes elementos:
 - Estructura básica de la landing page creada en HTML.
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|---------------------|--------------------|
-| Landing | main | * |  |  07/09/2024  |
+| ---------- | ------ | --------- | ------------------- | ------------------ |
+| Landing    | main   | \*        |                     | 07/09/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1253,7 +1265,6 @@ No se realizó despliegue de software en este sprint, ya que el enfoque se centr
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
-
 
 ---
 
