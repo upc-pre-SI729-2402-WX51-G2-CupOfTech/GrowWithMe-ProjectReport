@@ -790,7 +790,6 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 # Capítulo IV: Product Design
 
-
 ## 4.1 Style Guidelines
 
 En esta sección, diseñaremos las guías de estilo que son los patrones a seguir para construir nuestro producto desde cero, establecer un estándar en la tipografía, tamaño y paleta de colores necesarios para que nuestra aplicación web se pueda diseñar de una manera más rápida y efectiva desde el inicio del proceso de prototipado. Todo estodesarrollándolo bajo un repositorio común en GitHub.
@@ -999,7 +998,7 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 ## 4.6 Domain-Driven Software Architecture
 
 ### 4.6.1 Software Architecture Context Diagram
-
+![ContextDiagram](assets/ContextDiagram.png)
 
 ### 4.6.2 Software Architecture Container Diagrams
 ![ContainerDiagram](assets/ContainerDiagram.png)
@@ -1109,12 +1108,166 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+## 5.1 Software Configuration Management
+
+### 5.1.1 Software Development Environment Configuration
+**Miro :** Es una plataforma en línea que permite la colaboración en tiempo real y la creación de tableros virtuales, diagramar procesos, crear mapas mentales, hacer lluvias de ideas, diseñar wireframes y mucho más. Utilizamos esta herramienta para poder realizar mapas de escenarios As-Is y To-Be.
+ 
+ **Figma :** Figma es una herramienta de diseño colaborativo basada en la nube que permite a los equipos crear, colaborar y prototipar interfaces de usuario de manera eficiente, Nuestro equipo lo utilizo para el desarrollo Wireframes, Mock-ups y Prototypes.
+ 
+ **Structurizi :**ayuda a dibujar y documentar la arquitectura de tu software. Te permite crear diagramas que muestran cómo funcionan tus sistemas y cómo están conectados entre sí. Nosotros lo utilizamos para la creacion de diagramas c4.
+
+ **IntelliJ IDEA :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones de software, especialmente para el desarrollo en Java y otras tecnologías JVM como Kotlin y Groovy. También ofrece soporte para una amplia gama de lenguajes de programación y tecnologías, incluidas las relacionadas con el desarrollo web, como HTML, CSS, JavaScript y frameworks como Spring.
+ 
+ **Java :** Para el desarrollo del backend de la aplicación.
+
+ **Uxspresia : Para el desarrollo de los impact, empathy mappings y los user persona https://uxpressia.com**
+ 
+ **MySQL** Como sistema de gestión de bases de datos relacionales para almacenar y manejar los datos de la aplicación.
+ 
+ **WebStorm :** Como entorno de desarrollo integrado (IDE) para el desarrollo de aplicaciones web, especialmente para el trabajo con tecnologías como JavaScript, HTML, CSS y frameworks como React, Angular y Vue.js.
+ 
+ **Git y GitHub:** Para el control de versiones y la colaboración en el desarrollo del proyecto.
+ 
+ **Angular** Un framework de desarrollo web para facilitar el front end
+
+ **HTML (HyperText Markup Language):** Para estructurar el contenido de la página web.
+ 
+ **CSS (Cascading Style Sheets):** Para diseñar y dar estilo al contenido HTML.
+ 
+ **JavaScript:** Para agregar interactividad y funcionalidad a la página web.
+
+### 5.1.2 Source Code Management
+
+ Repositorio del Landing Page: 
+
+En el marco de este proyecto, se implementarán tres ramas principales: "master", "develop" y "feature branches".
+
+La rama "feature branches" se destinará específicamente para la creación de nuevas funcionalidades, clases u otros elementos que añadirán nuevas capacidades al proyecto. Esta rama servirá como un entorno aislado para el desarrollo de estas características, permitiendo un trabajo paralelo sin afectar la estabilidad del código principal.
+
+La rama "develop" funcionará como el entorno de integración continua, donde se unificarán y probarán los cambios provenientes de las ramas de características. En este entorno, los cambios deben ser integrados y asegurados para garantizar el funcionamiento cohesivo del proyecto.
+
+Finalmente, la rama "master" será la rama principal y estable del repositorio. Aquí se fusionarán todos los cambios provenientes de la rama "develop", generando así nuevas versiones del sistema. Esta rama representa el estado más actualizado y confiable del proyecto, adecuado para su despliegue en entornos de producción.
+
+Este enfoque de ramificación permite una gestión eficiente del desarrollo, facilitando la colaboración entre equipos y asegurando la estabilidad y calidad del software en cada etapa del ciclo de vida del proyecto.
+
+### 5.1.3 Source Code Style Guide & Conventions
+
+En el proceso de realizar commits, hemos optado por seguir el estándar de "Conventional Commits". Esta práctica nos brinda una estructura definida para nuestros mensajes de commit, lo que facilita la comprensión y la gestión de cambios en el repositorio.
+
+Además, hemos establecido el uso de terminología en inglés para las diferentes declaraciones en nuestras líneas de código en todos los lenguajes de programación empleados en el proyecto. Esta decisión busca promover la coherencia y la claridad en la comunicación del código, facilitando la colaboración entre miembros del equipo y mejorando la legibilidad del código fuente en general.
+
+### 5.1.4 Software Deployment Configuration
+
+Requisitos del sistema: Especifica los requisitos mínimos para ejecutar el proyecto 
+  Hardward:
+  Procesador	Intel Xeon E-2324G 
+  Disco duro	10TB
+  Memoria	64GB DDR4
+  
+  Sistema Operativo: 
+  Windows server 
+
+  Plataforma de alojamiento: La plataforma de alojamiento que utilizarás para desplegar la página web 
+  Microsoft Azure 
+
+Configuración del servidor: Configuración del servidor necesario para alojar el sistema
+  Node.js
+  Angular
+  SQL server 
+
+Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos
+  Istalar SQL server 
+  Crear la base de datos de AgroGes
+  Crear las tablas de las entidades mensionadas 
+
+## 5.2 Landing Page, Services & Applications Implementation.
+
+### 5.2.1 Sprint 1
+
+#### 5.2.1.1. Sprint Planning 1
+
+En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroGes utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+
+- Diseñar la estructura general de la landing page.
+- Seleccionar una paleta de colores y definir estilos visuales.
+- Configurar el repositorio en GitHub para el proyecto.
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+| | Sprint Planning Background |
+| Date | 2024-09-07 |
+| Location | Reunión virtual a través de google meet |
+| Prepared By | Landeo Simeón, Favio Sebastián |
+| Attendees | Landeo Simeón, Favio Sebastián; Paucar Meneses, Jeremy Alion |
+| Sprint n - 1 Review Summary | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio |
+| Sprint n - 1 Retrospective Summary| Opinamos que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
+| | Sprint Goal & User Stories |
+| Sprint 1 Goal | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con  |
+| Sprint 1 Velocity | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro |
+| Sum of Story Points | 9 Story points serán los que incluimos en este sprint | 
+
+#### 5.2.1.2. Sprint Backlog 1
+
+El backlog del sprint incluye las siguientes tareas:
+
+1. Crear wireframes para cada sección de la landing page.
+2. Seleccionar y aplicar una paleta de colores utilizando CSS.
+3. Configurar la estructura básica de la landing page utilizando HTML.
+4. Aplicar estilos básicos utilizando CSS para dar formato y diseño a la página.
+
+| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|----|-------|----|-------|-------------|-------------------|-------------|--------|
+| T01 | Explorar la página de Inicio | W01 | Estilos adecuados de la landing | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto |1| Gustavo Poma, Favio Landeo | Done |
+| T02 | Ver Información de Productos/Servicios | W02 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |1| Andrea Cabanillas, Daniel del Castillo |  Done |
+| T03 | Contactar al equipo de ventas | W03 | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información |1| Gustavo Poma, Sergio Pecan  | Done |
+
+#### 5.2.1.3. Development Evidence for Sprint Review
+
+Durante el sprint, se desarrollaron los siguientes elementos:
+
+- Wireframes detallados de cada sección de la landing page.
+- Paleta de colores definida y aplicada utilizando CSS.
+- Estructura básica de la landing page creada en HTML.
+
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|---------------------|--------------------|
+| Landing | main | * |  |  07/09/2024  |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page en diferentes dispositivos y navegadores.
+
+#### 5.2.1.5. Execution Evidence for Sprint Review
+
+Durante el sprint, se trabajó activamente en el desarrollo de la landing page utilizando HTML y CSS para estructurar y estilizar la página según los wireframes y la paleta de colores definida.
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+No se realizó despliegue de software en este sprint, ya que el enfoque se centró en el desarrollo inicial de la landing page.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
+
+
 ---
 
 # Conclusiones
+
+- Para la realización del informe del proyecto tuvimos complicaciones para dividirnos las partes y complicaciones con la estructura y desarrollo del mismo informe.
+- Concluimos también que el wireframe y el prototipado es importante para sentar las bases de un buen proyecto.
 
 ## Video About-the-Team
 
 # Bibliografía
 
 # Anexos
+
+Link al prototipo en Figma: https://www.figma.com/design/izQq2vBaGARTkC7mDjc923/CupOfTech---Grow-With-Me?node-id=183-805&t=scVk3r8qiP1fq1Lj-1
+
+Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f-9867-89efcc6c60ce/edit?viewport_loc=-2052%2C-1841%2C25503%2C11665%2C0_0&invitationId=inv_13fbd611-80d3-43d5-87d7-1b7457985373
