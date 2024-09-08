@@ -312,9 +312,20 @@ Nos enfocaremos en el sector que no cuenta con tecnología, brindando una soluci
 
 **Segmento 2: Consultores agrícolas** <br>
 
+**Entrevistada 1**: Abigail Mendoza<br>
+**link :** <br/>
+![Entrevis1](assets/Consultant_entrevista1.png) <br>
+**Resumen de la entrevista:** Abigail lleva 1 años trabajando en consultoría, disfruta particularmente ese trabajo. Su motivación principal proviene de su negocio en el terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir problemas ambientales en la agricultura. Utiliza principalmente Google como navegador web y prefiere Word para el software. Describe el trabajo en la cosecha como divertido y tiene como meta hacer crecer su negocio y adaptarse a la nueva tecnología.
+
+**Entrevistado 2**: Jesús Alvarado<br>
+**link :** <br/>
+![Entrevis2](assets/Consultant_entrevista2.png) <br>
+**Resumen de la entrevista:** Esta persona es un consultor que antes trabajaba como ingeniero ambiental, lleva 2 años en la agricultura. Está interesado en implementar programas para mejorar la gestión y prevenir problemas en el campo. Su principal motivación es su familia, que tiene un terreno de cultivo. Ha desarrollado habilidades para controlar y prevenir peligros ambientales en la agricultura. Utiliza Google como navegador web y prefiere Excel para el software. Su meta es mejorar y hacer crecer el negocio familiar en la agricultura.
+
 ### 2.2.3 Análisis de entrevistas
 
 De las entrevistas sacamos esta conclusion final:
+Los entrevistados esperarían de una app de agricultores una herramienta integral que les permita gestionar eficientemente sus cultivos, anticipar y prevenir problemas, y optimizar sus procesos agrícolas. Buscarían funcionalidades que les ayuden a monitorear el clima, controlar plagas y enfermedades, gestionar el tiempo y los recursos de manera efectiva, así como acceder a información actualizada sobre técnicas de cultivo y mejores prácticas. Además, esperarían una plataforma que fomente la colaboración y el intercambio de conocimientos entre agricultores, así como la posibilidad de realizar seguimiento de sus cosechas y ventas. En resumen, anhelarían una aplicación que les brinde las herramientas necesarias para mejorar la productividad, reducir riesgos y aumentar sus beneficios en el campo.
 
 ## 2.3 Needfinding
 
