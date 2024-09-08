@@ -876,6 +876,10 @@ los encabezados funcionan como botones que ayudan a explorar la página de maner
 
 ### 4.3.2 Landing Page Mock-up
 
+![LPMockup1](assets/LPMockup1.png)
+![LPMockup2](assets/LPMockup2.png)
+![LPMockup3](assets/LPMockup3.png)
+
 ## 4.4 Web Applications UX/UI Design
 
 ### 4.4.1 Web Applications Wireframes
@@ -1151,7 +1155,7 @@ _notification_
 
 ### 5.1.2 Source Code Management
 
-Repositorio del Landing Page:
+Repositorio del Landing Page: https://github.com/upc-pre-SI729-2402-WX51-G2-CupOfTech/GrowWithMe-Landing
 
 En el marco de este proyecto, se implementarán tres ramas principales: "master", "develop" y "feature branches".
 
@@ -1190,7 +1194,7 @@ SQL server
 
 Configuración de la base de datos: Configuración necesaria para instalar y configurar la base de datos
 Istalar SQL server
-Crear la base de datos de AgroGes
+Crear la base de datos de GrowWithMe
 Crear las tablas de las entidades mensionadas
 
 ## 5.2 Landing Page, Services & Applications Implementation.
@@ -1199,7 +1203,7 @@ Crear las tablas de las entidades mensionadas
 
 #### 5.2.1.1. Sprint Planning 1
 
-En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de AgroGes utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
+En este sprint nos enfocaremos en establecer los cimientos para la creación de la landing page de GrowWithMe utilizando HTML, CSS y JavaScript. Las tareas principales incluyen:
 
 - Diseñar la estructura general de la landing page.
 - Seleccionar una paleta de colores y definir estilos visuales.
@@ -1244,7 +1248,7 @@ Durante el sprint, se desarrollaron los siguientes elementos:
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
 | ---------- | ------ | --------- | ------------------- | ------------------ |
-| Landing    | main   | \*        |                     | 07/09/2024         |
+| Landing    | main   | *        |                     | 07/09/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
