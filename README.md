@@ -1333,6 +1333,8 @@ Durante el sprint, el equipo colaboró estrechamente en la definición de la est
 
 ## Video About-the-Team
 
+Link al video About-the-Team: https://youtu.be/2vOw07uLZFM
+
 # Bibliografía
 
 # Anexos
