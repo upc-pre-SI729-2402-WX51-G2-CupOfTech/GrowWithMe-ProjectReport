@@ -184,7 +184,7 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo me
 <br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
-TB1 <br>
+TB1 <br> Para esta entrega reforcé las habilidades orales de equipo que aprendí en cursos anteriores.
 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
@@ -218,7 +218,7 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
-          TB1 <br>
+          TB1 <br> Para esta entrega se nos presentaron nuevos conocimientos, los cuales teníamos que coordinar por escrito para avanzar con el proyecto.
           <br>
           <br>
           <strong> Landeo Simeón, Favio Sebastián </strong> <br>
