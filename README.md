@@ -49,6 +49,12 @@
     <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus </td>
     <td> Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
+  <tr>
+    <td align="center">TP1</td>
+    <td>07/09/2024</td>
+    <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus </td>
+    <td> Se hizo la mejora continua según la retroalimentación en los User Stories agregando los Technical Stories, se mejoró el Sprint 1 y se agregó el Sprint 2  </td>
+  </tr>
 </table>
 
 ---
@@ -62,6 +68,10 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 ![InsightTB1](assets/ReportProjectInsightsTB1.png)
 
+
+TP1: Los features de esta entrega se han avanzado mas no completado al 100%. La Landing Page se encuentra desplegada en Netlify.
+
+![InsightTP1](assets/Sprint2Insight2.png)
 ---
 
 # Tabla de contenidos
@@ -180,6 +190,8 @@ TB1 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
 TB1 <br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
 <br> 
+TP1 <br> Apliqué la comunicación para realizar los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br>
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
@@ -192,7 +204,11 @@ TP
 <br>
 En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar una aplicación web alineada con nuestros objetivos.
         </td>
-        <td>Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. </td>
+        <td>
+        TB1: Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. 
+        <br>
+        TP1: Concluimos que para esta entrega desarrollamos mejor la habilidad de comunicación oral para expresar las mejoras y la retroalimentación del profesor.
+        </td>
     </tr>
     <tr>
         <td align="center">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -208,6 +224,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <strong> Landeo Simeón, Favio Sebastián </strong> <br>
           TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br> 
+          TP1 <br> Apliqué los mensajes de texto para comunicar y ayudar a dividir los avances en los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br>
           <br>
           <strong> Paucar Meneses, Jeremy Alion </strong> <br>
           TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
@@ -220,7 +238,11 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <br>
           En esta entrega, pude aplicar GitFlow y conventional commits para dar a conocer a mi equipo los cambios que realizé en el proyecto. 
         </td>
-        <td>Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito. </td>
+        <td>
+        TB1: Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito.
+        <br>
+        TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
+         </td>
     </tr>
 </table>
 
@@ -1338,10 +1360,10 @@ En este sprint nos enfocaremos en modificar el informe y la landing según la re
 
 | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
-| US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 4 |  Jeremy Paucar, Favio Landeo | In Process |
-| US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Jeremy Paucar, Favio Landeo | Done |
-| US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Diego Alonso,Favio Landeo y Jeremy Paucar |  Done |
-| US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Jeremy Paucar | In Process 
+| US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 8 |  Jeremy Paucar, Favio Landeo, Farid Briceño, Gabriel Rivera | In Process |
+| US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 6 |  Jeremy Paucar, Favio Landeo | Done |
+| US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |6| Diego Alonso,Favio Landeo y Jeremy Paucar, Gabriel Rivera |  Done |
+| US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|6| Jeremy Paucar | In Process 
 
 #### 5.2.2.3 Development Evidence for Sprint Review
 
