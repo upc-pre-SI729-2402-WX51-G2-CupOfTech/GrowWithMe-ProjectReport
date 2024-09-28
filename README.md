@@ -1330,8 +1330,8 @@ En este sprint nos enfocaremos en modificar el informe y la landing según la re
 
 | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
-| US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 4 |  Gustavo Poma, Favio Landeo | In Process |
-| US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Gustavo Poma, Favio Landeo | Done |
+| US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 4 |  Jeremy Paucar, Favio Landeo | In Process |
+| US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Jeremy Paucar, Favio Landeo | Done |
 | US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Diego Alonso,Favio Landeo y Jeremy Paucar |  Done |
 | US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Jeremy Paucar | In Process 
 
