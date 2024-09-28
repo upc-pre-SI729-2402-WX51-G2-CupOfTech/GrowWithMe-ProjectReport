@@ -76,49 +76,12 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
   - [1.1 Startup Profile](#11-startup-profile)
     - [1.1.1 Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2 Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
-      - [- Favio Sebastián Landeo Simeón](#--favio-sebastián-landeo-simeón)
-      - [- Jeremy Alión Paucar Meneses](#--jeremy-alión-paucar-meneses)
-      - [- Alonso Garay, Diego Jesus](#--alonso-garay-diego-jesus)
-    - [- Briceño De La Cruz, Farid Sebastian](#--briceño-de-la-cruz-farid-sebastian)
-    - [- Rivera Ayala, Gabriel Alejandro](#--rivera-ayala-gabriel-alejandro)
   - [1.2 Solution Profile](#12-solution-profile)
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
-    - [Antecedentes:](#antecedentes)
-    - [Problemática (5Ws y 2Hs)](#problemática-5ws-y-2hs)
-    - [What/Qué](#whatqué)
-      - [¿Cuál es el problema?](#cuál-es-el-problema)
-    - [Where / Dónde](#where--dónde)
-      - [¿Dónde está el usuario cuando usa el producto?](#dónde-está-el-usuario-cuando-usa-el-producto)
-      - [¿Dónde surge el problema?](#dónde-surge-el-problema)
-    - [Why / Por Qué](#why--por-qué)
-      - [¿Cuál es la causa del problema?](#cuál-es-la-causa-del-problema)
-    - [When / Cuándo](#when--cuándo)
-      - [¿Cuándo sucede el problema?](#cuándo-sucede-el-problema)
-    - [Who / Quién](#who--quién)
-      - [¿Quiénes están involucrados?](#quiénes-están-involucrados)
-    - [How / Cómo](#how--cómo)
-      - [¿En qué condiciones los usuarios usan nuestro producto?](#en-qué-condiciones-los-usuarios-usan-nuestro-producto)
-      - [¿Cómo nos conoceran los usuarios?](#cómo-nos-conoceran-los-usuarios)
-    - [How much / Cuánto](#how-much--cuánto)
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
       - [1.2.2.1 Lean UX Problem Statements](#1221-lean-ux-problem-statements)
       - [1.2.2.2 Lean UX Assumptions](#1222-lean-ux-assumptions)
-      - [Features](#features)
-      - [Business Outcomes](#business-outcomes)
-      - [Users](#users)
-      - [User Outcomes \& Benefits](#user-outcomes--benefits)
-      - [User assumptions](#user-assumptions)
-      - [¿Quién es el usuario?](#quién-es-el-usuario)
-      - [¿Dónde encaja nuestro producto en sus trabajos o vidas?](#dónde-encaja-nuestro-producto-en-sus-trabajos-o-vidas)
-      - [¿Qué problema resuelve nuestro producto?](#qué-problema-resuelve-nuestro-producto)
-      - [¿Cuándo y cómo es usado nuestro producto?](#cuándo-y-cómo-es-usado-nuestro-producto)
-      - [¿Qué características son importantes?](#qué-características-son-importantes)
-      - [¿Cómo debería verse y comportarse nuestro producto?](#cómo-debería-verse-y-comportarse-nuestro-producto)
-      - [Business Assumptions](#business-assumptions)
       - [1.2.2.3 Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-    - [Hipótesis 1:](#hipótesis-1)
-    - [Hipótesis 2:](#hipótesis-2)
-    - [Hipótesis 3:](#hipótesis-3)
       - [1.2.2.4 Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3 Segmentos objetivo](#13-segmentos-objetivo)
 - [Capítulo II: Requirements Elicitation \& Analysis](#capítulo-ii-requirements-elicitation--analysis)
@@ -805,14 +768,16 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 | US014  | Contactar al Equipo de Ventas             | Como visitante interesado, quiero encontrar una forma de contactar al equipo de ventas.                                                                                      | <p> 1. Dado que soy un visitante interesado, cuando busco información de contacto, entonces debo encontrar un formulario de contacto o información clara de contacto. <p> 2. Dado que soy un visitante interesado, cuando lleno el formulario de contacto, entonces debo recibir una confirmación de que mi mensaje fue enviado correctamente. <p> 3. Dado que soy un visitante interesado, cuando envío un mensaje al equipo de ventas, entonces debo recibir una respuesta dentro de las 24 horas.                                                                                                                                             | EPIC006                       |
 | US015  | Explorar Testimonios o Casos de Éxito     | Como visitante, quiero leer testimonios o casos de éxito para evaluar la confiabilidad del sitio.                                                                            | <p> 1. Dado que soy un visitante, cuando busco testimonios o casos de éxito, entonces debo encontrar testimonios reales o estudios de caso. <p> 2. Dado que soy un visitante, cuando leo un testimonio o caso de éxito, entonces debo encontrar información relevante y convincente. <p> 3. Dado que soy un visitante, cuando leo los testimonios o casos de éxito, entonces debo sentir confianza en el sitio y sus productos/servicios.                                                                                                                                                                                                        | EPIC006                       |
 
-| **ID**  | **Título**                                              |**Descripción**|
-| ------- | ------------------------------------------------------------ |-|
+
+| **ID**  | **Título**                                              |  **Criterios de Aceptación**  |
+| ------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | EPIC001 | Mejora de la Productividad                                   | Como agricultor, deseo mejorar la productividad de mis cultivos.                                                                                          |
 | EPIC002 | Control de Calidad                                           | Como agricultor, deseo asegurar la calidad de mis productos.                                                                                              |
 | EPIC003 | Prevención de Amenazas                                       | Como agricultor, deseo prevenir amenazas a mis cultivos.                                                                                                  |
 | EPIC004 | Asesoramiento en Mejora de Productividad                     | Como consultor agrícola, deseo proporcionar asesoramiento especializado a los agricultores para mejorar su productividad.                                 |
 | EPIC005 | Asesoramiento en Control de Calidad y Prevención de Amenazas | Como consultor agrícola, quiero proporcionar asesoramiento especializado a los agricultores para mejorar la calidad de sus productos y prevenir amenazas. |
 | EPIC006 | Landing Page                                                 | Como visitante, quiero poder navegar por la página de inicio para obtener una visión general de lo que la plataforma ofrece y cómo puede beneficiarme.    |
+
 
 ## 3.3 Impact Mapping
 
@@ -1273,9 +1238,9 @@ En este sprint nos enfocaremos en establecer los cimientos para la creación de 
 | Sprint n - 1 Review Summary        | Siendo esta la primera reunión, se repartieron las labores para el trabajo y constante retroalimentación en cuanto a los apartados, todos los miembros pudieron evidenciar su conocimiento y experiencia mediante la mencionada retroalimentación hecha previo a subir el trabajo al repositorio                                              |
 | Sprint n - 1 Retrospective Summary | Opinamos que para el desarrollo de la landing page fue necesaria una constante revisión de avances previos a los commits lo cual brinda un mayor enfoque en el producto final pero nos quita libertades creativas y creemos que para una futura entrega debemos trabajar más de cerca en reuniones presenciales para evitar estas situaciones |
 |                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
-| Sprint 1 Goal                      | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con                                                                                                                                                                                                                            |
-| Sprint 1 Velocity                  | Completaremos Story Points de valor 3, debido a que consideramos que es una carga laboral aceptable para un progreso seguro                                                                                                                                                                                                                   |
-| Sum of Story Points                | 9 Story points serán los que incluimos en este sprint                                                                                                                                                                                                                                                                                         |
+| Sprint 1 Goal                      | Decidimos que nuestra meta para este sprint sería acabar con la landing page para ello la metrica será cumplir con la landing                                                                                                                                                                                                                           |
+| Sprint 1 Velocity                  | 3                                                                                                                                                                                                                   |
+| Sum of Story Points                | 3                                                                                                                                                                                                                                                                                        |
 
 #### 5.2.1.2. Sprint Backlog 1
 
@@ -1288,9 +1253,9 @@ El backlog del sprint incluye las siguientes tareas:
 
 | User Story Id | Title                                  | Work-Item/Task Id | Title                                                        | Description                                                                                                                       | Estimation(Hours) | Assigned To                            | Status |
 | ------------- | -------------------------------------- | ----------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------- | ------ |
-| T01           | Explorar la página de Inicio           | W01               | Estilos adecuados de la landing                              | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto             | 1                 | Gustavo Poma, Favio Landeo             | Done   |
-| T02           | Ver Información de Productos/Servicios | W02               | Añadir información de nuestro producto                       | Añadir más información sobre nuestro producto y los beneficios que este traerá                                                    | 1                 | Andrea Cabanillas, Daniel del Castillo | Done   |
-| T03           | Contactar al equipo de ventas          | W03               | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información | 1                 | Gustavo Poma, Sergio Pecan             | Done   |
+| US012           | Explorar la página de Inicio           | W01               | Estilos adecuados de la landing                              | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto             | 5                 | Favio Landeo             | Done   |
+| US013           | Ver Información de Productos/Servicios | W02               | Añadir información de nuestro producto                       | Añadir más información sobre nuestro producto y los beneficios que este traerá                                                    | 4                 | Jeremy Paucar | Done   |
+| US014           | Contactar al equipo de ventas          | W03               | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información | 3                 | Favio Landeo             | Done   |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -1302,7 +1267,7 @@ Durante el sprint, se desarrollaron los siguientes elementos:
 
 | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
 | ---------- | ------ | --------- | ------------------- | ------------------ |
-| Landing    | main   | \*        |                     | 07/09/2024         |
+| GrowWithMe-Landing    | develop   | c38747a244e6eb75f070cf1bb664082d63ad9cb0        |  feat: added landing page with style sheet.            | 08/09/2024         |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
@@ -1323,6 +1288,79 @@ No se realizó despliegue de software en este sprint, ya que el enfoque se centr
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Durante el sprint, el equipo colaboró estrechamente en la definición de la estructura y los estilos de la landing page, discutiendo activamente las mejores prácticas de diseño y desarrollo. Se utilizó el repositorio de GitHub para coordinar el trabajo y realizar revisiones de código entre los miembros del equipo.
+
+
+### 5.2.2 Sprint 2
+#### 5.2.2.1 Sprint Planning 2
+
+En este sprint nos enfocaremos en modificar el informe y la landing según la retroalimentación del profesor; además de la construcción de la primera versión del web app frontend. Las tareas principales incluyen:
+
+- Aplicar mejora continua según retroalimentación a nivel de proyecto.
+- Hacer el deploy de la landing page.
+- Configurar el repositorio en GitHub para el frontend web app.
+
+| Sprint #                           | Sprint 2                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                                                    |
+| Date                               | 2024-09-27                                                                                                                                                                                                                                                                                                                                   |
+| Location                           | Reunión virtual a través de Discord                                                                                                                                                                                                                                                                                                       |
+| Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
+| Attendees                          | Todos los integrantes                                                                                                                                                                                                                                                                                  |
+| Sprint n - 1 Review Summary        | Para este entregable se dividieron las partes equitativamente según el nivel de conocimiento y dificultad de la tarea. Todos los integrantes aplicamos la mejora continua según la retroalimentación propia y del profesor.                                              |
+| Sprint n - 1 Retrospective Summary | Tenemos en cuenta que para esta entrega se tiene que tener listo el deploy de la landing page en Netlify y tener un avance del frontend web app.  |
+|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
+| Sprint 1 Goal                      | La meta para este sprint es acabar con el deploy de la landing y tener todo listo para comenzar a añadir funcionalidades al frontend web app.                                                                                                                                                                                                                           |
+| Sprint 1 Velocity                  | 10                                                                                                                                                                                                                   |
+| Sum of Story Points                | 10                                                                                                                                                                                                                                                                                         |
+
+#### 5.2.2.2 Sprint Backlog 2
+
+| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+| US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 4 |  Gustavo Poma, Favio Landeo | In Process |
+| US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Gustavo Poma, Favio Landeo | Done |
+| US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Andrea Cabanillas,Favio Landeo y Daniel Del Castillo |  Done |
+| US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Daniel Del Castillo  | In Process 
+
+#### 5.2.2.3 Development Evidence for Sprint Review
+
+ Durante el sprint, se desarrollaron los siguientes features: crop, farmer, iam, public, sales.
+
+ | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | GrowWithMe-Frontend | feature/crop   | b7736586e656276affd3ea7fb09659859524e67c | feat: added basic packages and config for project structure. | 27/09/2024 |
+ | GrowWithMe-Frontend | feature/farmer | 24ddc062a2a0c7a16f9869d5355d64ce6f2e63fb | chore: add farmer-services and add farmer model | 27/09/2024 |
+ | GrowWithMe-Frontend | feature/iam    | fb26717d07437f9ec04710c35de09ce91b1deaca | feat: added i18n, fixed naming classes. | 27/09/2024 |
+ | GrowWithMe-Frontend | feature/sales  | 71057ec020638f9b3ac8273d6231dbe60cc87cde | feat(sales): update add farmer product component | 27/09/2024 |
+ | GrowWithMe-Frontend | feature/public  | b5aca797efcfcc43c7ff3498c2f903e434c00cf4 | feat: added public package with components. | 27/09/2024 |
+
+#### 5.2.2.4 Testing Suite Evidence for Sprint Review
+
+Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page y los componentes avanzados en los respectivos repositorios de la organización.
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+
+- Evidencia del despliegue de la Landing:
+![Sprint2Evidence](assets/Sprint2Evidence1.png)
+
+- Evidencia de los componentes del Frontend Web App:
+![Sprint2Evidence](assets/Sprint2Evidence2.png)
+![Sprint2Evidence](assets/Sprint2Evidence3.png)
+![Sprint2Evidence](assets/Sprint2Evidence4.png)
+![Sprint2Evidence](assets/Sprint2Evidence5.png)
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada. Además, se agregó un falso api de json server.
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+Link de la Landing desplegada: https://develop--si729-cup-of-tech-landing.netlify.app/
+
+Repositorio del avance del frontend web app: https://github.com/upc-pre-SI729-2402-WX51-G2-CupOfTech/GrowWithMe-Frontend/tree/develop
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint
+
 
 ---
 
