@@ -786,9 +786,17 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 ## 3.3 Impact Mapping
 
-![ImpactMap1](assets/ImpactMap1.png) <br>
-![ImpactMap2](assets/ImpactMap2.png) <br>
-![ImpactMap3](assets/ImpactMap3.png) <br>
+![ImpactMap1](assets/ImpactMap1.png) 
+
+<div style="page-break-after: always;"></div>
+
+![ImpactMap2](assets/ImpactMap2.png) 
+
+<div style="page-break-after: always;"></div>
+
+![ImpactMap3](assets/ImpactMap3.png) 
+
+<div style="page-break-after: always;"></div>
 
 ## 3.4 Product Backlog
 
@@ -1324,8 +1332,8 @@ En este sprint nos enfocaremos en modificar el informe y la landing según la re
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
 | US001  | Definir Objetivos de Rendimiento   | W01 | A partir de los cultivos del usuario agricultor dar algunos indicadores de productividad. | Añadir un apartado en una parte de la página de cultivos | 4 |  Gustavo Poma, Favio Landeo | In Process |
 | US002 | Adaptar Estrategia de Cultivo | W02 | Añadir campo de agregado cultivo | Tendremos que crear un servicio, componente y entidad para que el sistema nos retorne cuando no es bueno ir | 3 |  Gustavo Poma, Favio Landeo | Done |
-| US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Andrea Cabanillas,Favio Landeo y Daniel Del Castillo |  Done |
-| US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Daniel Del Castillo  | In Process 
+| US003 |Seguimiento de Actividades Agrícolas | W03 | Añadir información de nuestro producto | Añadir más información sobre nuestro producto y los beneficios que este traerá  |3| Diego Alonso,Favio Landeo y Jeremy Paucar |  Done |
+| US007 | Recibir Alertas Climáticas |W04 | Añadir una función que permita ver el pronóstico del clima de los proximos días | Para la elaboración de este apartado debimos crear un servicio, componente y modelo para que el usuario pueda llenar con su información y el api pueda recompilar datos|3| Jeremy Paucar | In Process 
 
 #### 5.2.2.3 Development Evidence for Sprint Review
 
