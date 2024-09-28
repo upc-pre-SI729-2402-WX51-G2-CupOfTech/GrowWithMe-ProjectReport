@@ -49,6 +49,12 @@
     <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus </td>
     <td> Realizamos los capítulos 1, 2, 3, 4 y 5 según la rúbrica de manera conjunta y eficiente.  </td>
   </tr>
+  <tr>
+    <td align="center">TP1</td>
+    <td>07/09/2024</td>
+    <td> Landeo Simeón, Favio Sebastián <br> Paucar Meneses, Jeremy Alion <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus </td>
+    <td> Se hizo la mejora continua según la retroalimentación en los User Stories agregando los Technical Stories, se mejoró el Sprint 1 y se agregó el Sprint 2  </td>
+  </tr>
 </table>
 
 ---
@@ -62,6 +68,10 @@ TB1: Las tareas asignadas para la entrega TB1 se han completado y están documen
 
 ![InsightTB1](assets/ReportProjectInsightsTB1.png)
 
+
+TP1: Los features de esta entrega se han avanzado mas no completado al 100%. La Landing Page se encuentra desplegada en Netlify.
+
+![InsightTP1](assets/Sprint2Insight2.png)
 ---
 
 # Tabla de contenidos
@@ -180,6 +190,8 @@ TB1 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
 TB1 <br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
 <br> 
+TP1 <br> Apliqué la comunicación para realizar los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br>
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
@@ -188,7 +200,11 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo pa
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coordinar la elaboración de los contenidos asignados.
         </td>
-        <td>Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. </td>
+        <td>
+        TB1: Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. 
+        <br>
+        TP1: Concluimos que para esta entrega desarrollamos mejor la habilidad de comunicación oral para expresar las mejoras y la retroalimentación del profesor.
+        </td>
     </tr>
     <tr>
         <td align="center">Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -204,6 +220,8 @@ TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coord
           <strong> Landeo Simeón, Favio Sebastián </strong> <br>
           TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br> 
+          TP1 <br> Apliqué los mensajes de texto para comunicar y ayudar a dividir los avances en los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br>
           <br>
           <strong> Paucar Meneses, Jeremy Alion </strong> <br>
           TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
@@ -212,7 +230,11 @@ TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coord
           <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
           TB1 <br> En esta entrega, pude comunicar sobre mis avances en el proyecto a mis compañeros de forma clara y efectiva, facilitando el desarrollo.
         </td>
-        <td>Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito. </td>
+        <td>
+        TB1: Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito.
+        <br>
+        TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
+         </td>
     </tr>
 </table>
 
