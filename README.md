@@ -187,6 +187,10 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo pa
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coordinar la elaboración de los contenidos asignados.
+<br>
+TP
+<br>
+En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar una aplicación web alineada con nuestros objetivos.
         </td>
         <td>Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. </td>
     </tr>
@@ -211,6 +215,10 @@ TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coord
           <br>
           <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
           TB1 <br> En esta entrega, pude comunicar sobre mis avances en el proyecto a mis compañeros de forma clara y efectiva, facilitando el desarrollo.
+          <br>
+          TP 
+          <br>
+          En esta entrega, pude aplicar GitFlow y conventional commits para dar a conocer a mi equipo los cambios que realizé en el proyecto. 
         </td>
         <td>Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito. </td>
     </tr>
