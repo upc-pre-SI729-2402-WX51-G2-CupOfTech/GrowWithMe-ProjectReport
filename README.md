@@ -194,7 +194,8 @@ TB1 <br> Apliqué la comunicación con mis compañeros en la realización del tb
 TP1 <br> Apliqué la comunicación efectiva para terminar el sprint 2 y los componentes del proyecto frontend.
 >>>>>>> Stashed changes
 <br>
-TP <br> En el TP seguimos utilizando medios digitales para reunirnos y dividir los temas.		
+TP <br> En el TP seguimos utilizando medios digitales para reunirnos y dividir los temas.	
+<br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
 TB1 <br> Aprendí en esta entrega a comunicarme oralmente con mi equipo para cumplir con la fecha límite, demostrando eficacia y compañerismo.
@@ -239,6 +240,7 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <br>
 	  TP <br> En el tp recibí apoyo de mis compañeros para poder lograr los objetivos del equipo.
           <br>
+	  <br>
           <strong> Landeo Simeón, Favio Sebastián </strong> <br>
           TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br> 
