@@ -1260,7 +1260,7 @@ El backlog del sprint incluye las siguientes tareas:
 | ------------- | -------------------------------------- | ----------------- | ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------- | ------ |
 | US012           | Explorar la página de Inicio           | W01               | Estilos adecuados de la landing                              | En este task diseñaremos la landing page para poder permitirle al usuario poder sentirse atraído por nuestro producto             | 5                 | Favio Landeo             | Done   |
 | US013           | Ver Información de Productos/Servicios | W02               | Añadir información de nuestro producto                       | Añadir más información sobre nuestro producto y los beneficios que este traerá                                                    | 4                 | Jeremy Paucar | Done   |
-| US014           | Contactar al equipo de ventas          | W03               | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contactenos para que el usuario pueda llenar con su información | 3                 | Favio Landeo             | Done   |
+| US014           | Contactar al equipo de ventas          | W03               | Añadir un formulario para envio de correo al grupo de ventas | Para la elaboración de este apartado debimos crear una sección de contáctenos para que el usuario pueda llenar con su información | 3                 | Favio Landeo             | Done   |
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
@@ -1343,6 +1343,11 @@ En este sprint nos enfocaremos en modificar el informe y la landing según la re
 
 Se llevaron a cabo pruebas preliminares para verificar la correcta visualización y funcionamiento de la landing page y los componentes avanzados en los respectivos repositorios de la organización.
 
+- Evidencia del testeo del despliegue de la Landing:
+![Sprint2Test](assets/Sprint2Test1.png)
+
+- Evidencia del testeo de los componentes de la Frontend Web App:
+![Sprint2Test](assets/Sprint2Test2.png)
 #### 5.2.2.5 Execution Evidence for Sprint Review
 
 - Evidencia del despliegue de la Landing:
@@ -1356,7 +1361,7 @@ Se llevaron a cabo pruebas preliminares para verificar la correcta visualizació
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
-Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada. Además, se agregó un falso api de json server.
+Se elaboró documentación sobre la estructura de la landing page, incluyendo los wireframes y la descripción de la paleta de colores utilizada. Además, se agregó un falso api de json server aún no integrado.
 
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
@@ -1366,6 +1371,13 @@ Repositorio del avance del frontend web app: https://github.com/upc-pre-SI729-24
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint
 
+Dentro del repositorio cada integrante realizó un feature:
+
+![Sprint2Insight](assets/Sprint2Insight1.png)
+
+
+Insights del repositorio del Frontend Web App:
+![Sprint2Insight](assets/Sprint2Insight2.png)
 
 ---
 
@@ -1385,3 +1397,5 @@ Link al video About-the-Team: https://youtu.be/2vOw07uLZFM
 Link al prototipo en Figma: https://www.figma.com/design/izQq2vBaGARTkC7mDjc923/CupOfTech---Grow-With-Me?node-id=183-805&t=scVk3r8qiP1fq1Lj-1
 
 Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f-9867-89efcc6c60ce/edit?viewport_loc=-2052%2C-1841%2C25503%2C11665%2C0_0&invitationId=inv_13fbd611-80d3-43d5-87d7-1b7457985373
+
+Link a la Landing Page en Netlify: https://develop--si729-cup-of-tech-landing.netlify.app/
