@@ -781,9 +781,17 @@ Ubiquitous language o lenguaje ubicuo hace referencia al lenguaje que puede ser 
 
 ## 3.3 Impact Mapping
 
-![ImpactMap1](assets/ImpactMap1.png) <br>
-![ImpactMap2](assets/ImpactMap2.png) <br>
-![ImpactMap3](assets/ImpactMap3.png) <br>
+![ImpactMap1](assets/ImpactMap1.png) 
+
+<div style="page-break-after: always;"></div>
+
+![ImpactMap2](assets/ImpactMap2.png) 
+
+<div style="page-break-after: always;"></div>
+
+![ImpactMap3](assets/ImpactMap3.png) 
+
+<div style="page-break-after: always;"></div>
 
 ## 3.4 Product Backlog
 
