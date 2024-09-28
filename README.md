@@ -182,9 +182,17 @@ Capacidad de comunicarse efectivamente con un rango de audiencias. <br>
 <strong> Alonso Garay, Diego Jesus </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo mediante reuniones para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
 <br>
+TP1 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar el sprint 2 y el frontend con éxito.
+<br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
+<<<<<<< Updated upstream
 TB1 <br> Para esta entrega reforcé las habilidades orales de equipo que aprendí en cursos anteriores.
+=======
+TB1 <br> Apliqué la comunicación con mis compañeros en la realización del tb1.
+<br>
+TP1 <br> Apliqué la comunicación efectiva para terminar el sprint 2 y los componentes del proyecto frontend.
+>>>>>>> Stashed changes
 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
@@ -196,11 +204,13 @@ TP1 <br> Apliqué la comunicación para realizar los puntos señalados en la ret
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
 <br> 
+TP1 <br> En esta entrega aprendí a ser mejor con las palabras para terminar exitosamente el proyecto frontend y el sprint 2.
+<br>
 <br>
 <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
 TB1 <br> En esta engrega, pude comunicar mis opiniones dentro del equipo y coordinar la elaboración de los contenidos asignados.
 <br>
-TP
+TP1
 <br>
 En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar una aplicación web alineada con nuestros objetivos.
         </td>
@@ -218,7 +228,13 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
+<<<<<<< Updated upstream
           TB1 <br> Para esta entrega se nos presentaron nuevos conocimientos, los cuales teníamos que coordinar por escrito para avanzar con el proyecto.
+=======
+          TB1 <br> Apliqué la comunicación escrita con mis compañeros en la realización del tb1.
+          <br>
+          TP1 <br> Apliqué la comunicación por medio del chat efectiva para terminar el sprint 2 y los componentes del proyecto frontend.
+>>>>>>> Stashed changes
           <br>
           <br>
           <strong> Landeo Simeón, Favio Sebastián </strong> <br>
@@ -230,6 +246,7 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <strong> Paucar Meneses, Jeremy Alion </strong> <br>
           TB1 <br> En esta entrega, pude ayudar con efectividad a mi grupo con los diferentes objetivos que cubre el trabajo.
           <br>
+          TP1 <br> En esta TP1 pude expresar por medio del chat grupal mis soluciones para el sprint 2 y los componentes del frontend.
           <br>
           <strong> Rivera Ayala, Gabriel Alejandro </strong> <br>
           TB1 <br> En esta entrega, pude comunicar sobre mis avances en el proyecto a mis compañeros de forma clara y efectiva, facilitando el desarrollo.
