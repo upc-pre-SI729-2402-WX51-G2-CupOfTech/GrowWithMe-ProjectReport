@@ -182,6 +182,8 @@ Capacidad de comunicarse efectivamente con un rango de audiencias. <br>
 <strong> Alonso Garay, Diego Jesus </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo mediante reuniones para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
 <br>
+TP1 <br> Apliqué la comunicación para corregir errores del informe y realizar en mi rama el endpoint respectivo al proyecto.
+          <br>	
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
 TB1 <br> Para esta entrega reforcé las habilidades orales de equipo que aprendí en cursos anteriores.
@@ -217,6 +219,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         <td>
           <strong> Alonso Garay, Diego Jesus </strong> <br>
           TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
+          <br>
+	  TP1 <br> Apliqué los mensajes de texto y reuniones de voz para comunicar los avances que ibamos realiazando para los endpoints y correcciones del informe.
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
