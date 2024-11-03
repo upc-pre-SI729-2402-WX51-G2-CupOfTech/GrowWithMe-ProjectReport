@@ -227,6 +227,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         TB1: Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. 
         <br>
         TP1: Concluimos que para esta entrega desarrollamos mejor la habilidad de comunicación oral para expresar las mejoras y la retroalimentación del profesor.
+	<br>
+	TB2: Concluimos que para la TB2 aplicamos la buena comunicación para avanzar con la entrega respectiva a tiempo.
         </td>
     </tr>
     <tr>
@@ -267,9 +269,11 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           En esta entrega, pude aplicar GitFlow y conventional commits para dar a conocer a mi equipo los cambios que realizé en el proyecto. 
         </td>
         <td>
-        TB1: Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito.
+        c
         <br>
         TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
+	<br>	
+	TB2: Concluimos que para esta TB2 que pudimos avanzar el desarrolo con efectividad al momento de comunicarnos por escrito.
          </td>
     </tr>
 </table>
