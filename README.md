@@ -190,6 +190,8 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo me
 <br>
 TP1 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar el sprint 2 y el frontend con éxito.
 <br>
+TB2 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar parte del sprint 3 y avanzar la primera versión del backend.
+<br>		
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
 
@@ -225,6 +227,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         TB1: Concluimos que para la TB1 aplicamos el compañerismo y la buena comunicación oral para completar la entrega respectiva. 
         <br>
         TP1: Concluimos que para esta entrega desarrollamos mejor la habilidad de comunicación oral para expresar las mejoras y la retroalimentación del profesor.
+	<br>
+	TB2: Concluimos que para la TB2 aplicamos la buena comunicación para avanzar con la entrega respectiva a tiempo.
         </td>
     </tr>
     <tr>
@@ -234,6 +238,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br>
 	  TP1 <br> Apliqué los mensajes de texto y reuniones de voz para comunicar los avances que ibamos realiazando para los endpoints y correcciones del informe.
+          <br>
+	  TB2 <br> Apliqué los mensajes de texto y para comunicar los avances que ibamos realizando para terminar el informe para esta entrega.
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
@@ -266,6 +272,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         TB1: Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito.
         <br>
         TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
+	<br>	
+	TB2: Concluimos que para esta TB2 que pudimos avanzar el desarrolo con efectividad al momento de comunicarnos por escrito.
          </td>
     </tr>
 </table>
