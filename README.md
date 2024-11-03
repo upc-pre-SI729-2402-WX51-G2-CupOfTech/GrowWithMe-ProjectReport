@@ -1525,7 +1525,7 @@ Dentro del backend se encuentran los servicios de: Consultant User, Farmer User 
 
 ### 5.3.2 Registo de Entrevistas
 
-- Segmento 1:
+Segmento 1:
   
 - Entrevista 1: Sebastián Espinal
 - Resumen: El entrevistado compartió sus impresiones sobre una aplicación web diseñada para agricultores y consultores. Destacó su interés en herramientas prácticas para aprender sobre el proceso de cultivo, como guías para principiantes, un calendario de tareas y acceso a asesorías personalizadas. Mencionó que le resultaría especialmente útil contar con información sobre semillas, fertilizantes y un sistema de registro para el seguimiento de sus cultivos. También considera que la aplicación podría mejorar sus resultados agrícolas si incluye recomendaciones adaptadas a su clima y suelo, además de una comunidad de aprendizaje con otros agricultores. Como sugerencia, propuso agregar alertas y recordatorios para el riego y fertilización, así como una función que prediga posibles plagas o enfermedades, lo cual le ayudaría a proteger sus cultivos de manera preventiva.
@@ -1537,7 +1537,7 @@ Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d
 
 Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EeJUzLIml_hCvvHz5yQXwToBLeQoKkbLtp6ubxNtOdLZJg?e=WmzumK 
 
-- Segmento 2:
+Segmento 2:
 
 
 
