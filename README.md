@@ -1525,9 +1525,32 @@ Dentro del backend se encuentran los servicios de: Consultant User, Farmer User 
 
 ### 5.3.2 Registo de Entrevistas
 
+- Segmento 1:
+  
+- Entrevista 1: Sebastián Espinal
+- Resumen: El entrevistado compartió sus impresiones sobre una aplicación web diseñada para agricultores y consultores. Destacó su interés en herramientas prácticas para aprender sobre el proceso de cultivo, como guías para principiantes, un calendario de tareas y acceso a asesorías personalizadas. Mencionó que le resultaría especialmente útil contar con información sobre semillas, fertilizantes y un sistema de registro para el seguimiento de sus cultivos. También considera que la aplicación podría mejorar sus resultados agrícolas si incluye recomendaciones adaptadas a su clima y suelo, además de una comunidad de aprendizaje con otros agricultores. Como sugerencia, propuso agregar alertas y recordatorios para el riego y fertilización, así como una función que prediga posibles plagas o enfermedades, lo cual le ayudaría a proteger sus cultivos de manera preventiva.
+
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EVqzeflVredDiyhdZ8rJ9RQBxgIPavEjaoW8wboP5vlOvw?e=vkoipG 
+
+- Entrevista 2: Renzo Catamayo
+- Resumen: El entrevistado compartió sus expectativas para una aplicación web de apoyo agrícola. Le gustaría que incluyera una sección educativa con tutoriales y videos que expliquen desde conceptos básicos hasta temas avanzados de manejo de cultivos. También le sería útil una herramienta para planificar sus cultivos según el clima y la temporada, junto con un registro de actividades y una calculadora de costos para evaluar inversiones y ganancias. También cree que una aplicación así le daría confianza en la toma de decisiones agrícolas y sugiere además contar con un asesor virtual para resolver dudas rápidas. Como recomendación, propone añadir una red social para conectar con otros agricultores de su zona y un sistema de notificaciones para recordatorios clave, como el riego y la fertilización.
+
+Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EeJUzLIml_hCvvHz5yQXwToBLeQoKkbLtp6ubxNtOdLZJg?e=WmzumK 
+
+- Segmento 2:
+
+
+
+
 ### 5.3.3 Evaluaciones según heurísticas
 
 ---
+
+## 5.4 Video About-the-Product
+
+
+## 5.4 Video About-the-Team
+
 
 # Conclusiones
 
