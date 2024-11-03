@@ -1529,14 +1529,90 @@ Endpoints
 
 ---
 
+
+## 5.3 Validation Interviews
+- ### 5.3.1. Diseño de Entrevistas
+   Segmento 1:</br>
+   </br>
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como agricultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus cultivos a crecer?</br>
+   ¿Te gustaría recomendar alguna función ?</br>
+   
+  Segmento 2: </br>
+
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como consultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus contactos a crecer?</br>
+   ¿Te gustaría recomendar alguna función adicional? ?</br>
+
+   
+- ### 5.3.2. Registro de Entrevistas
+  Segmento 1:</br>
+
+Entrevista 1 :<br>
+  Nombre y apellidos: <br>
+
+  Distrito: <br>
+
+  Resumen:
+
+ <br>
+
+  <br>
+
+Entrevista  2:<br>
+  Nombre y apellidos: <br>
+
+  <br>
+  Distrito: <br>
+
+  <br>
+  Resumen: 
+  <br>
+  <br>
+
+
+Entrevista 3 :<br>
+  Nombre y apellidos: <br>
+
+  <br>
+  Distrito: <br>
+
+  <br>
+  Resumen: 
+  <br>
+  <br>
+
+Entrevista 4 :<br>
+  Nombre y apellidos: <br>
+
+  <br>
+  Distrito: <br>
+
+  <br>
+  Resumen: <br>
+  <br>
+  <br>
+
+
+  
+ Enlace de las entrevistas: 
+
+ 
+## 5.4 Video About-the-Product 
+
+Link al video About-the-Product:
+
+ 
+## 5.4 Video About-the-Team
+
+Link al video About-the-Team: 
+
 # Conclusiones
 
 - Para la realización del informe del proyecto tuvimos complicaciones para dividirnos las partes y complicaciones con la estructura y desarrollo del mismo informe.
 - Concluimos también que el wireframe y el prototipado es importante para sentar las bases de un buen proyecto.
-
-## Video About-the-Team
-
-Link al video About-the-Team: https://youtu.be/2vOw07uLZFM
 
 # Bibliografía
 
