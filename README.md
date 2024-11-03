@@ -190,6 +190,8 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo me
 <br>
 TP1 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar el sprint 2 y el frontend con éxito.
 <br>
+TB2 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar parte del sprint 3 y avanzar la primera versión del backend.
+<br>		
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
 
@@ -234,6 +236,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           TB1 <br> En esta entrega, aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br>
 	  TP1 <br> Apliqué los mensajes de texto y reuniones de voz para comunicar los avances que ibamos realiazando para los endpoints y correcciones del informe.
+          <br>
+	  TB2 <br> Apliqué los mensajes de texto y para comunicar los avances que ibamos realizando para terminar el informe para esta entrega.
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
