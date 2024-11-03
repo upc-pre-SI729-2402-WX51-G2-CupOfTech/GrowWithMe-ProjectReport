@@ -269,7 +269,7 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           En esta entrega, pude aplicar GitFlow y conventional commits para dar a conocer a mi equipo los cambios que realizé en el proyecto. 
         </td>
         <td>
-        c
+        TB1: Concluimos que para esta TB1 desarrollamos el proyecto con una gran efectividad al momento de comunicarnos por escrito.
         <br>
         TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
 	<br>	
