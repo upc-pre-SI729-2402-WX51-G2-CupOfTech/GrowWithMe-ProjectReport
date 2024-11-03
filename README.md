@@ -1509,6 +1509,20 @@ Dentro del backend se encuentran los servicios de: Consultant User, Farmer User 
 
 ### 5.3.1 Diseño de Entrevistas
 
+   Segmento 1:</br>
+   </br>
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como agricultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus cultivos a crecer?</br>
+   ¿Te gustaría recomendar alguna función ?</br>
+   
+  Segmento 2: </br>
+
+   ¿Que te gustaría ver en una aplicación web?</br>
+   ¿Que te parece util para ti como consultor en nuestra aplicación ?</br>
+   ¿Consideras que nuestra pagina ayudaría a tus contactos a crecer?</br>
+   ¿Te gustaría recomendar alguna función adicional? ?</br>
+
 ### 5.3.2 Registo de Entrevistas
 
 ### 5.3.3 Evaluaciones según heurísticas
