@@ -1440,6 +1440,93 @@ Dentro del repositorio cada integrante realizó un feature:
 Insights del repositorio del Frontend Web App:
 ![Sprint2Insight](assets/Sprint2Insight2.png)
 
+- ### 5.2.3 Sprint 3
+- #### 5.2.3.1. Sprint Planning 3
+ | Sprint # | Sprint 3                         |
+|----------|-----------------------------------|
+|          |     Sprint Planning Background    |
+| Date     |       2024-11-01                   |
+| Location |     Reunion virtual a través de Discord       |
+| Prepared By |  Favio Landeo                        |
+| Attendees | Favio Landeo, Diego Alonso, Jeremy, Gabriel, Farid |
+| Sprint n - 1 Review Summary |       Esta reunión se dio para dividirnos los features de los endpoints que ibamos a trabajar en el equipo, durante este tiempo tambien asignamos tiempos de entregas de modo que fuera suficientemente flexible                                 |
+| Sprint 2 Retrospective Summary |    Posterior a los problemas que tuvimos en sprints anteriores, pudimos determinar que la mejor manera de trabajar en este momento sería crear un repositorio base con las clases compartidas ya implementadas, de modo que podemos avanzar el proyecto y la implementación no se verá fallida por un commit realizado                             |
+|  |         Sprint Goal & User Stories                              |
+| Sprint 3 Goal |  La meta de este sprint es poder genera un servicio web que pueda ser utilizado por nuestra aplicación web, de modo que se muestren datos que nuestros usuarios requieran y les brinden utilidad                                                  |
+| Sprint 3 Velocity |                   16                             |
+| Sum of Story Points |               15                               |
+
+
+- #### 5.2.3.2. Sprint Backlog 3
+ | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+|US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Favio Landeo|Done|
+|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Jeremy|Done|
+|TS01|Sales endpoint|T03|SalesOrderController|Dentro de este bounded context consideramos que no deberíamos implementar metodos de delete por ello se realizó de esa forma| 5 Hours| Gabriel |Done| 
+|TS02|Crop endpoint|T04| CropController | Este bounded context requiere todos los metodos del crud según la logica de negocios que establecimos |6 Hours|Farid|Done| 
+
+|TS03|Endpoint de Notificaciones del Clima|T05| NotificationsController|Este endpoint utilizará los métodos del CRUD| 5 Hours| Favio Landeo |Done| 
+|TS04|Endpoint de Contratos de Empleados|T06| ContractController | Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Diego Alonso|Done| 
+
+|TS05|Endpoint de Employees|T07|EmployeeController| Se realizarán todos los metodos CRUD en este endpoint que conectará nuestra base de datos| 4 Hours| Favio Landeo |Done| 
+|TS06|Endpoint de Farming|T08| FarmingController| Este endpoint servirá para poder obtener información de la granja y requiere métodos del crud| 3 Hours|Diego Alonso|Done| 
+
+- #### 5.2.3.3. Development Evidence for Sprint Review
+   [Poner información aquí]
+   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |BackEnd|sergio|bc127d2|feature(sales):Finished Sales|06-06-2024|
+   |BackEnd|mateo|d937879|feature(crop):Finished Feature|07-06-2024|
+   |BackEnd|gustavo|c2086a9|feat(adviser): add adviser bounded context with notification and contract aggregates|05-06-2024|
+   |BackEnd|andrea|8efea10|feat: added content of backend|05-06-2024|
+   |BackEnd|favio|d8489dc|fix: fixed variable in command to update the employee details.|07-06-2024|
+
+- #### 5.2.3.4. Testing Suite Evidence for Sprint Review
+   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+   |------------|--------|-----------|---------------------|--------------------|
+   |BackEnd|master|4544c27|testing(products):done testing in swagger|06-06-2024|
+
+
+  
+- #### 5.2.3.5. Execution Evidence for Sprint Review
+
+
+- #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+# Documentación de la API de Crop
+
+ Descripción
+La API de Crop permite gestionar los cultivos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar). A continuación se detallan los endpoints disponibles y cómo utilizarlos.
+
+Endpoints
+
+ Obtener Todos los Cultivos
+**Método:** GET
+ **URL:** `/api/crops`
+**Descripción:** Obtiene una lista de todos los cultivos.
+ **Respuesta Exitosa (200):**
+  ```json
+  [
+    {
+      "cropid": 1,
+      "cropcode": "C001",
+      "currency": "USD",
+      "value": 1000
+    },
+    {
+      "cropid": 2,
+      "cropcode": "C002",
+      "currency": "EUR",
+      "value": 1500
+    }
+  ]
+```
+  
+- #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+  
+- #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
 ---
 
 # Conclusiones
