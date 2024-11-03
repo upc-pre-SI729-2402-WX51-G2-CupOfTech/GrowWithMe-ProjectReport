@@ -1622,11 +1622,14 @@ Link: https://youtu.be/LprkPlSaakw
 
 ## 5.4 Video About-the-Team
 
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EVI_sv5NGmdCjjKpL5pGVZoBooJ9jSnTc5FNn52oixnvpQ?e=xQdR0i
 
 # Conclusiones
 
 - Para la realización del informe del proyecto tuvimos complicaciones para dividirnos las partes y complicaciones con la estructura y desarrollo del mismo informe.
 - Concluimos también que el wireframe y el prototipado es importante para sentar las bases de un buen proyecto.
+- El trabajo en equipo es fundamental para la culminacion del trabajo , fomentando un buen ambiente para todos los integrantes.
+- La implementacion de tecnologías usando la navegacion a internet para poder completar el trabajo es fundamental ya que debemos acostumbrarnos a mantener un aprendizaje continuo para poder alcanzar mejores metas como profesionales.
 
 # Bibliografía
 
