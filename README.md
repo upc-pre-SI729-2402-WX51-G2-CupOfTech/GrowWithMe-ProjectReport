@@ -186,15 +186,11 @@ TP1 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para
 <br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
-<<<<<<< Updated upstream
+
 TB1 <br> Para esta entrega reforcé las habilidades orales de equipo que aprendí en cursos anteriores.
-=======
-TB1 <br> Apliqué la comunicación con mis compañeros en la realización del tb1.
 <br>
 TP1 <br> Apliqué la comunicación efectiva para terminar el sprint 2 y los componentes del proyecto frontend.
->>>>>>> Stashed changes
-<br>
-TP <br> En el TP seguimos utilizando medios digitales para reunirnos y dividir los temas.	
+
 <br>
 <br>
 <strong> Landeo Simeón, Favio Sebastián </strong> <br>
@@ -232,13 +228,9 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
-<<<<<<< Updated upstream
-          TB1 <br> Para esta entrega se nos presentaron nuevos conocimientos, los cuales teníamos que coordinar por escrito para avanzar con el proyecto.
-=======
           TB1 <br> Apliqué la comunicación escrita con mis compañeros en la realización del tb1.
           <br>
           TP1 <br> Apliqué la comunicación por medio del chat efectiva para terminar el sprint 2 y los componentes del proyecto frontend.
->>>>>>> Stashed changes
           <br>
 	  TP <br> En el tp recibí apoyo de mis compañeros para poder lograr los objetivos del equipo.
           <br>
@@ -1440,174 +1432,76 @@ Dentro del repositorio cada integrante realizó un feature:
 Insights del repositorio del Frontend Web App:
 ![Sprint2Insight](assets/Sprint2Insight2.png)
 
-- ### 5.2.3 Sprint 3
-- #### 5.2.3.1. Sprint Planning 3
- | Sprint # | Sprint 3                         |
-|----------|-----------------------------------|
-|          |     Sprint Planning Background    |
-| Date     |       2024-11-01                   |
-| Location |     Reunion virtual a través de Discord       |
-| Prepared By |  Favio Landeo                        |
-| Attendees | Favio Landeo, Diego Alonso, Jeremy, Gabriel, Farid |
-| Sprint n - 1 Review Summary |       Esta reunión se dio para dividirnos los features de los endpoints que ibamos a trabajar en el equipo, durante este tiempo tambien asignamos tiempos de entregas de modo que fuera suficientemente flexible                                 |
-| Sprint 2 Retrospective Summary |    Posterior a los problemas que tuvimos en sprints anteriores, pudimos determinar que la mejor manera de trabajar en este momento sería crear un repositorio base con las clases compartidas ya implementadas, de modo que podemos avanzar el proyecto y la implementación no se verá fallida por un commit realizado                             |
-|  |         Sprint Goal & User Stories                              |
-| Sprint 3 Goal |  La meta de este sprint es poder genera un servicio web que pueda ser utilizado por nuestra aplicación web, de modo que se muestren datos que nuestros usuarios requieran y les brinden utilidad                                                  |
-| Sprint 3 Velocity |                   16                             |
-| Sum of Story Points |               15                               |
+### 5.2.3 Sprint 3
+#### 5.2.3.1 Sprint Planning 3
+
+| Sprint #                           | Sprint 3                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                                                    |
+| Date                               | 2024-11-02                                                                                                                                                                                                                                                                                                                                   |
+| Location                           | Reunión virtual a través de Discord                                                                                                                                                                                                                                                                                                       |
+| Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
+| Attendees                          | Landeo Simeón, Favio Sebastián, Alonso Garay, Diego Jesus                                                                                                                                                                                                                                                                                   |
+| Sprint n - 1 Review Summary        | Se realizó la división y desarrollo de los features de los endpoints necesarios.                                             |
+| Sprint n - 1 Retrospective Summary | Se desarrolló parcialmente el backend y se hizo la mejora de la frontend web app, así mismo como su despliegue.  |
+|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
+| Sprint 1 Goal                      | La meta de este sprint es terminar el deploy del frontend web app y desarrollar parcialmente el deploy del backend.                                                                                                                                                                                                                           |
+| Sprint 1 Velocity                  | 10                                                                                                                                                                                                                   |
+| Sum of Story Points                | 10                                                                                                                                                                                                                                                                                         |
 
 
-- #### 5.2.3.2. Sprint Backlog 3
- | User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+#### 5.2.3.2 Sprint Backlog 3
+
+| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
 |---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
-|US10|Asesoramiento en Control de Calidad|T01| Contacto con asesor     | Generaremos una manera en la que el usuario consultor pueda contactarse con nuestro usuario granjero| 2 Hours|  Favio Landeo|Done|
-|US11|Asesoramiento en Prevención de Amenazas| T02|    Prevención de amenazas  |  Generaremos un metodo para que el consultor pueda decirle al usuario a través de una notificación que su cultivo peligra| 3 Hours |Jeremy|Done|
-|TS01|Sales endpoint|T03|SalesOrderController|Dentro de este bounded context consideramos que no deberíamos implementar metodos de delete por ello se realizó de esa forma| 5 Hours| Gabriel |Done| 
-|TS02|Crop endpoint|T04| CropController | Este bounded context requiere todos los metodos del crud según la logica de negocios que establecimos |6 Hours|Farid|Done| 
-
-|TS03|Endpoint de Notificaciones del Clima|T05| NotificationsController|Este endpoint utilizará los métodos del CRUD| 5 Hours| Favio Landeo |Done| 
-|TS04|Endpoint de Contratos de Empleados|T06| ContractController | Realizaremos un metodo para que el servicio web genere objetos dependiendo del bounded context|6 Hours|Diego Alonso|Done| 
-
-|TS05|Endpoint de Employees|T07|EmployeeController| Se realizarán todos los metodos CRUD en este endpoint que conectará nuestra base de datos| 4 Hours| Favio Landeo |Done| 
-|TS06|Endpoint de Farming|T08| FarmingController| Este endpoint servirá para poder obtener información de la granja y requiere métodos del crud| 3 Hours|Diego Alonso|Done| 
-
-- #### 5.2.3.3. Development Evidence for Sprint Review
-   [Poner información aquí]
-   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
-   |------------|--------|-----------|---------------------|--------------------|
-   |BackEnd|sergio|bc127d2|feature(sales):Finished Sales|06-06-2024|
-   |BackEnd|mateo|d937879|feature(crop):Finished Feature|07-06-2024|
-   |BackEnd|gustavo|c2086a9|feat(adviser): add adviser bounded context with notification and contract aggregates|05-06-2024|
-   |BackEnd|andrea|8efea10|feat: added content of backend|05-06-2024|
-   |BackEnd|favio|d8489dc|fix: fixed variable in command to update the employee details.|07-06-2024|
-
-- #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-   | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
-   |------------|--------|-----------|---------------------|--------------------|
-   |BackEnd|master|4544c27|testing(products):done testing in swagger|06-06-2024|
+| TS001  | 	Endpoint de Sales Order   | W01 | Agregar el bounded context sales order al backend. | Desarrollar el endpoint relacionado al flujo financiero en el backend. | 6 |  Gabriel Rivera | In Progress |
+| TS002  | 	Endpoint de Crops   | W02 | Agregar el bounded context crops al backend. | Desarrollar el endpoint relacionado a los cultivos en el backend. | 6 |  Favio Landeo, Diego Alonso | Done |
+| TS005 | Endpoint de Farmer	 | W03 | Agregar el bounded context profiles al backend. | Desarrollar el endpoint relacionado a los usuarios en el backend. | 8 |  Favio Landeo | Done |
 
 
-  
-- #### 5.2.3.5. Execution Evidence for Sprint Review
+#### 5.2.3.3 Development Evidence for Sprint Review
+
+Se desarrollaron los siguientes features y ramas:
+
+| Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | GrowWithMe-Backend | feature/README   | f60b7d5a88c81df89ad009f4a28b515e40a1f711 | fix: fixed subtitling in README. | 19/10/2024 |
+ | GrowWithMe-Backend | feature/crops | 3c08a4d4b8005d2ee3861a745dc98fd9623805bd | feat: added interfaces layer to crops bounded context. | 02/11/2024 |
+ | GrowWithMe-Backend | feature/profiles    | 8ed611e8628545f14355dda3fa0f7681e944d326 | fix: fixed naming endpoint and tag name. | 02/11/2024 |
+ | GrowWithMe-Backend | feature/sales  | c5f96b249aa20710827b52f30afb526c37999558 | feat(sales): added controllers for interface layer | 02/11/2024 |
+ | GrowWithMe-Backend | feature/shared  | 04b8642c7b97192d9c685b9e9c0c3451e4ac4921 | feat: added bounded shared that contains base project structure for classes, plus application configuration including physical naming strategy. | 19/10/2024 |
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+
+Se hizo el testing para la correcta compilación de la rama develop que contiene las demás ramas feature.
+
+- Evidencia del testeo del backend en la rama develop:
+
+![Sprint 3 test](assets/Sprint3Test1.png)
 
 
-- #### 5.2.3.6. Services Documentation Evidence for Sprint Review
-# Documentación de la API de Crop
+Se hizo la compilación del backend de forma local porque no se pudo lograr el despliegue en Microsoft Azure.
 
- Descripción
-La API de Crop permite gestionar los cultivos mediante operaciones CRUD (Crear, Leer, Actualizar y Eliminar). A continuación se detallan los endpoints disponibles y cómo utilizarlos.
+#### 5.2.3.5 Execution Evidence for Sprint Review
 
-Endpoints
+![Sprint 3 evidence](assets/Sprint3Evidence1.png)
 
- Obtener Todos los Cultivos
-**Método:** GET
- **URL:** `/api/crops`
-**Descripción:** Obtiene una lista de todos los cultivos.
- **Respuesta Exitosa (200):**
-  ```json
-  [
-    {
-      "cropid": 1,
-      "cropcode": "C001",
-      "currency": "USD",
-      "value": 1000
-    },
-    {
-      "cropid": 2,
-      "cropcode": "C002",
-      "currency": "EUR",
-      "value": 1500
-    }
-  ]
-```
-  
-- #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Se puede observar 3 endpoints: Consultants, Farmers y Crops. Se desarrollaron 
 
-  
-- #### 5.2.3.8. Team Collaboration Insights during Sprint
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Dentro del backend se encuentran los servicios de: Consultant User, Farmer User y Crops.
+
+- Consultant Users: Se presentan el query GetAllConsultantUsers, que retorna todos los usuarios consultores, GetConsultantUserByIdQuery que retorna un usuario consultor por su id, y por último el post CreateConsultantUserCommand que crea un nuevo usuario consultor.
+
+- Farmer Users: Se presentan el query GetAllFarmerUsers, que retorna todos los usuarios agricultores, GetFarmerUserByIdQuery que retorna un usuario agricultor por su id, y por último el post CreateFarmerUserCommand que crea un nuevo usuario agricultor.
+
+- Crops: Se presentan el query GetAllCrops, que retorna todos los cultivos, GetCropByIdQuery que retorna un cultivo por su id, y por último el post CreateCropCommand que crea un nuevo cultivo.
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 
 ---
-
-
-## 5.3 Validation Interviews
-- ### 5.3.1. Diseño de Entrevistas
-   Segmento 1:</br>
-   </br>
-   ¿Que te gustaría ver en una aplicación web?</br>
-   ¿Que te parece util para ti como agricultor en nuestra aplicación ?</br>
-   ¿Consideras que nuestra pagina ayudaría a tus cultivos a crecer?</br>
-   ¿Te gustaría recomendar alguna función ?</br>
-   
-  Segmento 2: </br>
-
-   ¿Que te gustaría ver en una aplicación web?</br>
-   ¿Que te parece util para ti como consultor en nuestra aplicación ?</br>
-   ¿Consideras que nuestra pagina ayudaría a tus contactos a crecer?</br>
-   ¿Te gustaría recomendar alguna función adicional? ?</br>
-
-   
-- ### 5.3.2. Registro de Entrevistas
-  Segmento 1:</br>
-
-Entrevista 1 :<br>
-  Nombre y apellidos: <br>
-
-  Distrito: <br>
-
-  Resumen:
-
- <br>
-
-  <br>
-
-Entrevista  2:<br>
-  Nombre y apellidos: <br>
-
-  <br>
-  Distrito: <br>
-
-  <br>
-  Resumen: 
-  <br>
-  <br>
-
-
-Entrevista 3 :<br>
-  Nombre y apellidos: <br>
-
-  <br>
-  Distrito: <br>
-
-  <br>
-  Resumen: 
-  <br>
-  <br>
-
-Entrevista 4 :<br>
-  Nombre y apellidos: <br>
-
-  <br>
-  Distrito: <br>
-
-  <br>
-  Resumen: <br>
-  <br>
-  <br>
-
-
-  
- Enlace de las entrevistas: 
-
- 
-## 5.4 Video About-the-Product 
-
-Link al video About-the-Product:
-
- 
-## 5.4 Video About-the-Team
-
-Link al video About-the-Team: 
 
 # Conclusiones
 
