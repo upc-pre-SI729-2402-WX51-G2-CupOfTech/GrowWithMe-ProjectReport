@@ -1610,9 +1610,6 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
     Resumen: Él es un estudiante de Ingeniería Agrónoma de 20 años y trabaja como practicante en una empresa del mismo rubro. Para él la interfaz es buena pero faltarían algunas características que ayuden a su trabajo.
 
-### 5.3.3 Evaluaciones según heurísticas
-
-
 
 ---
 
@@ -1640,3 +1637,7 @@ Link al prototipo en Figma: https://www.figma.com/design/izQq2vBaGARTkC7mDjc923/
 Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f-9867-89efcc6c60ce/edit?viewport_loc=-2052%2C-1841%2C25503%2C11665%2C0_0&invitationId=inv_13fbd611-80d3-43d5-87d7-1b7457985373
 
 Link a la Landing Page en Netlify: https://develop--si729-cup-of-tech-landing.netlify.app/
+
+Link al Trello: https://trello.com/b/vIkUf7Ld/sprints
+
+Link a la web app desplegada: https://grow-with-me.netlify.app
