@@ -1442,11 +1442,11 @@ Insights del repositorio del Frontend Web App:
 | Location                           | Reunión virtual a través de Discord                                                                                                                                                                                                                                                                                                       |
 | Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
 | Attendees                          | Landeo Simeón, Favio Sebastián, Alonso Garay, Diego Jesus                                                                                                                                                                                                                                                                                   |
-| Sprint n - 1 Review Summary        | Se realizó la división y desarrollo de los features de los endpoints necesarios.                                             |
-| Sprint n - 1 Retrospective Summary | Se desarrolló parcialmente el backend y se hizo la mejora de la frontend web app, así mismo como su despliegue.  |
+| Sprint n - 3 Review Summary        | Se realizó la división y desarrollo de los features de los endpoints necesarios.                                             |
+| Sprint n - 3 Retrospective Summary | Se desarrolló parcialmente el backend y se hizo la mejora de la frontend web app, así mismo como su despliegue.  |
 |                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
-| Sprint 1 Goal                      | La meta de este sprint es terminar el deploy del frontend web app y desarrollar parcialmente el deploy del backend.                                                                                                                                                                                                                           |
-| Sprint 1 Velocity                  | 10                                                                                                                                                                                                                   |
+| Sprint 3 Goal                      | La meta de este sprint es terminar el deploy del frontend web app y desarrollar parcialmente el deploy del backend.                                                                                                                                                                                                                           |
+| Sprint 3 Velocity                  | 10                                                                                                                                                                                                                   |
 | Sum of Story Points                | 10                                                                                                                                                                                                                                                                                         |
 
 
@@ -1488,7 +1488,7 @@ Se hizo la compilación del backend de forma local porque no se pudo lograr el d
 
 Se puede observar 3 endpoints: Consultants, Farmers y Crops. Se desarrollaron 
 
-#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
 
 Dentro del backend se encuentran los servicios de: Consultant User, Farmer User y Crops.
 
@@ -1498,8 +1498,20 @@ Dentro del backend se encuentran los servicios de: Consultant User, Farmer User 
 
 - Crops: Se presentan el query GetAllCrops, que retorna todos los cultivos, GetCropByIdQuery que retorna un cultivo por su id, y por último el post CreateCropCommand que crea un nuevo cultivo.
 
-#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
 
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+
+![Sprint3 Insights](assets/Sprint3Insight.png)
+
+## 5.3 Validation Interviews
+
+### 5.3.1 Diseño de Entrevistas
+
+### 5.3.2 Registo de Entrevistas
+
+### 5.3.3 Evaluaciones según heurísticas
 
 ---
 
