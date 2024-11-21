@@ -1583,7 +1583,7 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
 ### 5.3.2 Registo de Entrevistas
 
-Segmento Agricultores:
+##### Segmento Agricultores:
   
 Entrevista 1:
 
@@ -1598,18 +1598,23 @@ Entrevista 2:
   - Análisis: El entrevistado compartió sus expectativas para una aplicación web de apoyo agrícola. Le gustaría que incluyera una sección educativa con tutoriales y videos que expliquen desde conceptos básicos hasta temas avanzados de manejo de cultivos. También le sería útil una herramienta para planificar sus cultivos según el clima y la temporada, junto con un registro de actividades y una calculadora de costos para evaluar inversiones y ganancias. También cree que una aplicación así le daría confianza en la toma de decisiones agrícolas y sugiere además contar con un asesor virtual para resolver dudas rápidas. Como recomendación, propone añadir una red social para conectar con otros agricultores de su zona y un sistema de notificaciones para recordatorios clave, como el riego y la fertilización.
 
 
-Segmento Consultores:
+##### Segmento Consultores:
 
-  - Entrevista #1 - Abigail Pozo:
+Entrevista 1:
 
-    Link de la entrevista: https://youtu.be/jqUQzhydhpA
+  - Link de la Entrevista: https://youtu.be/jqUQzhydhpA
+  - Nombre: Abigail Pozo
+  - Análisis: 
 
     Resumen: Ella es una estudiante de 21 años de la carrera de Ingeniería Ambiental y trabaja como practicante en una empresa pequeña de agricultura. Le parece que la fuente de las letras son muy serias y la interfaz muy intuitiva.
 
-  - Entrevista #2 - Miguel Ramírez:
+Entrevista 2:
 
-    Link de la entrevista: https://youtu.be/Z98D-4dq5z4
-
+  - Link de la Entrevista: https://youtu.be/Z98D-4dq5z4
+  - Nombre: Miguel Ramírez
+  - Análisis:
+  - 
+  
     Resumen: Él es un estudiante de Ingeniería Agrónoma de 20 años y trabaja como practicante en una empresa del mismo rubro. Para él la interfaz es buena pero faltarían algunas características que ayuden a su trabajo.
 
 
