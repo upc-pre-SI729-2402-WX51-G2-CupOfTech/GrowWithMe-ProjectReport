@@ -1165,7 +1165,9 @@ Enlace de los diagramas en Structurizr: https://structurizr.com/share/97785/1690
 
 ### 4.7.1 Class Diagrams
 
-![ClassDiagram](assets/ClassDiagram.png)
+![ClassDiagram](assets/class-diagram-1.jpg)
+
+Enlace en Miro: https://miro.com/app/board/uXjVLB9l7n0=/?share_link_id=381417249583
 
 ### 4.7.2 Class Dictionary
 
