@@ -1137,17 +1137,23 @@ Link al prototipo en LucidChart: https://lucid.app/lucidchart/e3fd03dc-d5a4-483f
 
 ## 4.6 Domain-Driven Software Architecture
 
+Enlace de los diagramas en Structurizr: https://structurizr.com/share/97785/16901a11-481e-4ccc-93eb-05ba1c3f8491
+
 ### 4.6.1 Software Architecture Context Diagram
 
-![ContextDiagram](assets/ContextDiagram.png)
+![ContextDiagram](assets/c4-context-diagram.png)
 
 ### 4.6.2 Software Architecture Container Diagrams
 
-![ContainerDiagram](assets/ContainerDiagram.png)
+![ContainerDiagram](assets/c4-container-diagram.png)
 
 ### 4.6.3 Software Architecture Components Diagrams
 
-![ComponentsDiagram](assets/ComponentsDiagram.png)
+![CropComponentDiagram](assets/c4-crop-component-diagram.png)
+
+![IAMComponentDiagram](assets/c4-iam-component-diagram.png)
+
+![ProfileComponentDiagram](assets/c4-profile-component-diagram.png)
 
 ## 4.7 Software Object-Oriented Design
 
