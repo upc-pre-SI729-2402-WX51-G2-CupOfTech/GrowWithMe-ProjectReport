@@ -61,6 +61,12 @@
     <td> Landeo Simeón, Favio Sebastián <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus </td>
     <td> Se cambió los User Stories y se descompusieron en Tasks, además se añadieron las horas estimadas.  </td>
   </tr>
+    <tr>
+    <td align="center">TF</td>
+    <td>21/11/2024</td>
+    <td> Landeo Simeón, Favio Sebastián <br> Rivera Ayala, Gabriel Alejandro <br> Alonso Garay, Diego Jesus <br> Jeremy Paucar Meneses</td>
+    <td> Se hizo la correccion del product backlog, los sprint goals, se corrigio la landing page, se corrigio el backend y se subio los endpoints a Azure </td>
+  </tr>
 </table>
 
 ---
