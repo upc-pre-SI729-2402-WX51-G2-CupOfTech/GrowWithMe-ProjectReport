@@ -1586,6 +1586,40 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 ![Sprint3 Insights](assets/Sprint3Insight3.png)
 *InjustShin es Farid Briceño
 
+
+### 5.2.4 Sprint 4
+#### 5.2.4.1 Sprint Planning 4
+
+| Sprint #                           | Sprint 4                                                                                                                                                                                                                                                                                                                                      |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                                                    |
+| Date                               | 2024-11-19                                                                                                                                                                                                                                                                                                                                   |
+| Location                           | Discord                                                                                                                                                                                                                                                                                                       |
+| Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
+| Attendees                          | Landeo Simeón, Favio Sebastián, Alonso Garay, Diego Jesus, Gabriel Rivera, Jeremy Paucar                                                                                                                                                                                                                                                                                   |
+| Sprint n - 4 Review Summary        | Se realizó la división y desarrollo de los features de los endpoints necesarios y de las partes a mejorar del informe.                                             |
+| Sprint n - 4 Retrospective Summary | Se termino de desarrollar el backend y se hizo la mejora de la frontend web app, así mismo como su despliegue.  |
+|                                    | Sprint Goal, User Stories, Impact Mapping & Product Backlog                                                                                                                                                                                                                                                                                                                   |
+| Sprint 4 Goal                      |En este sprint, el objetivo es culminar el backend de la aplicación web, asegurando su despliegue en un entorno de pruebas en Azure. Al finalizar el sprint, los endpoints deben estar funcionales, documentados y accesibles desde el entorno de pruebas swagger.                                                                                                                                                                                                                            |
+| Sprint 4 Velocity                  | 10                                                                                                                                                                                                                   |
+| Sum of Story Points                | 10                                                                                                                                                                                                                                                                                         |
+
+
+#### 5.2.4.2 Sprint Backlog 4
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review
+
+#### 5.2.4.5 Execution Evidence for Sprint Review
+
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint
+
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1 Diseño de Entrevistas
