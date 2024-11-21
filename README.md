@@ -1583,39 +1583,38 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
 ### 5.3.2 Registo de Entrevistas
 
-##### Segmento Agricultores:
+#### Segmento Agricultores:
   
 Entrevista 1:
 
   - Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EVqzeflVredDiyhdZ8rJ9RQBxgIPavEjaoW8wboP5vlOvw?e=vkoipG
   - Nombre: Sebastián Espinal
+  - Edad: 22
   - Análisis: El entrevistado compartió sus impresiones sobre una aplicación web diseñada para agricultores y consultores. Destacó su interés en herramientas prácticas para aprender sobre el proceso de cultivo, como guías para principiantes, un calendario de tareas y acceso a asesorías personalizadas. Mencionó que le resultaría especialmente útil contar con información sobre semillas, fertilizantes y un sistema de registro para el seguimiento de sus cultivos. También considera que la aplicación podría mejorar sus resultados agrícolas si incluye recomendaciones adaptadas a su clima y suelo, además de una comunidad de aprendizaje con otros agricultores. Como sugerencia, propuso agregar alertas y recordatorios para el riego y fertilización, así como una función que prediga posibles plagas o enfermedades, lo cual le ayudaría a proteger sus cultivos de manera preventiva.
 
 Entrevista 2:
 
   - Link de la Entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221d014_upc_edu_pe/EeJUzLIml_hCvvHz5yQXwToBLeQoKkbLtp6ubxNtOdLZJg?e=WmzumK
   - Nombre: Renzo Catamayo
+  - Edad: 21
   - Análisis: El entrevistado compartió sus expectativas para una aplicación web de apoyo agrícola. Le gustaría que incluyera una sección educativa con tutoriales y videos que expliquen desde conceptos básicos hasta temas avanzados de manejo de cultivos. También le sería útil una herramienta para planificar sus cultivos según el clima y la temporada, junto con un registro de actividades y una calculadora de costos para evaluar inversiones y ganancias. También cree que una aplicación así le daría confianza en la toma de decisiones agrícolas y sugiere además contar con un asesor virtual para resolver dudas rápidas. Como recomendación, propone añadir una red social para conectar con otros agricultores de su zona y un sistema de notificaciones para recordatorios clave, como el riego y la fertilización.
 
 
-##### Segmento Consultores:
+#### Segmento Consultores:
 
 Entrevista 1:
 
   - Link de la Entrevista: https://youtu.be/jqUQzhydhpA
   - Nombre: Abigail Pozo
-  - Análisis: 
-
-    Resumen: Ella es una estudiante de 21 años de la carrera de Ingeniería Ambiental y trabaja como practicante en una empresa pequeña de agricultura. Le parece que la fuente de las letras son muy serias y la interfaz muy intuitiva.
+  - Edad: 21
+  - Análisis: Abigail Pozo, estudiante de Ingeniería Ambiental y practicante en una empresa del sector, evaluó la aplicación web presentada. Destacó su diseño visual e interactivo, resaltando la funcionalidad bilingüe (inglés y español), que facilita el acceso a usuarios locales y extranjeros. Consideró útiles las herramientas de monitoreo y gestión de contratos, especialmente para consultores y estudiantes interesados en compartir conocimientos y aplicar técnicas en su área profesional. Abigail señaló que la aplicación tiene el potencial de impulsar su carrera, tanto para generar ingresos adicionales como para colaborar con expertos y adquirir nuevas habilidades. Como recomendación, sugirió ajustar el tipo de letra y la posición de algunos botones para optimizar la experiencia del usuario, manteniendo una opinión positiva sobre el diseño general y las funcionalidades.
 
 Entrevista 2:
 
   - Link de la Entrevista: https://youtu.be/Z98D-4dq5z4
   - Nombre: Miguel Ramírez
-  - Análisis:
-  - 
-  
-    Resumen: Él es un estudiante de Ingeniería Agrónoma de 20 años y trabaja como practicante en una empresa del mismo rubro. Para él la interfaz es buena pero faltarían algunas características que ayuden a su trabajo.
+  - Edad: 20
+  - Análisis: Miguel Ramírez, practicante de Ingeniería de Agronomía, compartió su opinión sobre la aplicación web presentada. Resaltó la funcionalidad de cambio de idioma entre inglés y español, así como el sistema diferenciado de logueo y registro para agricultores y consultores. Consideró que las funciones de monitoreo y gestión de contratos son útiles, especialmente para realizar seguimiento a clientes y decidir la aprobación o rechazo de contratos según sea necesario. Como sugerencias, Miguel propuso reorganizar la disposición de la información para mejorar la visualización y recomendó incluir funciones adicionales, como mayor acceso a detalles de contratos, la posibilidad de enviar mensajes o notificaciones, y herramientas para facilitar la comunicación. Miguel destacó que la aplicación tiene el potencial de ser una herramienta valiosa en su carrera como consultor agrario, ayudándolo a expandir su red profesional y generar ingresos adicionales. Consideró que su implementación sería necesaria y beneficiosa para consultores en su rubro.
 
 
 ---
