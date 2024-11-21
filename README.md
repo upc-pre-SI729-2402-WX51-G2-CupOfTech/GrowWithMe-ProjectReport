@@ -1607,19 +1607,14 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
 #### 5.2.4.2 Sprint Backlog 4
 
-| Sprint #                           | Sprint 4                                                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                    | Sprint Planning Background                                                                                                                                                                                                                                                                                                                    |
-| Date                               | 2024-11-21                                                                                                                                                                                                                                                                                                                                   |
-| Location                           | Discord                                                                                                                                                                                                                                                                                                     |
-| Prepared By                        | Landeo Simeón, Favio Sebastián                                                                                                                                                                                                                                                                                                                |
-| Attendees                          | Landeo Simeón, Favio Sebastián, Alonso Garay, Diego, Jeremy Paucar Meneses Jesus                                                                                                                                                                                                                                                                                   |
-| Sprint n - 4 Review Summary        | Se realizo la integración del backend y frontend junto con la mejora continua.                                             |
-| Sprint n - 4 Retrospective Summary | Se desarrolló parcialmente el deploy del backend, mejora continua de capitulos anteriores, se mejoro en frontend.  |
-|                                    | Sprint Goal & User Stories                                                                                                                                                                                                                                                                                                                    |
-| Sprint 4 Goal                      | En este spring, el objetivo fue desarrollar e implementar los endpoints conectados al frontend, así como asegurar el deploy del backend en Azure, lo cual permite hacer despliegue de los agricultores asociados.                                                                                                                                                                                                                    |
-| Sprint 4 Velocity                  | 16                                                                                                                                                                                                                   |
-| Sum of Story Points                | 16                                                                                                                                                                                                                                                                                         |
+| User Story Id | Title | Work-Item/Task Id | Title | Description | Estimation(Hours) | Assigned To | Status |
+|---------------|-------|-------------------|-------|-------------|-------------------|-------------|--------|
+| TS001  | 	Endpoint de Sales Order   | W01 |Diseñar y desarrollar la interfaz de usuario para el cierre de sesión. | 7 |  Gabriel Rivera | Done |
+| TS002  | 	Endpoint de Crops   | W02 | Implementar la lógica de cierre de sesión en el backend y manejar la expiración de tokens. | 5 |  Favio Landeo, Diego Alonso | Done |
+| TS005 |  Frontend farmer	 | W03 | Crear la interfaz de usuario para mostrar las notificaciones de recordatorio a los agricultores. | 4 |  Favio Landeo | Done |
+| TS006 | Endpoint Farmer	 | W04 |Implementar la interfaz para cancelar el plan de suscripción. | 8 |  Gabriel Rivera | Done |
+| TS007 | Frontend farmer	 | W05 | Implementar interfaz para desplegar los datos de los agricultores. | 6 |  Favio Landeo | Done |
+
 
 #### 5.2.4.3 Development Evidence for Sprint Review
 
