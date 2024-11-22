@@ -216,6 +216,9 @@ TP1 <br> Apliqué la comunicación para realizar los puntos señalados en la ret
           <br>
 TB2 <br> Me comuniqué en las reuniones con mi equipo para dividirnos el trabajo y no tener complicaciones para la entrega.
           <br>
+<br> 
+          TF1 <br> Apliqué los mensajes de texto para comunicar y ayudar a dividir los avances en los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br
 <br>
 <strong> Paucar Meneses, Jeremy Alion </strong> <br>
 TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo para cumplir con la fecha límite, demostrando tanto eficacia como compañerismo.
@@ -266,6 +269,12 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
           TB1 <br> Aprendí a comunicarme por escrito mediante Whatsapp con mi grupo para llegar a un acuerdo donde podamos realizar conjuntamente el proyecto.
           <br> 
           TP1 <br> Apliqué los mensajes de texto para comunicar y ayudar a dividir los avances en los puntos señalados en la retroalimentación del profesor y en el sprint 2.
+          <br>
+          <br> 
+          TB2 <br> Me comuniqué en las reuniones con mi equipo para dividirnos el trabajo y no tener complicaciones para la entrega.
+          <br>
+          <br> 
+          TF1 <br> Apliqué los mensajes de texto para comunicar y ayudar a dividir los avances en los puntos señalados en la retroalimentación del profesor y en el sprint 2.
           <br>
           <br>
           <strong> Paucar Meneses, Jeremy Alion </strong> <br>
