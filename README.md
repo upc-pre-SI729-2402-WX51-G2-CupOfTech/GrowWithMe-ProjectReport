@@ -1620,18 +1620,72 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
 #### 5.2.4.3 Development Evidence for Sprint Review
 
+Durante este sprint se complementaron las ramas develop y posteriormente el merge a las ramas main para el deploy.
 
+ | Repository | Branch | Commit Id | Commit Message Body | Commited on (Date) |
+ |------------|--------|-----------|---------------------|--------------------|
+ | GrowWithMe-Backend | develop   | bc8e3071d1a5d26378d6a62cee2a213e91eebcc6 |  Merge branch 'feature/iam' into develop | 21/11/2024 |
+ | GrowWithMe-Backend | main   | cb189860442e49ad6ce8aafe9d6360a94145226c | Merge branch 'develop' | 21/11/2024 |
+ | GrowWithMe-Frontend | develop | 24ddc062a2a0c7a16f9869d5355d64ce6f2e63fb | Merge branch 'feature/iam' into develop | 21/09/2024 |
+ | GrowWithMe-Frontend | main | 6313e5b6cb61339ed43ff893204c9b6f0d994fb9 | Merge branch 'develop' | 21/09/2024 |
+ | GrowWithMe-Landing | develop | 2efa1fa2c02b99a5486c6bb0301ac1e74303d489 | feat: Added View Video About The Product & Team | 21/09/2024 |
+ 
+ Commits en GrowWithMe-Landing:
+
+ ![Sprint 4 evidence](assets/Sprint4Evidence.png)
+
+ Commits en GrowWithMe-Backend:
+
+![Sprint 4 evidence](assets/Sprint4Evidence1.png)
+
+ Commits en GrowWithMe-Frontend:
+
+![Sprint 4 evidence](assets/Sprint4Evidence2.png)
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review
 
+En el portal de Azure se observa los pasos que se hicieron para lograr el despliegue completo del backend:
+
+![Sprint 4 test](assets/Sprint4Testing.png)
+
+Se puede observar que la operación del despliegue fue Exitosa.
+
+![Sprint 4 test](assets/Sprint4Testing1.png)
+
 #### 5.2.4.5 Execution Evidence for Sprint Review
+
+Se puede observar que en la parte inferior derecha del Overview de la Web App en Azure dice Exitosa.
+
+![Sprint 4 execution](assets/Sprint4Execution.png)
+
+También se muestra el swagger-ui del Backend:
+
+![Sprint 4 execution](assets/Sprint4Execution1.png)
+
+Aquí están todas nuestros endpoints:
+
+![Sprint 4 execution](assets/Sprint4Execution2.png)
 
 #### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
+Dentro del backend se encuentran un nuevo servicio: IAM.
+
+- IAM: Se presenta un aggregate User con parámetros email y password. Se integró Bearer Auth y JSON Web Token, que junto a Open API Documentation se creó el endpoint authentication. Este endpoint sirve para el sign-in y sign-up.
+
 #### 5.2.4.7 Software Deployment Evidence for Sprint Review
 
-#### 5.2.4.8 Team Collaboration Insights during Sprint
+![Sprint 4 execution](assets/Sprint4Execution.png)
 
+![Sprint 4 execution](assets/Sprint4Execution1.png)
+
+Se muestran el servicio de Backend desplegado.
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint
+Insights Backend:
+![alt text](assets/image.png)
+
+Insights Frontend:
+![alt text](assets/image2.png)
 
 ## 5.3 Validation Interviews
 
