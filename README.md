@@ -197,7 +197,9 @@ TB1 <br> En esta entrega, aprendí a comunicarme de manera oral con mi equipo me
 TP1 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar el sprint 2 y el frontend con éxito.
 <br>
 TB2 <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar parte del sprint 3 y avanzar la primera versión del backend.
-<br>		
+<br>
+TF <br> Para esta entrega aprendí a ser más asertivo en la comunicación para terminar con el desarrollo del informe y landing page.
+<br>
 <br>
 <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
 
@@ -235,6 +237,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         TP1: Concluimos que para esta entrega desarrollamos mejor la habilidad de comunicación oral para expresar las mejoras y la retroalimentación del profesor.
 	<br>
 	TB2: Concluimos que para la TB2 aplicamos la buena comunicación para avanzar con la entrega respectiva a tiempo.
+	<br>
+	TF: Concluimos que para la TF aplicamos la buena comunicación para terminar con la entrega respectiva a tiempo.
         </td>
     </tr>
     <tr>
@@ -246,6 +250,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
 	  TP1 <br> Apliqué los mensajes de texto y reuniones de voz para comunicar los avances que ibamos realiazando para los endpoints y correcciones del informe.
           <br>
 	  TB2 <br> Apliqué los mensajes de texto y para comunicar los avances que ibamos realizando para terminar el informe para esta entrega.
+          <br>
+	  TF <br> Para esta entrega aprendí a tomar la iniciativa para dividir el trabajo para terminar con el desarrollo completo del informe.
           <br>
           <br>
           <strong> Briceño De La Cruz, Farid Sebastian </strong> <br>
@@ -280,6 +286,8 @@ En esta entrega, pude cooperar y coordinar dentro del equipo para desarrollar un
         TP1: Concluimos que para esta entrega aplicamos mucho mejor la comunicación escrita para dividirnos los features y acabar con efectividad.
 	<br>	
 	TB2: Concluimos que para esta TB2 que pudimos avanzar el desarrolo con efectividad al momento de comunicarnos por escrito.
+	<br>	
+	TF: Concluimos que para esta TF que pudimos avanzar el desarrollo completo con efectividad al momento de comunicarnos por escrito.
          </td>
     </tr>
 </table>
