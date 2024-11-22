@@ -1620,6 +1620,8 @@ Link de la web app desplegada: https://grow-with-me.netlify.app/
 
 #### 5.2.4.3 Development Evidence for Sprint Review
 
+
+
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review
 
 #### 5.2.4.5 Execution Evidence for Sprint Review
@@ -1714,3 +1716,5 @@ Link a la Landing Page en Netlify: https://develop--si729-cup-of-tech-landing.ne
 Link al Trello: https://trello.com/b/vIkUf7Ld/sprints
 
 Link a la web app desplegada: https://grow-with-me.netlify.app
+
+Link al backend desplegado: https://grow-with-me-dmeaaadkepeqcffn.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/
